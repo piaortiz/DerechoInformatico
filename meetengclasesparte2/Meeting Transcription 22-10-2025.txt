@@ -1,0 +1,474 @@
+Meeting Transcription 22-10-2025
+Meeting started: Oct 22, 2025, 7:04:00 PM
+Meeting duration: 44 minutes
+Meeting participants: Diego Javier Villaverde, Fernando Viale, Franco Emmert, 
+Héctor Daniel Colman Sosa, Marco Sebastián Ferraro Manfredi, María Florencia 
+Liendro, Matias Emanuel Borja, Mauro Sebastian Fernandez, Maximiliano Cassol 
+Montagner, Maximiliano Ezequiel Serna, Nicolás Di Maggio
+View original transcript at Tactiq.
+Transcript
+00:00 María F.L.: Buenas, cómo están?
+00:08 Maximiliano C.M.: Bueno buenas
+00:10 María F.L.: Cómo andan tanto tiempo parece que pasó un montón para mí 
+ya los extrañaba. Cómo están?
+00:27 Franco E.: callados
+00:30 Héctor D.C.S.: súper súper bien
+00:33 María F.L.: Hola Héctor Hola Franco Franco dice que están callados sí es 
+verdad Están callados si se casan, o sea lo peor que va a pasar. Es que nos 
+vamos a aburrir todo, no vamos a aburrir, así que bueno.
+00:46 Mauro S.F.: buenas
+00:57 Franco E.: (soy yo o cambiaron un poco la interfaz de esto?)
+01:04 María F.L.: fecha de recuperatorio: 5/11/2025
+01:07 María F.L.: Voy a poner a grabar. Ahora sí, buenas tardes a todos Cómo 
+están tanto tiempo. hablen
+01:29 Mauro S.F.: Buenas buenas, cómo va?
+01:29 Fernando V.: Buenas Todo bien, por acá Cómo andan.
+01:32 María F.L.: Qué bueno, qué bueno escucharlos. Me van a alegrar la tarde y 
+yo también a ustedes bueno. Chicos, ya tengo la fecha de recuperatorio para 
+aquellas personas que no se01:46 Franco E.: Bien, profe. No puedo hablar en donde estoy ahora :(
+01:47 María F.L.: presentaron o bueno, las que se presentaron y no les fue bien o 
+bueno. Cualquiera cualquiera sea la razón por la cual el primer examen no fue 
+aprobado acá les dejo Va a ser el miércoles cinco del once cinco de noviembre, 
+va a ser la fecha de recuperatorio a las siete de la tarde por acá. Va a ser con el 
+mismo formato que el primer examen? Y probablemente vas a durar 25 minutos 
+30 minutos lo mismo que el primer examen sí Una vez que se entrega el examen 
+directamente esa persona se retira de la llamada y no hay clases y voy a repetir 
+una vez más que la duración del examen no tiene nada que ver con la duración de 
+la clase Por ende la clase dura dos horas, pero el examen no dura dos horas dura 
+entre 25 y 30 minutos al menos en el recuperatorio y no voy a recibir ningún 
+examen fuera de horario, sí, creo que esta es la quinta vez que lo digo pero 
+bueno, el público se va renovando seguramente Así que para que después no 
+haya ninguna sorpresa y también, Obviamente que los exámenes tienen que estar 
+hechos con el mail distea, sí.
+03:22 María F.L.: dicho Todo esto Hoy vamos a empezar con un nuevo tema, sí 
+que es la protección de datos personales respecto de la clase anterior tiene 
+alguien tiene alguna duda. no hay problema Franco Nadie tiene ninguna duda 
+perfecto. Bueno hoy vamos a hablar un tema que a mí me resulta muy muy 
+interesante y tiene que ver con nuestra privacidad sí sobre todo la privacidad de 
+nuestros datos personales dentro de datos personales vamos a ver también los 
+datos sensibles Yo me pregunto.
+04:12 María F.L.: A ver qué entienden por datos personales participemos en la 
+clase, que es realmente muy interesante este tema.
+04:28 Franco E.: Nombre y apellido
+DNI
+Dirección
+04:28 Mauro S.F.: No sé nombre apellido dni, dirección email.
+04:31 Franco E.: por nombrar un par
+04:32 María F.L.: Bien, muy bien, Esos son los datos personales y los datos 
+sensibles alguien se imagina que puede ser.
+04:42 Matias E.B.: los códigos de la tarjeta profe
+04:47 María F.L.: los códigos de la tarjeta Como datos sensible o como dato personal
+04:55 Franco E.: Detalles médicos
+04:56 Héctor D.C.S.: Unas dos sensibles es la dirección de el domicilio de una 
+persona.
+05:03 María F.L.: Bien.
+05:05 Franco E.: historial médico*
+05:05 María F.L.: bueno
+05:06 Héctor D.C.S.: Busco una persona por su dni, su domicilio no me salta
+05:11 María F.L.: Bien.
+05:11 Héctor D.C.S.: Si busco a una persona por su patente tampoco me salta la 
+patente del auto, no?
+05:11 Franco E.: antecedentes penales
+05:18 Héctor D.C.S.: solamente
+05:18 María F.L.: Bueno, sin embargo sin embargo está bien que la dirección 
+nuestro nombre y apellido dni, estado estado civil tengo que ver con los datos 
+personales. Está perfecto Ahora yo me voy a voy a tomar como ejemplo acá lo 
+que comentó Franco
+05:36 Franco E.: patrimonio
+05:39 María F.L.: en el chat es así. Una historia clínica es un dato sensible sí datos 
+sensible, por ejemplo, podrían ser que ya los vamos a ver. Datos sensibles está 
+vinculado con con mi religión con mi sexualidad. Qué otra cosa más podría hacer?
+06:10 Marco S.F.M.: alineación politica
+06:10 María F.L.: Les voy a poner como ejemplo, lo que comentó acá tal cual lo 
+que dijo Marco también con con aquel partido político que yo empatice. Por 
+ejemplo si yo soy portadora de hiv es un dato sensible sí que puede generar 
+probablemente un daño en mi vida, si de repente alguien toma conocimiento o no, 
+pero en líneas generales sí tengan en cuenta que hoy por ejemplo, ya estamos en 
+el 2025, pero fíjense que de repente ser homosexual si bien está naturalizado 
+hace años atrás no estaba bien visto y mucho menos decir soy portador de h&b, 
+que no es lo mismo que decir soy diabética. No es lo mismo.
+07:13 María F.L.: o sea Es como como que la bisexualidad en líneas generales está 
+vinculada con el hiv. O sea, por eso Lamentablemente está mal visto por ahora. 
+Yo creo que por ahora seguimos con eso hay mucha gente que lo ve muy mal es o sea, incluso hay discriminación respecto de eso. Alguien quería hablar? Bueno, 
+nadie quería hablar retomando. Esto de la protección de datos personales sí, 
+sinceramente a todos nos gusta.
+08:05 María F.L.: mantener bajo privacidad ciertos aspectos de nuestra vida 
+Entonces, para eso tenemos que ver que hay una ley que es la 27.483. Qué es lo 
+que hizo fue aprobar un convenio para la protección de las personas con 
+respecto al tratamiento automatizado de datos de carácter personal Sí o sea lo 
+que va a proteger justamente. Es como se tratan esos datos personales cuando 
+salen de nuestra boca, sí. Obviamente estamos hablando de que nosotros lo que 
+hacemos Es brindar O sea que hay consentimiento brindar nuestros datos 
+personales para eso. Ahora vamos a ir viendo, Qué pasa cuando nosotros 
+brindamos nuestros datos personales.
+09:01 María F.L.: Y este convenio como les decía Busca garantizar el respeto de 
+los derechos y las libertades fundamentales especialmente el derecho a la vida 
+privada Sí qué es lo que a nosotros nos interesa cuando nosotros brindamos un 
+una información respecto de nuestra persona Bueno lo que vamos a querer es 
+que ese tratamiento sea justo Sí si nosotros brindamos cierta información. Tiene 
+que haber una razón por la cual nosotros la brindamos. Queremos que si yo te 
+brindo esa información vos la verdad es que la conserves no la divulgas sea cual 
+sea.
+09:40 María F.L.: entonces Sí, te escucho.
+09:49 Héctor D.C.S.: Sí profe, Qué tal con respecto al patrimonio neto de una 
+persona, eso es entiendo que es confidencial Pero qué sucede en los casos 
+cuando se sabe a público conocimiento dice, no sé el patrimonio de esta persona 
+es tanta plata el patrimonio de esta empresa tanta plata, por qué?
+10:06 María F.L.: Sí primero
+10:08 Héctor D.C.S.: Me explico. Me explico.
+10:12 María F.L.: Sí o sea, vos querés saber por qué se divulga el patrimonio de 
+determinadas personas sería así.
+10:19 Héctor D.C.S.: Sí por ejemplo de una empresa se dice no sé las acciones del 
+patrimonio también Creo que es así no sé si será verdad O si tiene otra 
+connotación el patrimonio que están diciendo sobre Esa esa empresa o esa 
+persona.10:35 María F.L.: bueno
+10:35 Héctor D.C.S.: No sé, por ejemplo Bill Gates dice Bueno y tiene 900 millones 
+de dólares. Okay por qué
+10:42 María F.L.: Bueno Sencillamente porque las sociedades al menos acá en 
+Argentina te digo están todas registradas si en el caso de capital en la igj O sea y 
+vos cuando cuando constituís una sociedad tenés que poner el patrimonio de tu 
+sociedad y obviamente a fin de año se hace un balance y tenés que presentar 
+declaraciones juradas.
+11:09 Héctor D.C.S.: Ah ok Está bien eso para todas las empresas O sea la misma
+11:15 María F.L.: Cualquiera sa srl. La la unipersonal vos Siempre tenés que 
+declarar esas cosas, o sea, yo, por ejemplo, el año pasado hice una sociedad mía. 
+No me acuerdo si es una srl y tuve que declarar cómo iba a estar constituida la 
+sociedad la sociedad Más allá del de los socios, tengo que poner el patrimonio 
+Con qué comienzo y después todos los años obviamente tenés que a fin de año.
+11:54 María F.L.: Mostrar lo que lo que vos ganaste Más allá de hacerlo todos los 
+meses
+11:58 Héctor D.C.S.: Está bien, pero eso no puede quedar privado yo, por ejemplo 
+usted no quiere Mostrar su patrimonio. Yo le puedo buscar y encontrarlo quién, 
+quién me cubre eso?
+12:07 María F.L.: sí No, el que vos entrás directamente donde están en donde 
+están constituidas las sociedades, vos podés Buscar por sociedad y ahí te figuran 
+todas las sociedades crls, sa el nombre Cuáles son los socios las acciones que 
+tiene cada uno.
+12:29 Héctor D.C.S.: Ok cada uno hace una si hace una sociedad sabe que está 
+ligado a esa a ese protocolo a ese a esa ley.
+12:39 María F.L.: porque cuando vos constituís en la sociedad tenés que tenés 
+que presentarlo en el En el boletín oficial va a estar, va a estar publicado. Eso está 
+publicado, es acceso público, vos buscas una sociedad. No sé si en la página 
+elige J está, pero pero sí. Sí sí, sí, después obviamente, o sea más allá que vos 
+arranques con Diez mil pesos y después eso va incrementando Pero bueno para 
+eso están las declaraciones juradas.
+13:16 María F.L.: continuo A ver, yo les venía diciendo que para que nosotros. 
+Vamos a tener una protección del tratamiento de nuestros datos personales cuando nosotros los ofrezcamos y en algunos casos, vamos a ver que nosotros 
+no nos ofrecemos que ya las empresas pueden adquirirlas Sí ahora tenemos que 
+entender además. Cuál es la parte. Íntima para nosotros y Cuál es la parte que 
+puede ser pública, Sí qué es lo que tiene que respetar la sociedad que es lo que 
+tiene que respetar el estado Quiénes tienen que respetar nuestra privacidad Y 
+por qué? Y sobre todo Qué es lo que nosotros vamos a considerar nuestra parte 
+íntima nuestra esfera íntima, a ver, díganme ustedes, qué es lo que consideran? 
+Esfera íntima, qué significaría para ustedes? qué implicaría
+14:37 Héctor D.C.S.: la información de los familiares de los hijos de Los menores 
+No se puede. No puede estar, no se puede. entiendo que eso
+14:49 María F.L.: Y Pero si yo por ejemplo te cuento que mañana es el 
+cumpleaños de mi hija que vivo con mi hija.
+14:56 Héctor D.C.S.: bueno
+14:56 María F.L.: Eso te parece que es muy íntimo.
+14:59 Héctor D.C.S.: Depende para lo que uno tome como íntimo pero si está si 
+está establecido como ley bueno Ya se sabe Pero no sé, no estoy tirando porque 
+no sé.
+15:09 María F.L.: Sí, esto. Esto es muy esto es muy relativo, Sí o sea lo que es la 
+empera íntima tiene que ver con con mi vida privada Sí entonces la efra íntima 
+tiene que ver con la vida Privada de cada uno. Entonces con todo lo que yo 
+puedo hacer dentro de mi casa dentro de mi casa de las puertas para dentro es 
+mi esfera íntima y todo lo que eso implica sí.
+15:39 María F.L.: Y eso tiene que ver también con la información, entonces vamos 
+a partir de la base que cuando hablamos de datos personales de protección de 
+datos personales también lo vamos a tener ligado con nuestra intimidad con con 
+nuestra vida privada entonces. Vamos a la otra pregunta, qué es la 
+autodeterminación informativa Bueno es un derecho que tenemos Nosotros sí 
+que vamos a decidir en la medida y la forma en que vamos a brindar, información 
+Sí A quién a un tercero ese tercero puede ser un policía, puede ser una 
+administrativa o un hospital? Puede ser en el colegio de los nenes en un trabajo, 
+sí, no sé, por ejemplo, en un lugar donde nos convocaron para una encuesta.
+16:35 María F.L.: Entonces tenemos que cuando hablamos de datos personales 
+hablamos que eso pertenece a nuestra intimidad a nuestra vida privada sí y que nosotros vamos a tener el derecho, sí o sea, la autodeterminación informativa 
+Entonces el derecho. De Sencillamente elegir decidir qué información vamos a 
+brindar, respecto de nosotros. Y también tenemos el derecho de saber qué es lo 
+que van a hacer con esa información que yo estoy ofreciendo, sí.
+17:14 María F.L.: Entonces yo tengo el derecho de controlar la información que 
+voy a brindar, respecto de mí y también tengo el derecho de llevar un control 
+respecto de lo que se va a hacer con esa información sí, dónde la van a difundir? 
+Obviamente que voy a voy a pedir confidencialidad Sí esa es la 
+autodeterminación informativa entonces con esto les quiero decir que cuando 
+hablamos de datos personales nosotros podemos ofrecerla podemos darlas y 
+vamos a una encuesta no sé me llaman para una encuesta de pañales bueno Yo 
+tengo la autodeterminación informativa, tengo el derecho.
+18:01 María F.L.: De decidir si le voy a brindar, información o determinada 
+información a la persona que me hace la encuesta Sí ahora. Yo voy a llevar el 
+control de esa información que le di Que no la divulgue sí que mantenga la 
+confidencialidad y que por ejemplo, si me dice la puedo subir a Instagram la 
+puedo subir a Facebook Yo le puedo decir No mira, sabes qué hasta acá llegó yo, 
+pero no quiero que expongas todos mis datos ninguna red social punto sí, alguien 
+quería decir algo.
+18:44 María F.L.: nadie bueno, continuamos a ver, bueno, acá fíjense que yo 
+recién les había comentado, que por ejemplo al ser un dato sensible, No sé mi 
+orientación sexual la religión Con la cual me siento identificada o el partido 
+político son temas como muy muy delicados no Entonces si de repente les doy un 
+ejemplo pero Pero hoy por hoy como estamos en el país con esto de que yo soy K 
+Yo soy de mi ley y demás eso a veces puede generar una confrontación Y puede 
+que nos traiga problemas en algún lugar Si queremos buscar un trabajo o no sé o 
+queremos pertenecer a un grupo de de papás o lo que fuere.
+19:45 María F.L.: Puede que nos traiga un problema lo mismo que si yo por 
+ejemplo, digo que no sé siendo hombre, digo que Soy homosexual capaz, que si 
+quiero trabajar, No sé de jugador de fútbol y por ahí hay cierta discriminación. 
+Entonces, con esto quiero decir que las consecuencias de la circulación de 
+nuestros datos personales o los datos sensibles. Pueden generar pueden lesionar 
+nuestros derechos? Sí, tanto personalísimos como patrimoniales es decir que yo, por ejemplo, No sé de repente imagínense miren lo que les voy a decir.
+20:35 María F.L.: hay no sé un jugador de fútbol muy conocido, no sé Di María 
+qué sé, yo no los conozco, pero Di María ustedes lo tienen como hombre de 
+familia como una buena persona y demás y de repente no sé, dicen que Es gay, lo 
+van a seguir amando Pero probablemente en algo le pueda lo pueda llevar a 
+perjudicar. Sí entonces a eso voy porque si lo perjudica laboralmente obviamente 
+va a sentir perjudicado su derecho patrimonial. Sí se va entendiendo lo que lo que 
+les quiero decir. Héctor dice que sí, el resto que hice.
+21:26 Mauro S.F.: siempre seguimos hablando de la ley cuatro, ochenta y tres era 
+Es todo lo que alcance que tiene.
+21:34 María F.L.: Cómo
+21:35 Mauro S.F.: Empezó nombrando la ley 27.483. Hasta ahora es todo lo que 
+abarca, no por las dudas.
+21:43 María F.L.: No, no, no todavía ni llegamos a la ley.
+21:45 Mauro S.F.: Ah yo pensé que
+21:48 María F.L.: Ahora estamos estamos hablando sobre aspectos generales, ya 
+vamos a llegar a la ley, que vamos a ver algunos artículos. Sí, a mí lo que me 
+interesa saber hasta ahora, ese ustedes pueden entender la dimensión que tiene 
+el brindar nuestros datos personales. Sí, a mí lo que me interesa que ustedes 
+sepan que hay un convenio. Sí que hay un convenio que va a proteger el 
+tratamiento de nuestros datos personales Sí por qué? Porque nos va a proteger a 
+nosotros nos va a proteger nuestra dignidad nuestro honor. Sí es eso lo que se 
+quiere garantizar ahora.
+22:26 María F.L.: Ahora lo que estamos hablando es que nuestros datos 
+personales tienen que ver con nuestra intimidad y también con nuestra vida 
+privada, sí que ahora ya vamos a ir más en detalle con eso, que cuando nosotros 
+brindamos una información respecto de nuestros datos personales y hablo no tan 
+solo presencial, sino también a través de algún medio tecnológico. Sí, no sé yo, 
+por ejemplo, pongo todos mis datos personales porque me hacen completar para 
+no sé para para registrarme en una página de salud Sí entonces cualquiera sea el 
+medio por el cual, nosotros brindemos esos datos. Sí nos estamos exponiendo de 
+alguna manera a que rompan con esa confidencialidad que se divulguen datos 
+que no son correctos y Eso nos provoque un daño a nosotros en nuestra persona o en nuestra economía hablando en términos Criollos sí.
+23:25 María F.L.: ahora bien, para ir más en detalle como ir más al hueso sobre 
+sobre nuestra intimidad Tenemos que sí o sí remontarnos a la Constitución 
+nacional en primer lugar vamos a hablar del artículo 18 19 43 75 de la 
+Constitución nacional después. Tenemos la ley de protección de datos 
+personales veinticinco mil tres veintiséis, el código civil y el código penal estos 
+artículos y estas estas esta ley que es la de protección de datos personales, que 
+ya vamos a ver algunos artículos más los dos códigos hablan sobre cómo se va a 
+proteger nuestros datos personales, Sí o sea todo esto que ven acá es lo que va a 
+regular nuestra intimidad y los datos personales.
+24:30 María F.L.: Obviamente que todo esto comienza de la Constitución 
+nacional, por eso es que vamos a comenzar con la Constitución nacional artículo 
+18 y 19. Acá veo que es un montón para leer, pero cuando lo leamos les aseguro 
+que le va a encantar esto por qué les va a gustar porque justamente acá les voy a 
+hacer algunas preguntas el artículo 19, lo que dice es que las acciones privadas 
+de los de los hombres que no atenten contra el orden y la moral pública ni 
+perjudiquen a terceros están reservadas a Dios y exentas de las autoridades de 
+los magistrados.
+25:11 María F.L.: Ningún habitante de la nación puede ser obligado a hacer lo que 
+la ley no manda ni privado de lo que ella no prohíbe. entonces Qué se entendió 
+por esto? qué entendieron Si no entendieron me lo dicen.
+25:38 Héctor D.C.S.: Lo que no está en la ley escrita se puede hacer?
+25:43 María F.L.: Por ahí. Qué más? Bueno vamos a optimizar el tiempo acá lo que 
+dice es Que todo lo que hagamos las personas dentro de nuestra casa. 
+Pertenecen a nuestra intimidad. Entonces nadie nadie puede venir a a juzgarme 
+por algo? Sí es decir. Nosotros en nuestro hogar dentro de nuestra casa de las 
+puertas para adentro podemos hacer lo que querramos, sí. Porque es nuestra 
+intimidad. Entonces no puede venir a un juez a juzgarme por lo que yo hago 
+dentro de mi casa.
+26:44 María F.L.: En todo caso el juzgamiento lo voy a tener de Dios pero no de 
+un juez Ese es el principio general la excepción porque acá habla de una 
+excepción. Es cuando yo dentro de mi casa hago cosas que van a perjudicar a un 
+tercero o a la sociedad, entonces ahí se entendió mejor.27:09 Matias E.B.: Sí profe
+27:11 María F.L.: O sea que yo, por ejemplo en mi casa Puedo producir o puedo 
+comercialidad comercializar pornografía infantil total, nadie me va a decir nada. 
+Es así o no?
+27:26 Héctor D.C.S.: Y claramente, no?
+27:29 María F.L.: O sea, yo en mi casa, puedo vender droga.
+27:29 Héctor D.C.S.: Solamente no.
+27:34 María F.L.: No hay problema con eso o sí.
+27:36 Héctor D.C.S.: Sí pero hace mal.
+27:39 María F.L.: Puedo vender drogas en mi casa?
+27:44 Mauro S.F.: poder se puede
+27:45 Héctor D.C.S.: A verlos.
+27:45 Matias E.B.: Se entiende que sí.
+27:45 Marco S.F.M.: obviamente no
+27:47 Maximiliano E.S.: No profe.
+27:50 María F.L.: no
+27:51 Maximiliano E.S.: Porque la ley lo prohíbe.
+27:55 María F.L.: Por más que esté en mi casa digo, hay cuestiones Sí hay 
+cuestiones que o sea, como poder tengamos en cuenta esto. Yo en mi casa 
+puedo tener una fábrica de de cocaína, puedo tener una plantación de marihuana, 
+puedo tener un montón de hongos? Qué sé, yo puedo tener una biblioteca, no 
+obviamente que no puedo tener una biblioteca en mi casa de Revistas 
+pornográficas de menores puedo tener una computadora que sea 
+específicamente de pornografía infantil? Digo en mi casa, quién va a venir a a 
+juzgarme por eso.
+28:42 Héctor D.C.S.: Pero ella se afecta a un tercero o se utiliza imágenes de un 
+tercero o de menores o cosas ilegales Por más que la mano la manipulación de 
+cosas ilegales.
+28:53 María F.L.: Muy bien, muy bien, así es chicos entonces para que se 
+entienda cuando
+28:59 Nicolás D.M.: Y si tenes el reprocan?
+29:01 María F.L.: hablamos. Qué es eso Nicolás reprocan, Qué es
+29:13 Héctor D.C.S.: debe ser como Clonazepam creo29:17 Maximiliano E.S.: Que te permite cultivar marihuana, te permite la tenencia y 
+el cultivo de de hasta seis creo plantas de marihuana en tu en tu casa y tener una 
+tenencia. Vos podés ir por la calle con frascos y plantas de marihuana.
+29:33 María F.L.: Bueno pero hoy fíjense que también el tema antes estaba mal 
+visto el consumo
+29:35 Franco E.: una cosa es tenencia y otra COMERCIALIZACION
+29:37 María F.L.: de marihuana hoy es como es lo más normal y aparte otra cosa 
+está bastante además de estar aceptado hay mucha gente que también cultiva 
+porque vende por medicina
+29:54 Franco E.: sorry por el capslock
+29:55 Maximiliano E.S.: Claro, como que lo regula digamos.
+29:59 María F.L.: Claro igual no estoy al tanto de eso, eh? Así que no les quiero 
+decir una cosa que no es hasta ahí llego, porque no tengo idea de Cuál es el 
+permitido y demás. Pero bueno nada, o sea, acá chicos, el tema es el siguiente. 
+Ojo con lo que se hace dentro de casa Sí porque ya les digo. Así como hablamos 
+de datos personales, no podía dejar de pasar por este tema que tiene que ver con 
+nuestra intimidad.
+30:34 María F.L.: Y qué pasa esto está vinculado con el artículo 18? Como les 
+decía artículo 19 de todo eso que que acabo de leer cuando hablamos de 
+intimidad hablamos de que todo lo que nosotros Nosotros las personas hacemos 
+dentro de nuestra casa, tiene que ver con nuestra privacidad y que un juez no 
+puede venir a juzgarnos salvo salvo es la excepción que nosotros hagamos algo 
+que perjudique a un tercero a la sociedad sí.
+31:11 María F.L.: Sí Héctor
+31:14 Héctor D.C.S.: Si si llaman a la policía porque hay ruidos extraños dentro de 
+mi casa. Y viene la policía toca la puerta ellos no pueden entrar. Yo tengo que 
+permitirles entrar si quiero o se pueden quedar afuera.
+31:28 María F.L.: Bueno, y ahí y ahí lo vinculamos con el artículo 18 con esto que 
+acaba que acaba de decir Héctor lo vamos a vincular con el artículo 18, Por qué 
+Porque si es mi intimidad si es mi privacidad mi casa nadie tiene derecho a venir. 
+y meterse Y eso tiene que ver con la inviolabilidad del domicilio correspondencia 
+y papeles privados que esto También incluye los mails incluye en los medios del 
+trabajo y demás sí, entonces fíjense si yo vengo con esto del artículo 19 que mi casa que mi casa es es mío, es íntimo y demás.
+32:14 María F.L.: Bueno está bien, o sea, Nadie puede meterse en tu casa nadie 
+puede meterse con con el correo Nadie puede por ejemplo abrirte una una carta, 
+sí que te llegó, viene el vecino, mete la mano en el cartero y agarra abre la carta, 
+por qué? No, eso no se hace Yo no, yo por ejemplo no, no quiero que nadie entre 
+a mi mail, pero si viene no sé alguien entra a mi casa y entra a mi computadora, 
+me revisa los mails tampoco está mal. Sí, estamos violando la correspondencia mi 
+domicilio Sí entonces.
+33:01 María F.L.: Como todo eso tiene que ver con mi intimidad y mi intimidad 
+está de las puertas para adentro salvo lo del trabajo también. Hay una razón por 
+la cual alguien sí puede meterse tanto a mi casa como a mi correo personal 
+laboral o a los papeles que yo tengo. Y eso se va a dar, o sea, la única excepción 
+que va a existir para poder romper con mi intimidad es con una orden judicial.
+33:35 María F.L.: Sí con una orden judicial obviamente expedida por un juez 
+insisto o sea, tiene que haber una razón súper válida para que puedan ingresar a 
+mi domicilio para que puedan ingresar a mis espacios privados como mi correo 
+personal mi mi no sé mis papeles entonces teniendo en cuenta el ejemplo que 
+puso acá el compañero Héctor si un vecino Toca Se está quejando por ruidos 
+molestos, viene la policía y sí puede entrar a tu casa, pero también podés negarte 
+a que no entra a tu casa porque si no venís con una orden judicial no te dejo 
+entrar. O sea, es la única.
+34:36 Héctor D.C.S.: Entiendo que se llama allanamiento de eso cuando Okay 
+cuando viene con una orden
+34:39 María F.L.: Se llama sanamiento, sí.
+34:39 Diego J.V.: Como certificas que esa orden judicial es real?
+34:42 Héctor D.C.S.: judicial O sea no te lo dicen los policías, pero lo que dejar 
+tranquilo. Bueno, pasa, pero si no no.
+34:49 María F.L.: No, bueno, pasa que los allanamientos en línea general, o sea se 
+dan en horarios raros, Sí o sea la idea es sorprender. Al al supuesto No sé 
+delincuente acusado yo la verdad que no hago penal chicos, pero les digo que 
+más o menos de los conocimientos que tengo es que los horarios en que se 
+Adelante los los allanamientos no son los horarios convencionales es una 
+estrategia de eso.35:22 María F.L.: Entonces por qué Porque justamente La idea es sorprenderlos y 
+que nada Que obviamente encontrarlos durmiendo.
+35:33 Héctor D.C.S.: Fuera fuera dorado laboral
+35:35 María F.L.: Claro, ahora una vez que te rompen la casa la puerta te sientan 
+y te ponen ahí, sí la orden judicial. En un razonamiento no es que te van a tocar la 
+puerta a las cuatro de la mañana Hola venimos a un allanamiento tengo la orden 
+judicial, Obviamente que no
+35:54 María F.L.: directamente te tiran la puerta abajo, cómo los certificamos y la 
+verdad no sé qué decirte. Diego no sé. Porque porque puede venir con una orden 
+falsificada Pero bueno Ahí entras a buscar, no sé yo buscaría. Googlearía, por 
+ejemplo, el juzgado la secretaría.
+36:21 Héctor D.C.S.: los artículos
+36:23 María F.L.: El juzgado la secretaría a ver si coincide con el juez Que firma.
+36:31 Héctor D.C.S.: Igual medio difícil Google cuando tenés las esposas Y estás 
+boca abajo.
+36:36 María F.L.: Sí, Bueno pero eso es una película que te la armaste vos porque, 
+o sea un allanamiento es que en todo caso te dicen que te quedes quieto no es 
+que automáticamente te esposan salvo que te quiera jugar.
+36:48 Héctor D.C.S.: Por lo que veo en Cómo se llama esta policía en acción no 
+no no no no no no
+36:52 María F.L.: en Netflix
+36:54 Héctor D.C.S.: no no, no tampoco estoy delirando, o sea, es lo que veo 
+Estoy es lo que estoy diciendo los allanamientos que veo que hacen en las casas 
+Quizás por venta de de de de de de de de de de de de un transa.
+37:06 María F.L.: pacientes
+37:08 Héctor D.C.S.: Sí, está la persona está al piso y o con esposas.
+37:15 María F.L.: Sí sí, pero bueno, a ver es Realmente es como difícil, si poder 
+comprobar si es es real Esa esa orden Sí a ver yo sinceramente les digo cuando 
+uno anda en algo medio turbio y Pero si yo no ando en nada O sea me hacen una 
+herramienta en mi casa o sea, yo me muero chicos me muero porque realmente o 
+sea, Nosotros somos gente súper honesta Entonces ahí sí me sorprendería y 
+dudaría en que esto realmente no es real pero si de repente yo tengo en mi casa 
+vendo drogas o no sé o hago otro tipo de cosas y bueno me quedo en el molde, sí.38:10 Héctor D.C.S.: El juez da la orden El fiscal ejecuta y manda la la política.
+38:16 María F.L.: al grupo al grupo Comando así al grupo Comando a la policía
+38:21 Héctor D.C.S.: Así se llama. Se llama así.
+38:25 María F.L.: Sigo la policía. Bueno, dicho Todo esto entonces fíjense que 
+cuando hablamos de intimidad. nos remontamos Sí o sí, al artículo 18 artículo 19 
+en uno dice que la intimidad es como que tiene que ver con algo privado nuestro 
+que nadie nos puede juzgar que nadie se une al artículo 18 puede violar nuestra 
+intimidad Pero hay una excepción Sí esa excepción es con la orden del Juez 
+Hasta ahí. Creo que quedó claro, ahora bien. Vamos al artículo 43 que es el que 
+me interesa Y ya estamos recontra trazados.
+39:17 María F.L.: El artículo 43 es largo pero se van a dar cuenta, para qué sirve y 
+realmente esto les puede servir mucho a ustedes. Como personas o el día de 
+mañana en el campo laboral el artículo 43.
+39:34 María F.L.: Dice toda persona puede interponer acción expedita y rápida de 
+Amparo siempre que no existe otros medios judicial más idóneo contra todo acto 
+u omisión de autoridades públicas o de particulares que en forma actual o 
+inminente lesiona restrinja, altera o amenace con arbitrariedad o ilegalidad 
+manifiesta derechos y garantías reconocidos por esta Constitución un tratado o 
+una ley. toda persona podrá interponer esta acción para tomar conocimiento de 
+los datos a ellas referidos y de su finalidad que consten en registros o banco de 
+datos o los O los privados destinados a proveer informes y en caso de falsedad o 
+discriminación para exigir la supresión rectificación confidencialidad o 
+actualización de aquellos wow.
+40:21 María F.L.: Espero que no se me hayan dormido Es un montón. Ahora de 
+todo esto que dije Sí perdón, pero de todo esto que dije díganme qué es lo que 
+entendieron. Y cuando les diga Para qué sirve les va a encantar. Entendieron o No 
+entendieron.
+40:43 Héctor D.C.S.: Yo me perdí No entendí.
+40:45 María F.L.: Bien, perfecto, alguien más. también Mauro
+40:50 Mauro S.F.: No intenté, pero no.
+40:51 María F.L.: Bien, acá tenemos esto que les va a servir para la vida, les va a 
+servir a ustedes, le puede servir para su mamá para su papá para un tío para el 
+abuelo para todos les puede servir esto. Ahí vamos el artículo 43 es un artículo que habla de toda persona puede interponer acción expedita y rápida de 
+amparo? Cuánto escuchamos El amparo? A lo largo de este tiempo de la 
+pandemia para acá en el noticiero en infobae, digo lo escucharon.
+41:31 María F.L.: entonces Este remedio judicial esta acción de la que estamos 
+hablando. De acá se desprende el habeas Data y el hábeas Corpus saben. A qué 
+se refiere cada uno?
+41:48 Héctor D.C.S.: No yo no
+41:49 María F.L.: Bien. cuando cuando hablamos de acción rápida, hablamos de 
+Habeas Data tiene que ver con información con datos? Y habeas Corpus tiene 
+que ver con un cuerpo. entonces Cuando ustedes escuchen alias Data habeas 
+Corpus es un remedio judicial rápido? sí que justamente se va a interponer es una 
+presentación que se hacen del Juez Porque hay una urgencia en algo sí. Entonces 
+esta urgencia es porque está lesionando algún derecho que la Constitución 
+alguna ley tiene respecto de nosotros y ahí va el ejemplo.
+42:50 María F.L.: Sí por ejemplo no sé Héctor Va manejando esta noche y de 
+repente lo para la policía tiene el registro.
+43:06 María F.L.: Tiene el seguro tiene el auto en regla, no es de él tiene las luces 
+prendidas va con el cinturón, no está alcoholizado lo para la policía ve que está 
+todo, se lo llevan detenido y encima lo dejan incomunicado. Qué hacemos ahí ahí 
+lo que hacemos Es interponer lo del artículo 43 en la primer parte, o sea, se 
+interpone un hábeas Corpus sí se interpone un remedio judicial rápido.
+43:39 María F.L.: Sí por qué? Porque acá Este remedio dicen que es contra todo 
+acto u omisión bueno, en este caso este remedio judicial va a ser contra uno 
+omisión, sí.
+43:50 Marco S.F.M.: era el que usaba para salir de la carcel en el estanciero/
+monopoly
+43:56 María F.L.: Ni idea marco, entonces a él lo detuvieron indebidamente no lo 
+dejan comunicarse entonces su familia lo que va a hacer es Buscar un abogado y 
+va a pedir que que bueno su solución Perdón que su caso se resuelva 
+rápidamente Porque se están lesionando.
+View original transcript at Tactiq.

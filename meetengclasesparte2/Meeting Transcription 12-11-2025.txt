@@ -1,0 +1,1314 @@
+Meeting Transcription 12-11-2025
+Meeting started: Nov 12, 2025, 6:59:57 PM
+Meeting duration: 122 minutes
+Meeting participants: Adrián Barletta, Alvaro Josue Corimayo, Ariel Pastor, 
+Francheri Liriano Rosario, Franco Emmert, Gastón Chacana, Héctor Daniel Colman 
+Sosa, Joaquin Gonzalez Melaragno, Lucas Matias Miedwiediew, Marco Sebastián 
+Ferraro Manfredi, Mariano Nicolas Bustamante, Martin Uriel Perrone, Martín 
+Basilio, María Florencia Liendro, Mauro Sebastian Fernandez, Maximiliano Cassol 
+Montagner, Nicolás Di Maggio
+View original transcript at Tactiq.
+Transcript
+00:00 María F.L.: Hola Hola chicos, cómo están?
+00:05 Alvaro J.C.: Como Profe buenas tardes.
+00:06 Adrián B.: Qué tal profe Qué cuenta?
+00:07 Nicolás D.M.: buenasss
+00:08 María F.L.: Hoy quiero que sea viernes. Siempre digo cómo andan ustedes 
+con exámenes.
+00:12 Adrián B.: somos varios Arrancando la próxima semana.
+00:18 Mauro S.F.: buenas buenas
+00:20 María F.L.: Ah sí
+00:20 Adrián B.: Tenemos unos j***** el miércoles justo.
+00:24 María F.L.: Yo creo que no, eh? Creo que no Ya los tengo preparados a los 
+exámenes a los del lunes le fue a todos, no le fue bien, le fue excelente. así que 
+Qué va a hacer No sé voy a tener que ponerle algo difícil porque no puede ser 
+que todos aprueben, o sea, y puse casos prácticos ustedes van a tener el mismo 
+examen. Nada, les cuento algo les voy a contar algo chicos, no se me mueran.
+00:58 María F.L.: Después lo voy a decir más adelante en la grabación y calculo 
+que el miércoles que viene o no sé, pero el final va a ser oral.01:10 Adrián B.: Creo que ya lo había dicho, lo había adelantado hace como dos 
+clases, dos tres clases.
+01:14 María F.L.: Sí pero está definido esta vez es la primera vez que voy a tomar 
+oral Pero
+01:16 Héctor D.C.S.: DERACOOORE!
+01:16 Adrián B.: Ah!
+01:21 María F.L.: pero bueno, nada, quiero que estén todos, por favor, les pido 
+porque va a ser muy cortito aparte Son un montón, ustedes los chicos de Los 
+lunes, son todavía, no lo saben, se lo voy a decir el lunes y esos son 26 27 más o 
+menos, pero ustedes son un montón, así que así que bueno le debo algo a alguien 
+Héctor ya te voy a mandar lo tuyo, Perdón perdón, que me pidió información
+01:51 Héctor D.C.S.: JUM!
+01:51 María F.L.: el compañero Perdón es que juro que estuve con muchas cosas 
+y no me senté a buscar esa información porque la tengo guardada, pero pero sí te 
+lo envío
+02:02 Héctor D.C.S.: no se no se..
+02:05 María F.L.: Gracias por la paciencia Bueno nada, Qué cuentan, se vino el 
+verano acá en mar
+02:08 Héctor D.C.S.: jaja
+02:09 María F.L.: del no saben lo que es. Ya hay un montón de gente las playas, 
+ya están bastante llenas. No sé allá salgo Franco que bueno Franco está con el 
+frío el resto hace calor allá.
+02:28 Franco E.: Acá No acá hace un frío.
+02:30 María F.L.: No, bueno, Franco vos no vos no sos parámetro de algo porque 
+estás en Europa pero yo.
+02:37 Franco E.: Ya entendí que me preguntas a mí.
+02:38 María F.L.: Digo, no, no, no hablo de de de de de de los chicos que de 
+digamos de la gente popu, hablo.
+02:47 Adrián B.: Acá estuvo complicado anoche Llovió este refrescó de golpe Hoy 
+está más o menos agradable. Está no hace mucho calor, pero está muy 
+cambiante el clima, o sea.
+02:58 María F.L.: claro
+03:02 Alvaro J.C.: Hermoso, sí se queda así más frío todavía.03:04 Adrián B.: totalmente Pero bueno sabemos que no va a quedar así 
+Lamentablemente
+03:08 Lucas M.M.: Profe, el orao del final, mantiene lo del coloquio? Ese oral tipo 
+grupal
+03:09 María F.L.: Sí, encima.
+03:09 Alvaro J.C.: dicen que va a ser un verano bastante Pesado
+03:12 María F.L.: Sí, chicos y yo todavía no sé qué voy a hacer de mi vida. Si me 
+voy para allá, me quedo acá todavía no sé, pero si me voy me voy en lo peor.
+03:22 Martín B.: Buenas tardes.
+03:23 María F.L.: Buenas, quién habla?
+03:26 Martín B.: Hola profe, Yo Martín Cómo va a entrar todo bien.
+03:26 María F.L.: Quién dijo. Martín Martín
+03:37 Martín B.: Se cortó un poquito profe, no se escucha lo que dijo lo puede 
+repetir.
+03:40 María F.L.: Sí, Cómo está la nucita.
+03:44 Martín B.: No sé, yo no vivo en la nucita. Yo estoy un poco más alejado. Sí, 
+unas cinco cuadras debo estar de ahí.
+03:49 María F.L.: mira Bueno no es tanto
+03:55 Martín B.: Me cambia ya el panorama.
+04:00 María F.L.: Sí tiene.
+04:02 Martín B.: Estoy en los límites digamos, estoy haciendo centro de lanús, 
+pero es el límite es como es, tiene otra onda. La nucita, sí, totalmente.
+04:07 María F.L.: Sí, sí. Pero qué O sea pasando ministro
+04:14 Martín B.: Claro, un poco más lejos.
+04:15 María F.L.: Claro, como yendo para rivadavia, sería.
+04:20 Martín B.: Ahí ya no conozco.
+04:22 María F.L.: Qué raro porque es ahí nomás.
+04:26 Héctor D.C.S.: Igual es verdad esto que dijo, eh, En cinco cuadras.
+04:28 María F.L.: Yo quiero preguntar algo para te quiero preguntar algo Martín 
+conoces de Miriam
+04:35 Martín B.: no, no no no no
+04:36 María F.L.: No puede ser los tenés que conocer están ahí en rivadavia, y ay 
+no me acuerdo, sí, no sé cómo es del otro lado.04:46 Martín B.: No, no los conozco.
+04:47 María F.L.: Bueno después googlealo son los mejores sándwich de miga 
+que hay en el mundo mundial Héctor Qué pasó
+04:57 Héctor D.C.S.: No agregaba un poco de dato a lo que dijo Martín recién que 
+por ahí. dos tres cuadras si hacen la diferencia yo por ejemplo vivo en dorrego 
+Hollywood y acá a dos cuadras ya es la parte más Narco del Oeste
+05:13 María F.L.: Mira mi abuela viviendo rego me acuerdo que cuando era chica 
+me tomaba El Seis
+05:17 Héctor D.C.S.: sí
+05:21 María F.L.: veinte.
+05:23 Héctor D.C.S.: Aún sigue pasando ahora está modernizado usa nitro.
+05:30 María F.L.: No, no conozco O sea no me acuerdo.
+05:31 Héctor D.C.S.: El combustible El combustible, usa nitrógeno líquido para 
+poder hacer más una velocidad más grande
+05:37 María F.L.: Mirá
+05:39 Héctor D.C.S.: Así que no sí sí, pero lamentablemente hay zonas que están 
+muy hermosas es como un torneo Hollywood Pero hay partes más marginales.
+05:50 María F.L.: Y sí yo
+05:50 Héctor D.C.S.: y bueno se transformaron en una en una en una Favela
+05:57 María F.L.: Ah bueno Yo nací en González catán en el centro de González 
+catán en el hospital que está ahí a media cuadra de la estación de tren Pero 
+bueno hace muchísimos muchísimos años que no, no paso por por González 
+catán.
+06:12 Héctor D.C.S.: Sí, lo recuerdo y paso seguido por ahí.
+06:14 María F.L.: Claro, la verdad que no sé cómo estás Hace muchísimo 
+muchísimos años pero
+06:18 Héctor D.C.S.: Yo me acuerdo de eso que dijo y una vez Pasé por ahí. Dije. 
+Ah, cara acá
+06:18 María F.L.: una década.
+06:21 Héctor D.C.S.: nació mi profesora. Dije.
+06:23 María F.L.: Sí, chicos.
+06:25 Marco S.F.M.: que horror todo
+06:25 Héctor D.C.S.: Y me quedo contemplando el frente de la fachada.06:26 María F.L.: Yo iba iba se van a reír, Qué horror, todo dice yo iba a mi papá 
+era vendedor ambulante y tenía un puestito en la estación de González catán de 
+tren y me acuerdo que siempre siempre estaba en la estación porque aparte de 
+chiquita yo vivía, ahí éramos tan pobres. Pero bueno comíamos Pancho La pizza 
+con mi hermano Ahí hace un montón de años que no voy, pero millones millones 
+de años. En fin.
+06:55 Héctor D.C.S.: Está más lindo ahora y está más urbanizado luces.
+06:58 María F.L.: Nada igual no creo que vaya dudo que vaya no no?
+07:01 Héctor D.C.S.: no, no está, está creo que va a venir a tocar fatboy Slim 
+ahora en diciembre
+07:10 María F.L.: Sé quién es, pero bueno.
+07:13 Héctor D.C.S.: bueno
+07:14 María F.L.: Nada, ya, ya distendimos un poco y ahora voy a poner a grabar 
+Así que vamos a la formalidad.
+07:23 Martín B.: Yo quisiera preguntar algo si se puede profe.
+07:25 María F.L.: Ya dentro o fuera de la grabación.
+07:27 Mauro S.F.: yo sigo llorando por el final
+07:28 Martín B.: Como quieran para mí es una pregunta con respecto a los 
+exámenes que se viene y al final no sé como quiera.
+07:37 María F.L.: Vamos a grabar.
+07:38 Martín B.: bueno
+07:43 María F.L.: Bueno chicos buenas tardes Espero que estén bien bueno hoy 
+tenemos la clase de repaso, Sí hoy tenemos una clase de repaso en esta clase, 
+vamos a evacuar todas las consultas todas aquellas inquietudes dudas que 
+ustedes tengan respecto del examen el horario la duración el formato y todo 
+vamos a hacer todas las aclaraciones habidas y por haber Y obviamente yo voy a 
+dejar en claro ciertas cosas vamos a hablar también de los recuperatorios y 
+vamos a hablar sobre todo lo que más les importa a ustedes es el tema del final, 
+cómo va a ser Cuándo va a ser y demás Entonces vamos a hacer un repaso de 
+toda la materia Pero antes, no? Perdón, de toda la materia, no de de la materia 
+Pero de todo lo que vimos para este Segundo parcial. Ahora me gustaría 
+escucharlos a ustedes.
+08:42 María F.L.: respecto de las dudas que tienen consultas los escucho08:50 Martín B.: Bueno le pregunto entonces la semana pasada había dicho que 
+posiblemente el próximo. Examen el Segundo parcial sería que nos corresponde 
+que le va a hacer oral, no me quedó en claro eso si va a ser oral o va a tener la 
+misma dinámica que tuvo el primero.
+09:08 María F.L.: Bien, el examen alguien más con respecto a este tema así ya les 
+respondo directamente alguien más tiene una pregunta respecto del Segundo 
+parcial. bueno
+09:23 Héctor D.C.S.: Sí sí va a ser si va a ser.
+09:25 María F.L.: sí
+09:30 Héctor D.C.S.: oral o como la otra vez múltiple Choice
+09:35 María F.L.: Bien, Vamos a aclarar algunas cuestiones.
+09:36 Franco E.: Oral Multiplechoice? JAJJA
+09:41 María F.L.: Franco se ríe chicos, yo les dije a ustedes que los exámenes 
+iban a ser
+09:45 Héctor D.C.S.: jajaj see
+09:47 María F.L.: escritos, sí Entonces vamos a hablar bien sobre esta cuestión.
+09:49 Franco E.: Elegimos la opción Multiple de manera oral jaja
+09:54 María F.L.: El miércoles que viene nos vamos a encontrar a las siete de la 
+tarde. En una reunión sí, como como las de siempre. Los exámenes van a estar 
+habilitados a partir de las siete y cinco digo a partir de las 7:05, porque Puede 
+que sea siete seis siete y siete Siete y ocho y van a empezar a mí no me llegó a 
+mí tampoco y bla bla los exámenes se habilitan a partir de las siete y cinco. Y 
+pueden tardar uno dos tres cuatro minutos más. El examen va a terminar siete y 
+media.
+10:31 María F.L.: Ni más ni menos siete y media el examen se habilita a partir de 
+las siete y cinco y siete y media finaliza, digo esto porque no quiero que alguien 
+me diga pero en la clase dura dos horas está bien la clase dura dos horas. El 
+examen, no, el examen va a durar lo que tengo que durar sean 20 minutos 25 o 
+30 que en realidad 30 no va a durar porque ya de por sí lo habilito a partir de las 
+7:05 Así que a partir de las siete y cinco se habilitan los exámenes y hasta las 
+siete y media tienen tiempo de hacerlo Cómo hacer ese examen va a ser de la 
+misma forma que el primero múltiple Choice con una opción que es correcta.
+11:16 María F.L.: La diferencia entre el entre el examen anterior es que en este van a tener casos prácticos, sí. Les voy a poner casos prácticos. Que a ver la 
+respuesta correcta va a ser una de las opciones Y ese es un caso práctico Y 
+ustedes tienen que decir cuál es la cuál sería la la respuesta correcta nada más. 
+Creo que van a tener tres son los últimos tres no No, Franco estoy hablando del 
+Segundo parcial el Segundo parcial va a ser escrito ahora el final va a ser oral Sí 
+entonces volviendo un poco para que quede grabado, lo voy a lo voy a decir el 
+día del examen. Sí, esto es importantísimo.
+12:07 Franco E.: misericordia
+12:07 María F.L.: El día del examen nos conectamos a las 7 a partir de las 7:05, ya 
+se van a habilitar los exámenes. persona que termina el examen me dice profe me 
+confirma si recibió el examen fui o soy tema uno me dice si le llegó el examen, 
+soy tema 2 Sí ya entregué, soy tema 3 porque van a ser tres temas. Entonces yo 
+les confirmo y se desconectan no va a haber clases siete y media se termina para 
+todos, sí.
+12:46 María F.L.: Automáticamente con ustedes entregan el examen, van a tener 
+la nota sí y en el transcurso de ese día o a más tardar al próximo van a tener las 
+notas subidas. Voy a hacer dos aclaraciones, que ya las hice, pero creo que es 
+necesario volver a hacerlo y lo voy a volver a hacer el día del examen. Es que no 
+voy a recibir. No voy a recibir un examen donde la persona, no esté logueada con 
+el mail.
+13:18 María F.L.: Esa es una opción la otra opción que en realidad no es opción, 
+sino que es la otra cosa que puede suceder. Es que una persona se conecte siete 
+y cuarto y no sé con el tiempo y me lo quiera entregar 8 menos cuarto no lo voy a 
+recibir. Se irá recuperatorio Por qué Porque lo vengo diciendo desde el inicio de la 
+cursada. Lo dije antes del examen. Lo dije durante el examen, lo aclaré después 
+del primer examen entonces.
+13:50 María F.L.: Son dos cosas nada más. Sí, dos cosas que hagan el examen 
+con el mail de istea y que entreguen a término Por más que la cursada haya 
+tenido clases de dos horas, son dos cosas distintas, sí. Y con respecto eso con 
+respecto al Segundo parcial, Qué temas van a entrar los temas que vimos a partir 
+de la primer clase después del primer examen, sí, a partir de contratos 
+electrónicos tenemos contratos electrónicos tenemos.
+14:29 María F.L.: protección de datos personales y delitos informáticos si todo eso Que son tres temas es lo que va a ingresar en este en este Segundo parcial. 
+Sé que les debo una filmina, creo que lo de la última clase no se lo subí. Me dicen 
+me confirman eso. Se lo subí o no?
+15:04 Adrián B.: Ahí estoy checando el classroom, Denme un segundo.
+15:06 María F.L.: Parece que no.
+15:11 Martín B.: Parece que no.
+15:12 María F.L.: Bueno después se lo subo Qué más bueno, eso respecto de del 
+Segundo parcial alguna pregunta respecto de eso.
+15:27 Martín B.: no, no, todo claro, yo que pregunté me queda claro, Gracias
+15:29 María F.L.: Bien. Bueno, para aquellas personas que de repente no se 
+presenten. No aprueben y aquellas personas que en el primer examen no se 
+presentaron es decir todas aquellas personas que van a recuperatorio, el examen 
+se respeta y va a ser múltiple Choice sí. No sé si hay alguien acá que tenga que 
+dar al recuperatorio, pero era un poquito.
+15:56 Joaquin G.M.: Todo claro excelente.
+15:57 María F.L.: Ah sí Sí bueno Joaquín y todas aquellas personas que por ahí no 
+hablan y que están conectadas o que no están conectadas y vayan a ver la 
+grabación y tengan que dar un recuperatorio les digo que el formato del examen 
+va a ser múltiple Choice y También la duración a partir de las siete y cinco se 
+habilita y este dura más o menos veinticinco minutos 30 minutos sí y también la 
+devolución de la nota, la tienen en ese momento.
+16:32 María F.L.: Con respecto a los al recuperatorio, entonces y Segundo parcial 
+quedó todo Claro En serio, les digo quedó claro. Perfecto, vamos al final. Bueno, 
+con respecto al final dentro del final o mejor dicho, qué es lo que voy a tomar en 
+el final todo? Desde lo que vimos a partir de la primer clase, hasta lo último que 
+que es delitos informáticos y voy a tomar absolutamente todo. Obviamente van a 
+hacer preguntas, no va a haber múltiples Choice no voy a dar tres opciones y 
+elegir una o cuál es la opción correcta, No chicos va a ser una pregunta, mi idea 
+es hacerle tres preguntas a cada persona.
+17:29 María F.L.: De cualquier punto, o sea, no sé, voy a armar grupos Sí donde 
+seguramente que todavía no me fijé, pero mi idea es que el oral sea un coloquio 
+Sí entonces tomaría a tres personas y la llevaría a una reunión privada donde les 
+hago preguntas, sí. Al azar, o sea, Te puedo hacer una pregunta de delitos informáticos y te puedo pasar a a obras o a la inversa o que es el derecho 
+informático decimelo con tus palabras no lo leas, porque yo me acuerdo bien todo 
+lo que pongo en las filminas Así que la pregunta no es, no va a ser que ustedes 
+digan una definición tal cual lo puse en la filmina, porque eso no me sirve, me 
+interesa que ustedes puedan interpretar Así que acá lo que se va a evaluar, es en 
+base a la interpretación, pero no de memoria sí, no de memoria.
+18:28 María F.L.: Así que serían tres preguntas por cada uno y los grupos no sé si 
+los voy a armar primero Empiezo con uno con la letra A B y C O a zp, No lo sé, 
+pero sí quiero que sepan que es oral sí y que vamos a tener que estudiar todos. 
+Las notas creo que no se las voy a dar en el momento. Y eso es todo chicos. 
+Alguna pregunta.
+18:58 Maximiliano C.M.: Profe consulta, qué tan por decírselo estricto va a ser o 
+técnico va a ser ese oral Porque yo, por ejemplo son por caso personal soy muy 
+queso con las fechas Entonces si me entra a preguntar una fecha esto era aquí 
+cinco años después de que fallecía o o los derechos y cosas así y me voy a hacer 
+un matete en la cabeza, me va a costar un montón o sea, qué tan técnico va a 
+ser?
+19:23 María F.L.: Justamente lo técnico no es lo que voy a tomar porque si 
+hablamos de
+19:27 Maximiliano C.M.: Okay.
+19:28 María F.L.: tecnicismo, le tengo que tener les tengo que tomar una 
+definición tal cual lo dice el código o tal cual lo puse sacado un libro y la verdad 
+es que no, no me interesa O sea no, no sirve.
+19:37 Maximiliano C.M.: Claro sí, aprender de memoria es como
+19:40 María F.L.: No chicos, no Uno estudiar de memoria, no sirve la idea, es 
+interpretar.
+19:41 Maximiliano C.M.: perfecto
+19:43 Mauro S.F.: a mi se me traba la cabeza con la definición técnica
+19:45 María F.L.: Sí, la idea es interpretar, qué sé, yo les puedo poner un ejemplo 
+a ver decime decime que es una obra para vos. Y vos o sea lo podés leer, pero 
+también tenés que interpretarlo entonces yo no les puedo tomar cosas de 
+memoria porque ustedes van a tener la filminas en frente. Entonces no sirve eso 
+tampoco les voy a pedir a ver decime qué dice el artículo 38 de la ley de defensa del consumidor. No le voy a tomar eso.
+20:17 Gastón C.: Hola profe, perdón recién me conecto. El segundo parcial es oral 
+dijo?
+20:19 María F.L.: Se entiende.
+20:23 Maximiliano C.M.: Perfecto, Sí mejor Muchas gracias.
+20:23 María F.L.: No, por favor, Gastón buenas tardes. El Segundo parcial es 
+escrito Sí el Segundo parcial va a ser se habilita a partir de las 7 y 5 de la tarde 
+hasta las 7:30 de la tarde. Ese crédito múltiple Choice con algunos casos que son 
+muy fáciles y al final es oral.
+20:51 Gastón C.: Ahhh ok final oral, gracias
+20:52 Adrián B.: profe Usted dijo que iba a ser tipo coloquio, el final verdad O sea 
+que A ver porque me tomaron varias veces, pero después no terminó haciendo 
+coloquio. Esto sería una discusión entre las tres miembros. Que estaríamos en esa 
+reunión directamente sobre una pregunta que usted dé básicamente.
+21:13 María F.L.: no sería así les voy a poner un ejemplo supongamos que estás 
+vos Adrián está Héctor y está Martín
+21:20 Adrián B.: Okay.
+21:23 María F.L.: Entonces yo lo que hago es preguntarle a Martín bueno, decime 
+qué es lo que es una obra y dame un ejemplo.
+21:27 Adrián B.: Pasa tercero.
+21:29 María F.L.: De repente no sabe qué contestar listo Adrián decime vos que 
+es una obra. Tampoco lo sabes responder listo Héctor decime que es una obra 
+perfecto. Él la responde bien y así chicos son tres preguntas nada más. Sí puede 
+ser que las tres preguntas sean para cada uno tres por cada uno o tres en total o 
+cuatro en total para las tres personas.
+21:54 Adrián B.: OK Pero qué pasa si de repente no sé Héctor que está primero 
+responde las tres preguntas bien o sea y no pasan respuesta sigue preguntando 
+en el siguiente calculo porque si no
+22:06 María F.L.: claro Chicos A ver es como una charla Esto sí.
+22:12 Adrián B.: Claro, me gusta que tuve tantas muchas veces me dijeron tipo 
+coloquio y terminamos siendo. Una pregunta, entonces discutíamos entre los 
+distintos participantes que estábamos en este grupo y era eso.
+22:21 María F.L.: Es que no tienen claro, es que igual no tienen que discutir ustedes.
+22:26 Adrián B.: Claro, bueno.
+22:26 María F.L.: Sí o sea, es van a hacer preguntas muy puntuales. Sí van a hacer 
+preguntas muy
+22:29 Adrián B.: excelente
+22:31 María F.L.: puntuales. Yo no voy a preguntar qué dice el artículo 43 decime 
+qué dice el artículo 43 de arriba a abajo, no chicos, eso no les puedo preguntar. 
+Sí, lo
+22:43 Adrián B.: Olvídate
+22:44 María F.L.: que les puedo preguntar porque se los dije muchas veces es 
+Qué de qué habla de qué se trata el artículo 43 de la Constitución nacional y 
+ustedes no me tienen que decir tal cual no me tienen que decir las conductas, no 
+me tienen que mencionar no? Porque el artículo 43 lo que hace no sé es. 
+Garantizar los derechos y las garantías que tienen las personas según no nada no 
+me tienen que decir eso tienen O sea me pueden decir un montón de cosas 
+porque es un es un artículo súper amplio Pueden decir que el artículo 43 habla de 
+los recursos no sé de habeas Data vías Corpus que es una acción rápida cuando 
+no sé Alguna algún derecho alguna garantía de la de una persona está vulnerado 
+sí pueden hablar de un montón de cosas del artículo 43 pero no necesito que me 
+digan de memoria porque ni yo me lo sé de memoria.
+23:56 Adrián B.: Ok perfecto
+23:57 María F.L.: Así que no voy a tomar ley no voy a tomar artículos, Sí o sea, 
+aclaro, esto no voy a tomar artículo de decime qué dice el artículo 43 tal cual no 
+sí lo que te puedo lo que puedo preguntar es te acordás De qué trata el artículo 
+43 digo el artículo 43 porque es algo que hablamos un montón, pero no les voy a 
+tomar. El artículo nueve de no sé de tal cosa eso no O sea sí lo puedo tomar algo 
+conocido Ahora sí Ahora Igualmente Vamos a repasar si vamos a repasar todos 
+los temas y les voy a decir esto puede que lo tome esto puede que no se 
+entiende.
+24:39 Adrián B.: excelente
+24:43 María F.L.: Bueno, a ver. era contratos informáticos era no no contratos 
+electrónicos Ahí va ahí les comparto pantalla, vamos a ver todos los temas les 
+parece.25:27 María F.L.: bueno Lo primero que vimos y que fue lo primero que vimos 
+después del primer parcial es el tema de comercio electrónico y contratos 
+electrónicos, sí, obviamente esto es una introducción, si esto ya lo lo vimos, 
+sabemos que por la revolución. Digital por esta evolución que hubo en el mundo 
+en la tecnología básicamente impactó en muchos aspectos de nuestras vidas 
+muchos ámbitos, Sí por eso es que llegamos al comercio electrónico sí, porque a 
+partir de de esta de esta evolución que tuvimos bueno, empezamos a operar 
+desde un montón de lugares, sí, a cualquier hora, por qué Porque gracias a 
+internet. Nosotros podemos comprar vender adquirir llevar adelante diferentes 
+operaciones.
+26:34 María F.L.: En este caso como la compra y venta de bienes la adquisición 
+de servicios, Sí donde no conocemos fronteras, no tenemos barreras geográficas 
+entonces. Aparece justamente Esto sí de que nosotros empezamos a operar. En 
+cualquier parte del mundo a cualquier hora de eso se trata el comercio 
+electrónico, sí. después Cuando nosotros hablamos de que en alguna conducta 
+que nosotros tenemos. Interfiere algún medio tecnológico, sí. Bueno, eso implica 
+que esté el derecho informático regulando sí Entonces en este caso las 
+operaciones que nosotros vamos a realizar a través de un celular de una tablet 
+comprando como esto ya lo habíamos hablado, no sé comprando qué sé yo acá 
+en Carters no sé qué sé yo en diferentes lugares, no, que no sean de nuestro país.
+27:58 María F.L.: Y también dentro de nuestro territorio Pero qué pasa todas las 
+consecuencias que trae aparejado este tipo de vínculo van a estar regulados por 
+el derecho informático porque justamente lo que hace es regular todas aquellas 
+conductas o las consecuencias jurídicas que trae aparejado el uso de la 
+tecnología Entonces desde el derecho informático se va a regular esta actividad 
+abordando la protección de datos personales, la validez de los contratos 
+electrónicos y los derechos de los consumidores.
+28:35 María F.L.: Sí por supuesto que este comercio electrónico tiene sus cosas 
+buenas y tiene sus cosas malas Sí ya habíamos visto en su momento que como 
+cosas buenas tienen. A ver la posibilidad de poder. Llevar adelante una operación 
+a las tres de la mañana, sí me pongo a la noche a mirartemu y me quiero comprar 
+todo entonces empiezo a comparar con
+29:07 María F.L.: MercadoLibre a ver si está la misma prenda a ver si me gusta Si me cuesta más barato. Entonces eso tiene como ventaja sí es como que es como 
+que de alguna manera u otra nosotros lo que hacemos Es tener un abanico de 
+posibilidades para poder antes de llevar adelante, una operación poder comparar 
+sí hay como una cierta competencia respecto de eso sí, esto como fíjense acá en 
+el punto dos comparar ofertas, sí, comparamos ofertas comparamos un montón 
+de cosas y esto es bueno obviamente para nosotros los consumidores, sí.
+29:50 María F.L.: Y un poco como les decía nosotros podemos llevar adelante 
+operaciones a nivel nacional e internacional sí, a nivel nacional, qué sé, yo entro a 
+la página de cosuco y me compro un Jean entro a la página de temu y me traen 
+algo de china, sí, en cualquier horario Y esto y en cualquier lugar digo, lo puedo 
+hacer a las tres de la mañana a las 12 del mediodía, puedo estar en mi casa, no sé 
+puedo estar en mar del plata, puedo estar en Palermo puedo estar? Sé en Brasil 
+Qué lindo, no? Y ahora operación.
+30:23 María F.L.: O sea, eso es lo bueno Pero por supuesto, o sea, todo lo bueno 
+también hay algo que que tiene de malo y en este caso lo que vemos como 
+desventaja. Es que de repente para poder llevar adelante este tipo de 
+operaciones nosotros obviamente tenemos que exponer ciertos datos como por 
+ejemplo nuestros datos de la tarjeta de crédito nuestra dirección nuestro nombre 
+y apellido sí tenemos que a veces no nos sentimos muy seguros de llevar 
+adelante una transacción y y mucho y sobre todo por el por la forma en que 
+nosotros vamos a realizar esa operación, cómo vamos a pagar sí porque tenemos 
+a veces tenemos miedo de que nos clonen la tarjeta de crédito Sí después la 
+pérdida de confidencialidad.
+31:19 María F.L.: Y otra de las cosas que es lo más normal también Es que a veces 
+nos sentimos atraídos por alguna oferta por algún producto que la verdad que 
+decís este me gusta y no lo encuentro en Argentina me lo compro, sí Y quizás 
+cuando te llega, o sea, vos lo ves por foto y está buenísimo, es re grande el 
+producto y cuando viene no es lo que vos esperabas Entonces es como que 
+caemos justamente en la publicidad de engañosa, como muchas veces no nos 
+pasa o bueno, me ha pasado contémoc, chicos de Esto es gratis Esto va a dar 
+regalo y yo comprando comprando y resulta que después, o sea, es un choclo lo 
+que tenía que pagar con esto de que te dan gratis. Bueno, es una es bastante 
+engañoso eso, pero32:07 Héctor D.C.S.: me paso ayer
+32:08 María F.L.: bueno fíjense, que también tenemos el problema que
+32:12 Héctor D.C.S.: estoy enojado
+32:13 María F.L.: Cuando nosotros compramos algo que de repente es en China y 
+no estamos de acuerdo con el producto que nosotros compramos porque la 
+verdad es que no era eso lo que yo vi yo compré otra cosa. A mí me trajeron algo 
+muy diferente. Entonces quién va a solucionar ese problema? No sabemos Qué es 
+jurisdicción, Se va se va a hacer cargo de esto qué legislación se va a aplicar 
+entonces ahí tenemos un problema Y todavía. Esto es muy difícil de resolver Así 
+mismo fíjense que cuando hablamos de comercio electrónico, dejamos de lado 
+los contratos que son en papel los que estamos acostumbrados y acá yo los 
+contratos empiezan a hacer totalmente distintos Sí bueno Esto no Esto sí. Acá lo 
+que vamos a ver.
+33:18 María F.L.: es que muchas veces nosotros llevamos adelante operaciones 
+donde donde No, no plasmamos nada. Dejamos que se dé la operación así nomás 
+todo muy informal. Sin embargo sin embargo hay algunas partes lo que quieren 
+es instrumentar. Lo que la operación que van a que van a llevar adelante, Sí 
+donde se pueda plasmar en ese documento las obligaciones y los derechos por 
+eso o por esa misma razón es que nace el contrato electrónico, sí.
+34:00 María F.L.: Para que en el contrato electrónico las partes puedan plasmar 
+las obligaciones los derechos y todas las las consecuencias que pueda traer 
+aparejado el incumplimiento sí o bien el cumplimiento la extinción la rescisión la 
+duración de ese contrato y demás. Por contrato electrónico nosotros vamos a 
+entender que es un acuerdo de partes. Sí es un acuerdo de partes donde este 
+contrato se va a perfeccionar. Y esta es la característica que tiene sin la 
+presencia física de ellas sí es decir es un contrato un acuerdo.
+34:50 María F.L.: donde las partes van a prestar su consentimiento a través del 
+uso de medios tecnológicos Sí pero la característica es que justamente las partes 
+no están presentes Al momento de prestar su consentimiento, Sí igual vamos a 
+ver que también tenemos la excepción de esto que es el contrato con la 
+presencia Física Pero que Obviamente el consentimiento se va a prestar a través 
+de la tecnología Y como característica que bien les decía recién estos acuerdos 
+se llevan adelante sin la necesidad de que las personas estén presentes sí, la el consentimiento se va a llevar adelante a través de la digitalización sí de la 
+voluntad de las partes que intervengan a través de un clic. Nosotros ya 
+prestamos nuestro consentimiento. Estamos diciendo Estamos de acuerdo, sí, en 
+ese contrato hacemos un clic en acepto o en estoy de acuerdo o también en 
+términos y condiciones, sí queda claro hasta acá.
+36:07 Alvaro J.C.: perfecto profe
+36:12 María F.L.: Bien. Bueno, Esto de acá, lo que me importa que ustedes sepan. 
+Es que los contratos electrónicos están regulados, Sí o sea, están cuando 
+tengamos algún problema, van a estar regulados por el código civil también por la 
+ley de firma digital y más adelante vamos a ver también que tenemos a la ley de 
+defensa del consumidor, sí. La firmas en este tipo de contratos son digitales Sí 
+nada más O sea yo no les voy a tomar decime qué es lo que dice el artículo dos 
+de la ley 25.506. Yo no les voy a tomar Eso sí como para qué quede claro.
+37:10 María F.L.: Estos contratos electrónicos revisten la forma o decir tienen un 
+formato muy parecido a los contratos de adhesión. Qué es lo que entendemos 
+por contrato de adhesión Bueno chicos, el contrato de adhesión es aquel 
+contrato que cuando vamos al banco o cuando queremos hacer alguna 
+adquisición de algún producto en algún banco ya vos tenés el contrato. 
+Redactado si nosotros no podemos negociar absolutamente nada Generalmente 
+las cláusulas, Son abusivas, son leónidas Entonces es como Bueno lo Tomás o lo 
+dejás Esos son los contratos de adhesión donde nosotros nos adherimos a al 
+proveedor Por así decirlo Entonces no no tenemos chances de poder negociar 
+alguna cláusula, sí.
+38:05 Héctor D.C.S.: que es Leoninas?
+38:09 María F.L.: Eso sería digamos todo y también en los contratos de adhesión, 
+Fíjese fíjense, que el consentimiento nosotros lo prestamos a través de un clic sí, 
+sin posibilidad de discutir o modificar las cláusulas que integran el mismo eso, 
+eso es sumamente sumamente importante y eso lo voy a tomar. Sí que es por 
+ejemplo. Que es un contrato de adhesión o qué entienden por contrato de 
+adhesión? Sí, acá vuelvo con lo mismo el contrato electrónico de consumo, sí que 
+lo mismo que el contrato electrónico están regulados por el código civil por la ley 
+de defensa del consumidor y la ley de firma digital Sí en estos casos en los 
+contratos electrónicos de consumo tenemos dos partes. Sí, esas dos partes tenemos por un lado al consumidor y por otro lado al proveedor por El 
+consumidor entendemos a toda aquella persona que va y compra un producto y 
+lo consume.
+39:19 María F.L.: pero también sí, Y esto atento porque también entendemos por 
+consumidor aquella persona que no haya pagado absolutamente nada y 
+simplemente haya recibido un producto es decir y esos ejemplos se lo di y 
+probablemente es una de las preguntas que haga también en el examen, no, no 
+más bien hablo del final sí que puede ser una pregunta, por ejemplo yo comprar 
+hacer una compra en en Coto porque Se la quiero enviar de regalo a alguien Sí 
+entonces ahora la compra de de
+40:00 María F.L.: cierta cantidad de mercadería en Coto digital y se lo envío a No 
+sé mi primo, qué sé, yo mi primo y mi primo tiene una mujer y tiene niños, 
+entonces es como que la consumidora voy a hacer yo, pero también va a ser mi 
+primo, aunque no. Puesto un peso en esa compra. Entonces es mi primo, es la 
+mujer son los hijos. Sí son todas esas personas por consumidor, entendemos a la 
+persona física o jurídica.
+40:35 María F.L.: sí Y bueno el proveedor, ya sabemos Quién es una persona 
+física o una persona jurídica que lleva adelante varias actividades que puede ser 
+la producción la creación la construcción transformación y demás sí, en Sí para 
+que nosotros lo entendamos, sería el que comercia. Sí, el que distribuye el que 
+comercia viene servicios que están destinados a determinadas personas, por 
+ejemplo, los consumidores o usuarios sí, En el caso de las dos partes hay una 
+relación de consumo, Sí y siempre es vinculante para el proveedor, sí.
+41:20 María F.L.: Y acá vamos a esto que que me parece sumamente importante 
+sí que es que nosotros hasta acá sabemos que los contratos electrónicos 
+presentan una característica muy particular, que es que el consentimiento no se 
+va, no se va a prestar o no se va a perfeccionar. Con la persona presente sí, 
+decimos que en este tipo de contrato, el perfeccionamiento ese consentimiento 
+Lo vamos a prestar a través de el uso de la tecnología. Sí siempre.
+41:56 María F.L.: Siempre que sea un contrato electrónico el consentimiento se va 
+a prestar a través de un clic Sí y eso es por el uso de la tecnología o a través del 
+uso de la tecnología sí y que no necesariamente las partes tienen que estar juntas 
+para eso. Pero puede darse de que tengamos dos tipos de contratos, uno el que las partes están frente a frente y el consentimiento se da a través de no sé de un 
+clic en una tablet que le da el proveedor al consumidor. O bien puede ser que yo 
+lo haga en mi casa haciendo un clic en el contrato, sí.
+42:37 María F.L.: Entonces tenemos que la forma de celebración de los contratos 
+electrónicos pueden ser de dos maneras uno contrato entre presentes las partes, 
+si se encuentran presentes físicamente Al momento de celebrar el acuerdo y 
+presentan y presentan o prestan su consentimiento para perfeccionar el contrato 
+es decir en el caso del contrato entre presentes. Yo voy al banco, quiero El 
+paquete que me dé no sé un montón de beneficios.
+43:13 María F.L.: Le cuento mi necesidad las ganas que tengo de adquirir un 
+producto y eso me ofrecen. Algo que a mí me resulta interesante Entonces en ese 
+contexto, Yo estoy de acuerdo con lo que me están ofreciendo y a través de una 
+tablet. Yo tengo que prestar mi consentimiento y voy a hacer un clic o voy a 
+firmar, eso es entre presentes Sí y entre ausentes es cuando yo quiero adquirir un 
+producto me llega el formulario. Yo lo cliqueo y se lo vuelvo a enviar al proveedor 
+Sí entonces.
+43:53 María F.L.: Ahí cuando le llama proveedor Ya está ya se perfeccionó con 
+ese clic. Sí, alguna pregunta. Qué es leónidas leónidas, son esas esos puntos que 
+vos no podés negociar Sí como que son abusivas Ahí está son cláusulas abusivas 
+Depende para quién no O sea en este caso yo estoy hablando desde mi lado de 
+consumidora. Son cláusulas abusivas que me ponen en desventaja. Que en todo 
+caso restringen mis derechos o puede pasar que restrinjan las obligaciones del 
+que me está ofreciendo el contrato. Se entiende. Héctor quedó claro. Bien bueno.
+45:04 Héctor D.C.S.: va más
+45:05 María F.L.: Por qué?
+45:07 Héctor D.C.S.: O la última parte que comentó. Me agarra como medio Ah 
+eso no lo vi o justo no sé qué pasó. Ya le digo cuál? era Ah la celebración del 
+contrato frente a frente y la celebración del contrato Online, o sea, estamos en 
+frente entre presentes. Y la otra es que bueno, hago clic tildo el casillero acepto 
+el contrato y listo eso lo va a tomar.
+45:45 María F.L.: Puede ser. Por qué no que me digas la diferencia entre el 
+contrato entre presentes intrauscentes Cuál es la diferencia.
+45:55 Héctor D.C.S.: Es muy ambiguo profe.45:56 María F.L.: No, no son vivos muy claros.
+46:00 Héctor D.C.S.: Le digo, me está preguntando si le digo, eh?
+46:03 María F.L.: a ver
+46:05 Héctor D.C.S.: Me pongo, me pongo modo de examen. la diferencia entre
+46:11 María F.L.: La pregunta es para todos ustedes pueden diferenciar que es un 
+contrato entre presentes un contrato electrónico entre presentes y entrantes 
+Cuál es la diferencia.
+46:21 Adrián B.: Bueno uno están en las partes presentes ahí por donde está para 
+celebrar el contrato y en el otro no es remoto.
+46:28 María F.L.: Perfecto, hasta ahí todo bien, te falta algo.
+46:32 Héctor D.C.S.: Sí pero yo diría Porque falta o sea dice contándole.
+46:37 Mauro S.F.: cuando te hacen firmar en una tablet por ej
+46:37 Adrián B.: Qué bueno que tienen que manifestarse el consentimiento, no O 
+sea.
+46:41 María F.L.: Bueno, el consentimiento siempre hay que prestarlo ahora le voy 
+a cambiar la pregunta, cuál es la similitud O qué es lo que tienen los dos en 
+común?
+46:46 Adrián B.: Dale
+46:51 María F.L.: entre ausentes y presentes
+46:57 Héctor D.C.S.: Físicamente las dos personas interesadas. Cuando son 
+presentes firmando un contrato que es lo que le quería preguntar justamente 
+electrónico o puede ser también en papel. Y la otra es como un prestador de 
+servicios como pasa con cualquier servicio de internet que uno. Da su buen visto 
+o su ok. para la prestación de un servicio
+47:25 María F.L.: bueno Voy a darle una chance más piensen piensen esto 
+estamos hablando un contrato. electrónico si es electrónico no hay papel Sí 
+entonces Qué es lo que tienen en común? Estas dos formas hay algo que tienen 
+en común?
+47:52 Héctor D.C.S.: Pero si no es electrónico porque las dos partes van a estar 
+presentes. A ver en Mi humilde, opinión, si están presentes físicamente por qué 
+tiene que ser electrónico, o sea, dame la mano, Dame un beso. Un abrazo y 
+firmamos el papel o puede ser que yo obviamente no lo sé porque lo estoy viendo 
+ahora, que no lo sé. puede ser que usted y yo firmemos un acuerdo un contrato electrónico presentes ambos, físicamente en este universo vasto y démosle lo 
+que hay
+48:33 María F.L.: a ver Es como lo que venía hablando de de esta introducción de 
+lo que generó El Avance de la tecnología. Bueno, el avance de la tecnología hace 
+que tengamos diversas formas de llevar adelante, un contrato y también un 
+montón de otras opciones, no un contrato de comprar, o sea, digo, pensémoslo 
+así si yo puedo ir al shopping. Por qué O sea si tengo cociuco acá en en Palermo 
+me voy a los arcos que además soy fanática de los arcos me voy a los arcos a 
+comprar un Jean en cosuco.
+49:16 María F.L.: También tengo la posibilidad de comprarlo por la página cuál es 
+el problema? Ninguno Bueno entonces digo Héctor acá es lo mismo, si yo tengo la 
+posibilidad de ir a kosiuco al shopping y tengo la posibilidad de comprar un Jean 
+en la
+49:30 Adrián B.: ninguna
+49:34 María F.L.: página de cozuko, es lo mismo, digo.
+49:38 Adrián B.: Básicamente está hablando de la oferta que tiene que estar la 
+oferta ahí, o sea.
+49:41 María F.L.: Pero más allá de eso chicos más allá de esto O sea lo que lo que 
+estoy diciendo es por el avance de la tecnología las posibilidades de compra, o 
+sea, son varias. Estamos dando estas dos entonces en respuesta a lo que dice 
+Héctor de Por qué van a ir por qué va a haber un contrato entre presentes? Digo, 
+hay un contrato entre presentes porque Sencillamente te respondo con el avance 
+de la tecnología hace que tengamos más opciones de poder adquirir un producto, 
+sí.
+50:12 Héctor D.C.S.: No, en realidad no fue eso lo que lo que dije puntualmente lo 
+mi mi inquietud. Sino que si Adrián barletta y yo vamos a celebrar un contrato. Él 
+está físicamente y yo lo veo, físicamente no estamos en un lugar una oficina. Yo 
+lo miro a los ojos. Él mira los ojos nos sentimos los perfumes que tenemos y 
+decimos vamos a celebrar este contrato.
+50:38 Adrián B.: caramba
+50:40 Héctor D.C.S.: lo firmamos en papel o en a ver ojo puede ser que no se nos 
+quizás no conozco otra modalidad que si es frente a frente, se haga algo, o sea, 
+en una tablet, o sea50:54 Adrián B.: Podemos firmarlo con papel con la firma nuestra sobre los 
+medios digitales, o
+50:56 Martin U.P.: Perdón no puede ser, por ejemplo cuando
+50:57 Ariel P.: Puede ser por firma digital
+50:58 Adrián B.: sea, con correo electrónico lo que sea hacer una tablet, eso es 
+indiferente.
+51:02 Martin U.P.: claro
+51:02 María F.L.: Puede ser como dice Ariel puede ser por firma digital, digo a ver 
+porque esta
+51:06 Martin U.P.: cuando
+51:08 María F.L.: modalidad es una modalidad nueva chicos, o sea, vos la podés 
+incorporar o no? O sea, es Sencillamente eso estamos hablando de una 
+modalidad que se incorporó y que la tenemos que estudiar nos gustan o nos 
+guste sin entender el porqué el Por qué es porque seguramente hay empresas 
+que se manejan con diversas formas bueno. Qué sé, yo ustedes Cuando 
+empezaron a estudiar Acaso no les enviaron el contrato por mail.
+51:42 Alvaro J.C.: Sí, sí.
+51:42 Héctor D.C.S.: Sí el contrato por mail y firmado y lo que sea pero
+51:45 María F.L.: y bueno
+51:46 Héctor D.C.S.: A lo que yo voy es que cuando uno va a una, por ejemplo, 
+una entrevista de trabajo llega presencialmente y firma un papel listo, queda 
+guardado salvo que
+51:55 Marco S.F.M.: y cual es la otra diferencia entonces?
+51:55 Héctor D.C.S.: tan en el caso que sea recontra online recontra remoto. de 
+clic y Has leído, Las bases y condiciones de de la incorporación laboral Por eso 
+me resultó un poco extraño. Quizás no, no me entra aún pero por ahí me me 
+resulta un poco extraño la parte de de ambas personas usted yo físicamente mira 
+y celebrando un contrato para mí la celebración del contrato sería en papel Ahora 
+si me dice no hay papel o puede ser una variante Okay ya lo incorporo a Mi 
+aliamos a mi a mi experiencia para mí siempre.
+52:40 Martin U.P.: Igual Perdón dice ambas ambas partes no son necesariamente 
+personas puedo ser yo y un banco voy al banco a pedir un préstamo lo que sea y 
+me sacan una Tablet y me dice firma acá y firman esa tablet estoy yo y la otra parte no está.
+52:51 Adrián B.: Claro, y ahí está el contrato ahí básicamente con todos los 
+detalles.
+52:54 María F.L.: Es el ejemplo es el ejemplo que le estoy dando chicos, es el 
+ejemplo que le estoy dando. O sea, le digo porque yo me pasó fui al banco, 
+ciudad a comprar un paquete, o sea, y y estaba de acuerdo y firmé en una tablet. 
+o sea, era el banco y yo entonces a eso hoy digo es una de las variantes Cuál es la
+53:19 Héctor D.C.S.: El medio no importa OK ahora entendí el medio, no importa, 
+sino que importa de la presencialidad en ese momento de de hacer el el el la 
+firma, no?
+53:29 María F.L.: la chicos a ver Qué es lo que tienen en común los contratos 
+estas dos formas el contrato entre presentes y el contrato entre ausentes qué es 
+lo que tienen en común? Cómo se va a llevar el Cómo se va a llevar adelante el 
+consentimiento. Eso es lo que tienen en común que los dos van a prestar su 
+consentimiento a través de la firma digital o de un clic.
+53:56 María F.L.: Sí, lo que tienen en común estas dos formas es que el 
+consentimiento se va a prestar a través del uso de la tecnología. Lo que tienen en 
+común es que los dos van a prestar su consentimiento van a decir, estoy de 
+acuerdo a través de una firma a través de un clic. Eso es lo que tienen en común. 
+Se entiende.
+54:24 Marco S.F.M.: Pero estamos hablando de las diferencias hace un rato atrás 
+o sea Qué
+54:27 María F.L.: Pero yo Después pregunté qué es lo que tienen en común?
+54:28 Marco S.F.M.: diferencia. Bien, entonces ahora con respecto a las 
+diferencias, uno es remoto y otro es
+54:33 María F.L.: Bueno, la diferencia es que uno claro.
+54:36 Marco S.F.M.: presencial y la otra diferencia.
+54:39 María F.L.: No, Esa era la diferencia.
+54:41 Marco S.F.M.: No, pero usted dijo que faltaba una que faltaba una 
+diferencia cuando no me acuerdo si Héctor o alguien mencionó exactamente.
+54:47 María F.L.: Ya no me acuerdo Yo no me acuerdo. No me acuerdo.
+54:51 Adrián B.: No, lo que mencionó y era lo que faltaba, digamos mencioné fue 
+el el consentimiento mutuo directamente, o sea, era aceptación por medio de la firma digital o haciendo un clic, eso es. Que estaba en los dos.
+55:03 María F.L.: Bueno ahí lo respondió la diferencia es que uno lo hace en el 
+lugar y el otro obviamente lo haces en tu casa, pero el contrato es el mismo.
+55:12 Franco E.: adri un 10
+55:14 María F.L.: Lo que tienen en común es que los dos van a prestar el 
+consentimiento a través de un medio tecnológico.
+55:25 Héctor D.C.S.: Puede ser que si voy a un banco y pide un crédito 
+actualmente y tenga que firmar mi consentimiento lo haga en una tablet o en 
+algún medio electrónico o aún porque no lo sé, pregunto O aún lo hago en papel y 
+queda archivado.
+55:39 María F.L.: Bueno, Eso depende que banco.
+55:41 Héctor D.C.S.: OK Pero es posible eso y ambos son aplicables, no?
+55:45 María F.L.: Podrían ser aplicables.
+55:47 Héctor D.C.S.: Okay listo esa de mi confusión para mí siempre lo presencial 
+fue bueno, toma un papel Léelo firma ancho y
+55:55 María F.L.: Claro pero porque estamos acostumbrados a eso Sí obvio, 
+estamos acostumbrados. Sí, sí sí. bueno A ver, nos queda mucho acá. Nos falta 
+bastante chicos. No estamos retrasados. Bueno, acá, que se entiende de lo que 
+es la oferta, así podemos avanzar. O qué es lo que no entienden? Bueno, acá 
+tenemos puerta. El proveedor está obligado, sí a Que cuando haga una oferta. Va 
+a tener que ser bien, claro, Sí va a tener que poner sí o sí, la fecha en que 
+comienza y finaliza su oferta sí, el tiempo en que va a durar.
+56:55 María F.L.: las modalidades de las condiciones o limitaciones después La 
+publicidad que hagan los proveedores a través de los medios de comunicación no 
+deben tener indicaciones falsas comparaciones confusas o información que de 
+repente puede inducir al error del consumidor Sí entonces acá decimos que la 
+oferta tiene que estar bien aclarada por parte del proveedor Sí y después las 
+publicidades en en síntesis no tienen que ser engañosas para evitar justamente 
+que el consumidor pueda llegar a equivocarse, sí.
+57:44 María F.L.: deber de información El Deber de información, le corresponde al 
+proveedor si el proveedor, o sea, aquella empresa, señor Coto sí tiene que 
+informar al consumidor el contenido mínimo y esencial de todo contrato, Sí todos 
+los datos necesarios para compatibilizar correctamente el medio elegido para comprender los riesgos derivados de su empleo y para tener absolutamente 
+claro, quién ASUME esos riesgos Entonces cuándo el proveedor Tiene un 
+contrato Sí o sea, arma un contrato obviamente.
+58:30 María F.L.: Va a tener que ser lo más claro posible si tiene que explicarle 
+todo al consumidor sí, de manera cierta Clara y detallada debe estar esa 
+información. Sí, tanto tanto de las cláusulas, como también el producto que va a 
+adquirir Sí tienen que tener todas las las características de eso de ese bien o de 
+ese servicio, sí, por su parte de todo esto el proveedor tiene que publicar en la 
+página un ejemplar de el modelo de contrato cosa de que todos tengamos la 
+libertad de poder ver bien leer de qué se trata? Sí bueno la aceptación mediante 
+clic eso ya lo lo hablamos el clic es el consentimiento que nosotros prestamos 
+ante un contrato, después algo sumamente importante que esto me parece que 
+es una de las cosas que que el niño general Las tomo que tiene que ver con La 
+revocación de la aceptación por parte del consumidor Sí el consumidor hizo el clic 
+dijo doy mi consentimiento en este contrato Me parece que está bueno quizá lo 
+leyó muy por encima.
+59:49 María F.L.: De repente se arrepiente porque lo leesó detalladamente dijo 
+Esto no me conviene Acá hay algo que no me cierra me arrepiento de me 
+arrepiento de de haber firmado este contrato Entonces quiero volver para atrás. 
+Puede o no puede revocar ese contrato que firmó Qué opinan ustedes? A ver los 
+escucho.
+01:00:24 Héctor D.C.S.: Sí, pero dentro de un determinada determinado tiempo.
+01:00:29 María F.L.: Bien, entonces sí puede. Sí si yo me arrepiento de lo que 
+firmé. Lo puedo hacer por qué lo puedo hacer porque la ley de defensa del 
+consumidor y el código civil dicen que yo tengo el derecho irrenunciable de 
+revocar la aceptación de ese contrato, dentro de un plazo, sí. Eso es lo que dicen.
+01:01:02 Héctor D.C.S.: Pasa igual con los servicios de viajes. Cancelo cinco días 
+antes me devuelve el dinero pero una porción. Pagué 100, quizás me dan 70.
+01:01:14 María F.L.: Claro claro
+01:01:17 Héctor D.C.S.: 70 60
+01:01:19 María F.L.: Sí sí tenés razón, pero bueno, lo más importante es que 
+podemos arrepentirnos Sí de que ese ese clic es como que no nos condena si 
+nosotros. Nos arrepentimos lo que tenemos que hacer es informarle notificarlo de manera fehaciente Sí al proveedor de nuestro arrepentimiento Sí si nosotros 
+dentro de un plazo notificamos al proveedor de que estamos arrepentidos de que 
+vamos a revocar ese contrato y en el caso de que yo haya tenido el producto se 
+lo devuelvo y en cuanto a respetar el tiempo y la forma.
+01:02:06 María F.L.: Después no nos debemos nada, si yo respeto eso no nos 
+debemos nada Sí así que termina todo como muy lindo. cuando hablábamos hace 
+rato de las cláusulas leónidas abusivas de estos contratos de adhesión tienen 
+que ver mucho con lo que dice el artículo 37 de la ley de defensa del consumidor 
+que justamente lo que hace este este artículo es decirnos que Que los las 
+empresas o los proveedores tienen que acatar, justamente lo que dice este 
+artículo 37 es decir.
+01:02:48 María F.L.: Si vas a hacer un contrato ojo con lo que vas a poner Sí por 
+qué? Porque justamente, les da una limitante lo que dicen es que por ejemplo un 
+contrato no va a ser válido, si contienen cláusulas que desnaturalizan las 
+obligaciones o limiten la responsabilidad por daños hablamos del proveedor las 
+cláusulas que importan renuncia o restricción de los derechos del consumidor. O 
+amplíen los derechos del proveedor sí, las cláusulas que tengan cualquier 
+precepto que imponga la inversión de la carga sí, de la prueba es decir, la parte 
+más débil.
+01:03:31 María F.L.: Es el consumidor entonces de repente en alguna cláusula que 
+diga que el que tenga que probar sea el consumidor, no, eso no es válido Por qué 
+Porque el consumidor justamente es la parte más débil de Estos tipos de 
+contrato. Sí, Entonces el artículo 37, lo que hace justamente es decir, los 
+contratos que tengan cláusulas que de repente restrinjan los derechos de los 
+consumidores. O por ejemplo desnaturalizan las obligaciones del proveedor no 
+van a ser válidas, sí.
+01:04:09 María F.L.: A eso se refiere y después en el artículo 38 vemos que en los 
+contratos de adhesión Supuestamente si son vigilados como para que para que 
+no sigan. Saliendo porque en realidad O sea hay un motivo igual hay un montón 
+esto Esto no se cumple. Sí, no sé, no se cumple lo que hacen es controlar que no 
+tengan cláusulas abusivas Pero la realidad es que hoy por hoy, o sea, vas al 
+banco y las cláusulas son abusivas en todos lados, Sí así que mucho No no creo 
+en en este.01:04:56 María F.L.: control que hay de este tipo de de cláusulas sí de perdón de 
+control sí respecto de la jurisdicción Bueno cuando surgen algunos problemas 
+entre consumidor y proveedor acá lo que dice el código civil es que Que el 
+consumidor sí, lo que va a poder hacer es iniciar la demanda en la jurisdicción que 
+él considere sean su domicilio sea en el local donde adquirió el producto, o sea, 
+en el domicilio del proveedor y demás, Sí o sea es como que él puede elegir 
+dónde llevar adelante esta esta demanda sí, Y acá es básicamente lo mismo Sí así 
+que chicos.
+01:05:42 María F.L.: sé que quedó claro que es lo que Qué es lo importante de 
+acá. Bien, bueno tenemos. a ver protección protección de datos personales Ahí 
+les comparto. bueno A ver, vamos a ver acá. Qué es lo que voy a tomar? Bueno, a 
+ver, chicos, Qué es la Esfera íntima, eso lo sabemos todos, sí. Eso sabemos todos 
+tiene que ver con nuestra intimidad Qué es la autodeterminación informativa. Es 
+un derecho que tenemos todas las personas sí, de brindar, información respecto 
+de nosotros Nosotros vamos a tener la medida justa de esa información que 
+vamos a dar Por ende, nosotros mismos lo que vamos a hacer es que tenemos 
+justamente la posibilidad de poder disponer y controlar esa información que 
+nosotros ofrecimos sí, lo que vamos a hacer es Yo te ofrezco mi información 
+Bueno ahora, quiero saber a dónde va destinada, Qué vas a hacer con mi 
+información, Sí ese tipo de cosas. Esa es la autodeterminación informativa.
+01:07:57 María F.L.: Nosotros vamos a controlar. Qué es lo que vas? Qué es lo que 
+se va a hacer con esa información que nosotros ofrecimos, sí. No sí, Esto sí Esto 
+realmente lo voy a tomar. Sí, sobre todo para el final sí que es un tema que me 
+interesa muchísimo. Qué es lo que dice el artículo 19? De qué habla el artículo 19? 
+El artículo 19, lo que dice es que las acciones las conductas que nosotros 
+llevemos adelante dentro de nuestra privacidad dentro de nuestra casa Sí en 
+tanto no atenten contra el orden y la moral, sí o no perjudique No un tercero no 
+pueden ser juzgadas salvo pueden ser jugadas por Dios pero no por un juez.
+01:09:04 María F.L.: sí Y esto está íntimamente vinculado con el artículo 18, Sí 
+igual está a propósito puesto así primero el 19 después el 18, porque en el 18 sí 
+volvemos a hablar de la privacidad de nuestra esfera íntima, Sí y acá lo que 
+decimos Es que la Constitución lo que hace. Es garantizar todo lo que ocurra 
+dentro de mi esfera íntima es decir. Nadie puede meterse en mi casa nadie puede meterse en mi correo electrónico en mi correspondencia en mi documentación 
+que Considero que es privada sí salvo una excepción y esa excepción tiene que 
+ver con una orden judicial sí es decir cuando hablo de esfera íntima hablo de todo 
+lo que ocurre en mi casa y también de todas aquellas cosas que tienen que ver 
+con mi privacidad sí acá mezclo el artículo 18 19 y todo lo que yo a mi casa nadie 
+me puede juzgar Nadie puede hacer un juicio pueden hacer un juicio de valor 
+pero no un juicio hablo de legal. Sí, nadie puede meterse en mi vida de lo que yo 
+en mi casa pero también Nadie puede meterse en mi casa Ni tampoco en toda la 
+documentación que yo tengo en email y demás.
+01:10:41 María F.L.: entonces Cómo es esto de que nadie pueda meterse y no al 
+principio general es que nadie puede meterse salvo excepciones, Sí cuando yo 
+estoy de repente consumiendo o teniendo cualquiera de las dos. Pornografía 
+infantil ahí sí puede que exista un allanamiento porque me están investigando Y 
+ahí sí pueden entrar a mi casa a mi correspondencia a mi a mis papeles y demás 
+sí se entendió. Bueno después de la Constitución me interesa Eso sí eso esos dos 
+artículos hasta ahora después tenemos la ley 25.0326, que no les voy a preguntar 
+De qué habla de la ley 25036 No sí me interesa que sepan lo que tiene si en este 
+caso vemos que esta ley habla específicamente sobre lo la protección de datos 
+personales el artículo uno lo que dice Que que la finalidad que tiene justamente 
+esta ley es poder proteger de manera íntegra integral todos los datos que están 
+contenidos en archivos en registros sí, y que tienen como finalidad dar informes 
+Sí por qué se quiere proteger esto para garantizar el derecho? Al honor y a la 
+intimidad de las personas, Sí qué protege los datos personales cuando yo les 
+pregunto qué es lo que protege Cuál es la intención Cuál es la finalidad que tiene 
+esta ley bueno, la finalidad es proteger los datos personales que están dentro de 
+bancos de datos sean públicos o privados que tengan como finalidad brindar 
+informes, sí, acá tenemos estos conceptos que son los datos personales fíjense 
+de datos personales información de cualquier tipo referida a personas humanas o 
+jurídicas, o sea, personas físicas, nosotros o empresas sí, los datos sensibles 
+están vinculados con el origen racial y étnico opiniones políticas información 
+vinculada con la salud o la vida sexual entre otras cosas.
+01:13:31 María F.L.: Sí bueno Qué es un archivo un registro, eso lo pueden leer, 
+pero me importa mucho que ustedes puedan distinguir entre los datos personales y sensibles, sí. El artículo 3 habla sobre los bancos de datos que no pueden tener 
+finalidades contrarias a las leyes de la moral pública y el artículo cuatro sobre la 
+calidad de los datos es decir lo que la ley dice es que los bancos de datos tienen 
+que ser lícitos, sí, Y obviamente la obtención de esos datos que van a estar en la 
+base de datos en los archivos y demás tienen que ser obtenidos. Digamos de 
+manera.
+01:14:21 María F.L.: Normal, sí, O sea no, no tiene que haber ejercido ningún tipo 
+de violencia, tiene que haber un vicio en la voluntad sí tiene que prestarse con o 
+sea, tiene tiene que haber consentimiento por parte de la persona que va a dar 
+esa información y esto quiere decir que así como decimos que los bancos de 
+datos tienen que ser lícitos es porque no tienen que ser contrarios a la moral a la 
+a las leyes y demás, Por ende cuando yo quiero obtener información Tampoco 
+puede hacerse a través de medios desleales fraudulentos o contrario a lo que 
+dice la ley, sí.
+01:15:05 María F.L.: Esos datos personales Sí tienen que ser ciertos adecuados 
+pertinentes y no excesivos en relación a la finalidad para los que fueron 
+obtenidos, o sea, acuérdense que cuando yo pido un dato cuando Yo ofrezco un 
+dato porque me lo están pidiendo obviamente tiene que que ser acorde al 
+contexto, sí Y por supuesto que cuando Yo ofrezco esos datos no pueden ser 
+utilizados para otra cosa más que para lo que me están pidiendo sí Y obviamente, 
+que cuando yo doy mis datos se cumple la finalidad esos datos tienen que ser 
+posteriormente destruidos. Sí, los datos personales tienen que ser exactos y 
+actualizarse, sino se actualizan acuérdense el artículo 43. Sí, los datos total o 
+parcialmente en exactos o que Sean incompletos deben ser suprimidos y 
+sustituidos o en su caso completados, sí.
+01:16:14 María F.L.: A ver, acá esto también tiene que ver con con lo que les había 
+comentado de la calidad de los datos. Sí es importante el tema del 
+consentimiento. Si nosotros queremos obtener datos tienen que haber un 
+consentimiento por parte de la persona. Bueno Esto no. derechos del titular 
+bueno, acá habíamos hablado de que La persona, o sea, me voy a poner como 
+ejemplo, yo tengo el derecho de información, Qué significa el derecho de 
+información significa que yo puedo hacer sí consultas sobre qué bases de datos.
+01:17:14 María F.L.: Tienen o qué empresa tiene base de datos Y yo estoy en ella, sí, O sea mis datos están ahí. Yo puedo hacer eso sí es como por eso la la este 
+derecho se llama así de hecho de información, yo puedo pedir hacer pedir 
+información hacer una consulta pública y gratuita sobre los bancos de datos que 
+existen. La finalidad e identidad de los responsables de esas empresas sí 
+Entonces de esa manera paso al derecho de acceso de la información.
+01:17:56 María F.L.: Qué es lo que voy a hacer con esto yo de manera gratuita 
+después de haber hecho esa consulta lo que voy a hacer cada seis meses, no 
+menos sí es o sea, pedir información a estas base de datos, Porque quiero saber 
+qué es lo que tienen sobre mí sí Entonces yo lo que lo que voy a hacer es solicitar 
+información y ellos me lo tienen que dar dentro de los diez días corridos de haber 
+sido notificados fehacientemente sí, obviamente me van a tener que dar toda esa 
+información todo lo que tengan sí.
+01:18:39 María F.L.: Cuando de repente Yo veo que hay información que no está 
+completa o es inexacta, tengo acá el derecho de rectificación actualización 
+supresión y confidencialidad que esto este derecho va a va a activarse en caso 
+de falsedad Inés actitud o desactualización el banco de datos debe proceder a la 
+solicitud en el plazo de cinco días hábiles de recibido el reclamo sí van a tener 
+que hacer alguna de estas cosas todo va a depender, sí.
+01:19:12 María F.L.: información que que yo haya obtenido sí, a ver qué más tengo 
+acá Bueno, Esto es medio importante habías gato cuando hablamos de habeas 
+Data hablamos de no, yo me pasé el artículo 43, me parece. acá Está bueno 
+artículo 43 artículo 43 dice toda persona puede interponer acción expediente 
+rápida de Amparo siempre que no existe otro medio judicial más idóneo, digo esto 
+lo tomo sí no, no tomo Exacto pero necesito que ustedes entiendan de qué se 
+trata sí Y ese artículo 43, lo que hace es habilitar justamente nos habilita todas 
+las personas a que podamos interponer una acción expedita que en este caso 
+como estamos hablando de protección de datos personales hablamos de habeas 
+Data sí siempre yo puedo interponerlo siempre que no haya otro remedio judicial 
+más idóneo sí contra todo acto hubo misión de autoridades públicas o 
+particulares que en forma actual o inminente lesiona restrinja altera o amenace 
+con arbitrariedad e ilegalidad manifiesta derechos y garantías Que se reconocen 
+en la Constitución sí puede ser también un tratado o una ley toda persona puede 
+interponer esta acción para tomar conocimiento de los datos referidos a ellos y de su finalidad que consten en registros o bancos de datos públicos o los 
+privados destinados a proveer informes y en caso de falsedad o discriminación 
+para exigir la supresión rectificación confidencialidad o actualización de aquellos, 
+sí Entonces con esto lo que quiero decir es la idea no es aprenderse de memoria, 
+el artículo 43 de la Constitución nacional La idea, es poder saber cuándo 
+podemos aplicar esto, para qué sirve Qué es? Sí Quiénes están habilitados para 
+para utilizar este artículo 43.
+01:21:36 María F.L.: entonces de ahí nos vamos rápidamente a la vías Data Que 
+tiene que ver justamente con el artículo 43. Sí, proceso constitucional que tutela 
+el derecho a la intimidad y el honor respecto de los datos que versan sobre una 
+persona que estén contenidos en bancos de datos destinados a proveer 
+informes, sí Entonces no voy a repetir lo mismo, pero quiero que ustedes ellas 
+dato lo vinculen con el artículo 43 cuando yo pregunto de qué se trata el artículo 
+43 Pueden decir que se trata de un remedio judicial. Sí, algo que las personas 
+podemos.
+01:22:18 María F.L.: interponer sí En el caso de que haya una desactualización de 
+nuestros datos personales en alguna base de datos, Sí también podemos 
+interponer esto cuando que ahora ya lo vamos a ver cuando No sé, pidamos 
+información en alguna establecimiento de salud sea público privado y no me 
+quieran dar información, No me quieran dar mi historia clínica, vamos a activar 
+Esto sí, quién lo puede llevar adelante bueno en cuando hablamos de personas 
+humanas, o sea, nosotros cuando yo empecé me considero afectada sí y en el 
+caso de las personas jurídicas, o sea, de una empresa el representante legal, sí, la 
+legitimación pasiva, o sea Contra quién se va a llevar adelante esto contra los 
+bancos de datos públicos o privados destinados a dar informes sí y hasta ahí. Es 
+lo que me interesa que ustedes sepan.
+01:23:29 María F.L.: Bueno vamos a A esta segunda parte que es más cortito, sí. 
+Y nos va que hacemos un recreo Después de cinco diez minutos y volvemos con 
+delitos informáticos para ya terminar Sí cuando hablamos de protección de datos 
+personales, vamos a ver una clasificación tenemos los datos sensibles, Si 
+volvemos acá a la ley 25.236, que lo que nos dicen que son los datos sensibles. 
+Bueno, eso ya lo habíamos hablado, sí, todos los datos que estén vinculados al 
+origen racial y étnico opiniones políticas toda que su información que esté vinculada con nuestra salud con la vida sexual con la religión, Sí y Que 
+obviamente nosotros o ninguna persona está obligado a proporcionar este tipo de 
+información.
+01:24:24 María F.L.: Pero obviamente este artículo siete tiene una excepción, sí 
+que en principio Nadie puede estar obligado a brindar esta información. salvo 
+cuando hayan razones de interés general autorizados por la ley sí, después 
+cuando su uso sea por finalidades estadísticas o científicas si no pueden ser 
+identificados la idea es que no se puedan identificar a los titulares Sí entonces 
+estas serían las excepciones después También tenemos Que dentro de los datos 
+sensibles al Registro Nacional de datos genéticos vinculados a delitos contra la 
+integridad sexual esto es un tema más delicado, sí, acá la ley 26.879, creó un 
+registro Sí donde se almacena y se sistematiza información genética que está 
+asociada a una muestra o a una evidencia biológica que esto se va a dar en el 
+curso de una investigación Sí entonces la persona que va a estar sometida a la 
+recolección de estos datos Generalmente son personas que están condenadas Sí 
+con una sentencia firme o bien alguna persona que está imputada por algo dentro 
+de un proceso judicial, sí, obviamente esta información no es que cualquiera 
+puede acceder, sino obviamente tenemos que el Ministerio Público fiscal.
+01:25:55 María F.L.: Los jueces y tribunales sí pueden acceder a este tipo de 
+información obviamente dentro de un marco de investigación Sí porque los datos 
+que se van a recolectar acá van a ser nombre apellido apodos una foto 
+actualizada la fecha y el lugar donde nació la nacionalidad del documento, sí. 
+Entonces tengan en cuenta que todos no podemos acceder a esto sino 
+determinadas personas, sí, Y acá, quién levantó la mano? Ah pensé que alguien 
+había levantado la mano Bueno sigo dentro de los datos sensibles también vamos 
+a ver y este es el último los datos vinculados a la salud nuestra sí, acá tenemos 
+una doble protección la ley de protección de datos personales Y también la otra 
+que es la 25.529 Y en este caso, lo que nos dice Esta última ley es que y que está 
+también mezclado con la ley de protección de datos personales es que por 
+ejemplo tanto los establecimientos públicos establecimientos de salud públicos o 
+privados los médicos o profesionales de la salud todas aquellas personas que 
+tengan acceso a nuestra información de nuestra salud tanto física o mental.
+01:27:31 María F.L.: Sí tienen que respetar el secreto profesional, o sea, no pueden divulgar sobre nuestra sobre el estado de nuestra salud sí Entonces ahí 
+es donde los médicos tienen que tener, tienen que respetar Esa confidencialidad 
+sí, por nuestra dignidad humana por nuestra intimidad y Se tratan de datos 
+sensibles Y entonces Ellos están obligados a mantener en secreto todo lo que 
+tenga que ver con esta salud física o mental sí, y en el caso de que uno quiera 
+solicitar la historia clínica de estos establecimientos, eso están obligados a 
+proporcionar la íntegramente Sí entonces en el caso de que el establecimiento no 
+me dé la información, sí.
+01:28:25 María F.L.: dentro de las 48 horas que yo había pedido lo que voy a 
+hacer ante esa negativa o esa demora o el silencio voy a interponer esto que me 
+dice el artículo 43 de este remedio judicial que es el habeas Data Después 
+tenemos que también nosotros podemos o debemos brindar información en el 
+caso de los fines policiales, si esto también lo dice La Ley de de protección de 
+datos personales que cuando sean con fines policiales o de defensa nacional o 
+seguridad pública. Nosotros tenemos que brindar nuestra información sí, Y 
+obviamente una vez que nosotros brindamos nuestra información Ellos tienen que 
+destruir todo lo que hayan recolectado Sí con respecto.
+01:29:26 María F.L.: A los datos de información crediticia sí, acá también tiene 
+que ver con que con que en un punto si nosotros pagamos una deuda Sí y nos 
+siguen llamando porque dicen que no la pagamos obviamente también podemos 
+accionar con esto y pedir que no nos sigan torturando de alguna manera u otra. 
+Ahí voy. Y es el famoso derecho al olvido como también Cuando tenemos una 
+deuda, pasó mucho tiempo ya está prescripta. Bueno, Tenemos también el 
+derecho al olvido Sí después de un tiempo es como que ya no deberían estar 
+llamándonos Sí y después esto lo van a leer ustedes porque es lo que les dio el 
+profesor Carlos sobre los servicios de datos informatizados, Sí Héctor
+01:30:31 Héctor D.C.S.: Sí profe, tengo algo puntual con respecto a eso que te 
+llamen tiempo atrás, tenía un amigo que yo alquilaba una casa. Una de las 
+propiedades y bueno se fue no vino más y se ve que por alguna razón dejó mi 
+número telefónico mi contacto por alguna deuda que él tiene y me llaman 
+continuamente. tres veces por mes fácil y me dicen Pepito no no vive más acá y 
+ya como que cada vez le respondo un poco más seco.
+01:31:03 Héctor D.C.S.: Cómo puedo hacer para que me dejen de llamar porque le dije mira no vi de mala persona Acá no está más. No sé si me explico.
+01:31:12 María F.L.: Sí es que el tema es que no es que a vos te llaman porque vos 
+tenés una deuda, la deuda la tiene él En todo caso es lo que tiene que hacer es 
+comunicarse, sí, comunicarse con la empresa con el estudio, no sé con lo que sea 
+y aclarar su situación.
+01:31:34 Héctor D.C.S.: O sea que por más que yo le diga Mira este no es el
+01:31:37 María F.L.: Te van a seguir llamando.
+01:31:39 Héctor D.C.S.: Ah listo no le puedo hacer ninguna a ver cómo se dice
+01:31:44 María F.L.: intimarlos
+01:31:47 Héctor D.C.S.: sí, tipo, déjame de j****, porque no, no, ya estaba, me 
+llamaste Me está llamando hace tres años, no tengo nada que ver, está bien, no 
+molesta, pero no
+01:31:51 María F.L.: claro
+01:31:56 Héctor D.C.S.: es j***** para mí porque me preguntan más por una 
+persona pero
+01:31:59 María F.L.: Sí porque aparte dicen seguramente que él dejó ese teléfono. 
+como referencia
+01:32:05 Héctor D.C.S.: Sí yo le expliqué le expliqué todas las historias así como 
+le explicó acá y un poquito más de detalle, pero bueno, no quería saber si podía 
+decirle algo o sabía algún lugar para poder borrar esa información que 
+proporcionó esta persona.
+01:32:18 María F.L.: Claro, es que él es el titular nadie lo puede hacer.
+01:32:23 Héctor D.C.S.: Okay entonces yo puedo tranquilamente puedo poner el 
+número de otra persona tengo una deuda y la llaman siempre a esa persona.
+01:32:31 María F.L.: sí
+01:32:32 Héctor D.C.S.: Ah es muy fácil.
+01:32:33 María F.L.: Es muy fácil y lo del estudio no lo van a borrar tampoco.
+01:32:34 Héctor D.C.S.: Okay.
+01:32:38 María F.L.: Porque te van a alcanzar a vos para que vos obviamente 
+llames a la otra persona
+01:32:38 Héctor D.C.S.: Okay.
+01:32:42 María F.L.: esa es.
+01:32:44 Héctor D.C.S.: Sí, sí.01:32:45 María F.L.: una manipulación que hay Pero bueno chicos no De nada, 
+vamos a volver con
+01:32:46 Héctor D.C.S.: un enganche Sí sí sintiendo entiendo okay, Gracias
+01:32:58 María F.L.: con delitos informáticos, ahora volvemos en cinco minutos, 
+sí, volvemos y cuarenta y ocho y vamos a ver solamente la última parte de delitos 
+informáticos, porque la primera son las características y lo que más me interesa 
+es que
+01:33:14 María F.L.: volvemos 20:48
+01:33:16 María F.L.: Es que puedan podamos repasar la última parte de delitos 
+informáticos Así que nos vemos en cinco minutos.
+01:38:12 María F.L.: chicos, estamos Bueno vamos a ver la última parte y con esto 
+ya terminamos sí, las características de los delitos informáticos nada es poco. Sí 
+es muy muy sencillo. Esto lo voy a dejar de lado. Vamos a ir a los delitos más 
+puntuales, sí. Tenemos acá el famoso hacking, que ya lo corregí, después se lo 
+subo el
+01:38:46 Ariel P.: No esta compartiendo profe
+01:38:51 María F.L.: acceso ilegítimo a sistemas informáticos, Sí este delito fue 
+incorporado como un delito informático algo que no estaba en su momento y lo 
+que vamos a ver son todas las incorporaciones que tuvo este código penal Sí el 
+artículo 153 bis lo que dice. Es que se va a castigar con pena de prisión. Aquella 
+persona que acceda por cualquier medio sin la debida autorización a un sistema o 
+dato informático de acceso restringido. Esto es muy fácil. Sí se va a castigar 
+aquella persona que acceda a un sistema o dato informático y Que obviamente, 
+no está autorizado Sí eso es básicamente.
+01:39:43 María F.L.: Dice esta pena que que hice de 15 meses a seis meses de 
+quince días a seis meses se va a ver agravada, cuando se haya ingresado a un 
+organismo público Estatal sí o bien. Bueno, fíjense o de un proveedor de servicios 
+públicos o de servicios financieros, pero a mí acá lo que me importa es que en 
+este caso se castiga aquella persona que no estaba autorizada para ingresar a 
+determinados sitios o en este caso a un sistema o un dato informático y Que 
+obviamente la pena se va a grabar cuando sea a un organismo público Sí después 
+tenemos.
+01:40:28 María F.L.: También dentro de las incorporaciones que se hicieron el artículo 183, sí que acá lo dividimos en Sabotaje informático y en daño 
+informático y distribución de virus También acá, se va a castigar aquella persona 
+que lleva
+01:40:41 Héctor D.C.S.: No esta compartiendo profe
+01:40:45 María F.L.: adelante estas conductas altere destruya inutice algún dato 
+documento programa o sistema informático sí o vendiera distribuyera hiciera 
+circular o introdujera un sistema en un sistema informático o cualquier programa 
+destinado a provocar un daño. Sí acá se castigan estas conductas sí respecto de 
+un programa para provocar un daño. Es así de sencillo. En el párrafo 2 de este 
+mismo artículo habla del daño informático y distribución.
+01:41:20 Martín B.: Profe disculpe que le interrumpa no, no estamos viendo la 
+presentación.
+01:41:23 Héctor D.C.S.: No está compartiendo. No está compartiendo teacher.
+01:41:28 María F.L.: Creo que la compartí la saqué, perdón.
+01:41:32 Héctor D.C.S.: Está cansada profe.
+01:41:33 María F.L.: Sí, chico, sí. Ya es muy tarde. Ahí está. Ah, porque no nos 
+estaba leyendo Bueno pero quieren que vuelva
+01:41:40 Martín B.: Ahora sí, gracias.
+01:41:44 María F.L.: vuelvo era una sola. Era esta la de hacking.
+01:41:51 Héctor D.C.S.: Sí todo bien profe
+01:41:53 María F.L.: Bueno, perfecto, vuelvo acá, entonces fíjense acá siento 
+artículo 183. primer párrafo segundo párrafo sí El primero ya les dije lo que se va a 
+castigar, es aquella persona que lleva adelante estas conductas alterar destruir 
+inutilizar. Sí que venda distribuya, haga circular o introdujere en un sistema 
+informático cualquier programa. Que tenga como finalidad causar un daño Sí en el 
+caso. del del párrafo dos, Sí también se va a castigar al que lleva adelante todas 
+estas conductas Sí también destinadas a causar un daño Entonces el segundo 
+párrafo tiene que ver con el delito de virus Maker sí Acá lo que se va a castigar, 
+es aquella persona que elabora un malware. Y lo hace circular siempre con el 
+objetivo de provocar un daño.
+01:43:14 María F.L.: Después tenemos otra figura totalmente distinta lo que 
+venimos viendo que es el grooming que no vamos a ver el video Si eso después 
+ustedes si quieren lo pueden ver acá lo que me importa que ustedes sepan que es el grooming. Sí que puedan distinguir las partes de este caso también esta 
+figura se incorporó en el 2013 en el artículo 131. Y lo que dice es que se va a 
+castigar a aquella persona que por medio de comunicaciones electrónicas 
+telecomunicaciones o cualquier otra tecnología de transmisión de datos 
+contactaré a una persona menor de edad con el propósito de cometer cualquier 
+delito contra la integridad sexual Sí bueno, este es el concepto.
+01:44:04 María F.L.: Pero el artículo 131 lo lo explica bastante bien. Habíamos 
+dicho que este esta figura tiene tres etapas. Sí, Y esto es sumamente importante 
+tenemos la fase inicial la intermedia y la final que es la finalidad que tiene 
+justamente el groomer Sí entonces en la primera etapa. Esta persona adulta que 
+puede ser un hombre o puede ser una mujer? Lo que va a hacer es acercarse a un 
+menor o a una menor Sí suplantando una identidad que no es Es decir una 
+persona de 30 años, sea hombre o mujer se hace pasar por un nene o por una 
+nena de 12 años, Sí para qué hace eso para ganarse la confianza Sí para hacerse 
+amigos confidentes y empezar por la etapa intermedia, que es la de obtener 
+justamente.
+01:45:11 María F.L.: Los datos personales de su víctima sí empiezan a 
+intercambiar información se hacen súper conscientes y justamente eso lo va a 
+llevar al ciberdelincuente. a pedirle fotos videos que sugieran algo con de los o 
+sea, con algo sexual Sí por supuesto la víctima, No no va a querer acceder, pero 
+ya el el adulto tiene mucha información con lo cual empieza a extorsionarla Sí 
+entonces la víctima obviamente accede a esto y empieza a enviarle fotos todo 
+esto con una finalidad
+01:46:06 María F.L.: que es llegar al encuentro Sí y poder corromper a la víctima 
+en el Encuentro sexual Sí así que es, básicamente eso y después tenemos a 
+distribución de pornografía infantil. Sí También acá, tenemos la tenencia de 
+pornografía infantil para consumo personal o simplemente para distribuirla 
+comercializarla en cualquiera de los casos está castigado. Sí También acá, vemos 
+que nos Encontramos con que se va a castigar aquella persona que lleva adelante 
+todas estas conductas que menciona el artículo 128, sí.
+01:46:53 María F.L.: Y cuando hablamos de pornografía infantil hablamos de toda 
+representación de un menor de 18 años realizando actividades sexuales que 
+pueden ser explícitas, sí o bien puede ser que esté mostrando sus partes íntimas, Sí también se va a castigar a que esa persona que lleve adelante que organice 
+espectáculos en vivo de representaciones sexuales explícitas en la que estén los 
+menores también se va a castigar a aquellas personas que accedan a este tipo de 
+eventos Eso está más adelante.
+01:47:30 María F.L.: Cuando hablamos de de representaciones, estamos hablando 
+de fotos videos diapositivas imágenes y demás sí, Ahora bien, hay 
+representaciones que son consideradas delictivas y otras que no, por ejemplo las 
+caricaturas y las animaciones no están consideradas como representaciones para 
+la ley tampoco las grabaciones de audios, no sé los cuentos las cartas que 
+relaten las experiencias de la vida real del autor y demás sí. en el caso de la 
+tenencia de pornografía infantil Simplemente para consumir o la oi la tenencia de 
+pornografía infantil con fines de distribución o comercialización están castigadas 
+Sí en ambos casos el simple hecho de tener pornografía infantil se castiga.
+01:48:34 María F.L.: sí Bueno, esto ya también lo habíamos hablado de que en la 
+actualidad se está trabajando para también incorporar estas figuras que tienen 
+que ver con la pornografía infantil creadas por la Inteligencia artificial y después 
+tenemos las modalidades de fraude informático Ay perdón, las modalidades de 
+fraude informático sí que también están castigadas en el artículo 173 inciso 16, 
+vamos a ver que también se va a castigar aquella persona que defraude a otro 
+mediante cualquier técnica de manipulación informática que altera el normal 
+funcionamiento de un sistema informático y acá vamos a ver el famoso el famoso 
+fishing. Sí que la clase pasada. Estamos hablando.
+01:49:40 María F.L.: Y de sus tipos Sí entonces Qué entendemos por fishing a ver 
+alguno que me diga qué entiende por phishing.
+01:49:56 Joaquin G.M.: Y por la palabra en inglés podría decir que como.
+01:49:59 Adrián B.: Es la sustitución de identidad, o sea Sergio fastrada por una 
+persona. O otra identidad.
+01:50:07 María F.L.: claro
+01:50:08 Héctor D.C.S.: para al río Zárate
+01:50:12 María F.L.: Acá simplemente el fishing para entenderlo, es que alguien se 
+va a suplantar una identidad para poder obtener información personal o 
+financiera. Sí, de obviamente de otras personas, Sí eso digamos, sería todo en 
+algún momento cuando se los pregunte se explayarán si es en el oral o en el examen, veremos Cómo cómo se pregunta esto o si es un caso práctico sí 
+tenemos los tipos de fishings. Esto ya lo habíamos visto, pasamos al smithing.
+01:50:55 María F.L.: Este esto se lleva adelante a través de los mensajes de texto 
+Sí entonces acá nos en ese mensaje, nos envían algún enlace obviamente para 
+poder acceder a nuestros datos personales, sí, algo parecido. Tenemos al Wisin 
+Que ahí los mensajes, los vamos a recibir a través de Whatsapp o puede ser 
+Telegram sí es un engaño que se realiza vía telefónica donde la víctima, va a 
+llamar Perdón donde a la víctima. La van a llamar haciéndose pasar por una 
+persona allegada o alguien de la organización para obtener información personal. 
+Bueno, Esto también lo vimos mucho en la pandemia.
+01:51:47 María F.L.: farming la mezcla entre allá como me faltó algo Esperen que 
+lo acomodo así ya se los paso. Ahí está farming más bueno Esto también lo 
+habíamos visto, sí que acá. Se acuerdan el ejemplo que habíamos visto la clase 
+pasada.
+01:52:22 Adrián B.: No, pero esto por lo general es El reemplazo de la página 
+original por una fraudulenta para conseguir, por ejemplo contraseñas de bancos o 
+demás este haciéndole creer al usuario de que está accediendo la página Real 
+cuando no.
+01:52:36 María F.L.: Claro, Sí bueno yo tenía un ejemplo pero lo saqué de de cómo 
+a veces no nos damos cuenta de que por ahí ingresamos a un link y nos 
+redirecciona a otro lugar, pero la página por ahí es la misma el link es el mismo 
+pero bueno, a veces no nos damos cuenta Sí la verdad que estamos muy bien 
+hecho yo tenía uno, creo que era de MercadoLibre Lástima que lo saque Bueno si 
+lo encuentro por ahí se los paso para que lo vean keylogger.
+01:53:12 María F.L.: esto lo habíamos visto también sí que es cuando tipeamos a 
+través del tipeo, nos sacan toda la información Sí yo les había contado también el 
+ejemplo de De un alumno que me había comentado que fue de los lunes, cómo le 
+había
+01:53:32 Héctor D.C.S.: Hermoso y facil
+01:53:34 María F.L.: robado los datos como había hecho el keylover con con un 
+chico que hace tiktok Sí pero bueno, Esta es otra de las formas en que se puede 
+también robar la información ransomware. Que también lo habíamos hablado.
+01:53:55 Adrián B.: Este es hermoso, es el que cifra los datos de la computadora y te pide rescate por los mismos.
+01:54:04 María F.L.: Claro pero que también habíamos dicho que te roban la 
+información, o sea la secuestran después pasa el rescate, pero nunca te la 
+devuelven.
+01:54:15 Adrián B.: Correcto Te vuelven a pedir más dinero todavía.
+01:54:18 Mauro S.F.: ese lo vivimos a principio de año en el laburo :(
+01:54:19 María F.L.: claro, este también lo habíamos visto, habíamos dicho que es 
+cuando el robo de la información Se hace a través de las bandas magnéticas, sí, 
+las tarjetas de débito habíamos dicho también que que por ejemplo, vas ponés tu 
+tarjeta de débito en el cajero y de repente no sé, hay como un aparatito que es 
+igual al que está en el cajero para para insertar la tarjeta y te robó los datos a 
+través de eso también habíamos dicho que Abrir las puertas de un cajero, los 
+teníamos que hacer con alguna tarjeta que no sea de débito Sí pero bueno acá 
+fíjense combina un moderno dispositivo electrónico con micro cámaras de video.
+01:55:20 María F.L.: Claro porque también teníamos las cámaras, no? Además de 
+las bandas además de del aparatito donde nosotros ponemos la tarjeta de débito 
+también hay en cámaras.
+01:55:35 Héctor D.C.S.: arriba de la cajero automático para tomar las claves de
+01:55:37 María F.L.: de teclado Claro del teclado. Bueno, vieron que ahora hay 
+como una como una sola pista como
+01:55:40 Héctor D.C.S.: la tarjeta
+01:55:46 María F.L.: algo para que tape el teclado.
+01:55:52 Adrián B.: Sí, Por lo general también. Ahora están empezando los bancos 
+o por lo menos el Galicia A ponerle cajeros nuevos donde vos podés loguearte 
+directamente desde el teléfono. Con el token Entonces no vos no pones nunca la 
+misma contraseña.
+01:56:04 María F.L.: claro
+01:56:09 Adrián B.: Este en el cajero y eso evita. Este el robo de las credencial 
+digamos.
+01:56:20 María F.L.: Bueno chicos alguna pregunta alguna duda
+01:56:27 Héctor D.C.S.: mande por el chat profe
+01:56:30 María F.L.: Dije alguna dije alguna pregunta alguna duda respecto de lo 
+que acabo de decir.01:56:36 Alvaro J.C.: todo perfecto por
+01:56:38 Héctor D.C.S.: Dios mío, nada.
+01:56:38 Adrián B.: acá
+01:56:42 María F.L.: Perfecto, eso quería saber si tenían alguna pregunta alguna 
+duda, así dejo de grabar.
+01:56:52 Héctor D.C.S.: Ninguna todo perfecto.
+01:56:54 María F.L.: Bueno, bárbaro. Esto fue todo. Ahora sí a ver Héctor
+01:57:06 Héctor D.C.S.: Y ya me acondicionó sino como que se enojó profe.
+01:57:09 María F.L.: no, pero
+01:57:11 Héctor D.C.S.: estoy sensible, no sé que
+01:57:13 María F.L.: Está sensible entonces manejar la sensibilidad.
+01:57:14 Héctor D.C.S.: No sé algo pase algo algo, pasó ahí? Ya vi su cambio de 
+humor su gesto.
+01:57:17 Franco E.: asereje, ja, deje, dejebe tudejebere
+01:57:20 Héctor D.C.S.: Entonces muy entiendo mucho lo de la corporalidad y 
+Creo que me odio en un momento. Bueno, no, si puede a ver si podría mandar 
+algo al grupo o de de WhatsApp como para que sea más informada pero a la vez 
+formal.
+01:57:33 Franco E.: no sé cómo seguía la canción
+01:57:38 Héctor D.C.S.: Algo típico de preguntas y respuestas acerca no las 
+preguntas del examen obviamente porque se entiende que no, que como para 
+que podamos. Entender un poco más yo, por ejemplo, acá noté ley no va a tomar 
+ninguna
+01:57:54 Francheri L.R.: Pase el link deel grupo plis
+01:57:54 Héctor D.C.S.: artículos, no? O sea puntuales, no?
+01:57:58 María F.L.: acá acá Rosario Está pidiendo el link del grupo? No sé si la 
+leen a Rosario está pidiendo el link. Alguien le puede pasar el link, por favor?
+01:58:15 Adrián B.: A ver es el del premio parcial, no?
+01:58:17 María F.L.: sí
+01:58:18 Adrián B.: A ver dónde estará.
+01:58:21 María F.L.: y Héctor está pidiendo demasiado Héctor Ya les pasé el 
+primero
+01:58:28 Héctor D.C.S.: Ya no sé qué pedir profe por ahí pido algo sencillo y no no pasa nada y pido algo más complejo tampoco pasa nada.
+01:58:37 María F.L.: Bueno me fijo a ver me fijo a ver qué puedo armar porque los 
+exámenes ya están todos armados, pero me tengo que poner a armar ahora un 
+modelo Pero bueno
+01:58:44 Héctor D.C.S.: Sí Entiendo entiendo.
+01:58:50 María F.L.: puede ser, no les prometo nada, no les prometo.
+01:58:51 Mariano N.B.: https://chat.whatsapp.com/GCP2Z51jWzoCa4tb3cb6wF
+01:58:54 Héctor D.C.S.: Sí seguramente debe dar complicada como nosotros con 
+con tanta materia usted bueno con su tema de trabajo y vida y y demás cosas se 
+entiende Pero bueno por ahí Si queda un huequito y gimnasio.
+01:59:06 María F.L.: Bueno voy a ver no les prometo nada, no les prometo nada, 
+pero capaz, que no sé, les armó algo Hoy estamos a miércoles Bueno me fijo. Me 
+fijo me fijo, no les prometo nada seguramente Sí pero Pero bueno si les mando 
+algo en todo caso, el examen va a durar poco.
+01:59:31 Héctor D.C.S.: Ningún problema profe La idea, es que se pueda 
+comprender en su totalidad.
+01:59:36 María F.L.: Habla él habla él.
+01:59:43 Adrián B.: Héctor entonces
+01:59:45 María F.L.: Les manda a todos les manda a todos al grupo que encima lo 
+tengo que buscar el
+01:59:46 Héctor D.C.S.: Me caso porque me siento un boludo.
+01:59:55 María F.L.: grupo porque ya lo perdí es más. Me fui creo, no me acuerdo 
+ahora.
+02:00:00 Adrián B.: Ahí está el link ahora en el chat.
+02:00:04 María F.L.: Sí pero nadie lo quiero abrir por Chrome no uso cromo ahora. 
+Ahora voy a ver Ahí está acá Así está en el grupo. Ya me había olvidado Perdón 
+Bueno me
+02:00:14 Adrián B.: a ver
+02:00:20 María F.L.: fijo a ver qué es lo que qué es lo que puedo hacer. y les pido, 
+por favor, que que lean sí que lean que sean puntuales este y que cualquier 
+pregunta duda nada, me escriben Sí ya saben Sí, Bueno chicos.
+02:00:40 Adrián B.: Gracias, gracias.
+02:00:42 Héctor D.C.S.: En qué horario profe vamos a escribir que tenga un poco de libertad de cosas de tiempo libre
+02:00:51 María F.L.: no ustedes, me pueden escribir en cualquier momento 
+tampoco a las dos de la mañana, pero digo sean coherentes, pueden escribir Yo 
+después después los veo
+02:00:59 María F.L.: pasa que a veces sí me me la verdad que me cuele luego de 
+pedir responder o lo miro y digo después lo responde después me olvido pero 
+Este pero pueden sí pueden escribir no hay problema o me escriben un mail Lo 
+que ustedes quieran.
+02:01:17 Héctor D.C.S.: Gracias profe
+02:01:18 Adrián B.: Consulta profe cortita Antes había comentado que quizás que 
+faltaba una
+02:01:18 María F.L.: Bueno chicos Cómo
+02:01:25 Adrián B.: filmina, puede ser ese subirla.
+02:01:27 María F.L.: Ahí está.
+02:01:29 Adrián B.: Ya que estamos.
+02:01:31 María F.L.: sí, sí, no, no bien bien para Si me olvido perdón, eh?
+02:01:39 Adrián B.: No, tranqui, no no. Digo esto no estaba.
+02:01:42 María F.L.: no, es que
+02:01:45 Adrián B.: Después decimos esto no estaba en el en el material nada, 
+obvio.
+02:01:48 María F.L.: No, no no no no, no, porque yo los tengo armados.
+02:01:52 Adrián B.: listo listo listo listo
+02:01:56 Héctor D.C.S.: Más que nada para no entrar en juicio, no?
+02:02:00 María F.L.: No, no, no se los envío ya.
+02:02:04 Adrián B.: Buenísimo.
+02:02:05 María F.L.: Sí bueno nada chicos. Si lo voy a subir ahora porque me voy 
+a olvidar. Sí, me voy a olvidar Bueno listo, chicos, si no tienen ninguna duda más 
+nos
+02:02:22 Adrián B.: Nos vemos la semana que viene.
+02:02:22 María F.L.: despedimos, nos vemos la semana que viene. Sí ahí va.
+02:02:29 Adrián B.: listo
+02:02:30 María F.L.: Ya le subo todo ya Bueno chicos, buenas noches que 
+descansen y estamos hablando.02:02:30 Franco E.: el final es escrito, no? broma jajaja
+02:02:36 Ariel P.: jaja el logo del horoscopo en el grupo  
+02:02:37 Adrián B.: Listo, chao.
+02:02:38 Joaquin G.M.: Dale Perfecto saludos profe
+02:02:38 Franco E.: buenas noches, profe :)
+02:02:39 María F.L.: Chau chicos
+View original transcript at Tactiq.

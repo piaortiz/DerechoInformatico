@@ -1,0 +1,1081 @@
+Meeting Transcription 15-10-2025
+Meeting started: Oct 15, 2025, 7:01:30 PM
+Meeting duration: 122 minutes
+Meeting participants: Alvaro Josue Corimayo, Diego Javier Villaverde, Fernando 
+Viale, Franco Emmert, Héctor Daniel Colman Sosa, Joaquin Gonzalez Melaragno, 
+Leandro Nahuel Aguirre, Lisandro Enrique Medina, Marco Sebastián Ferraro 
+Manfredi, Martin Uriel Perrone, Martín Basilio, María Florencia Liendro, Matias 
+Emanuel Borja, Matias Joel Perez, Mauro Sebastian Fernandez, Maximiliano 
+Cassol Montagner, Maximiliano Ezequiel Serna, Nicolas Alejandro Soria Garcia, 
+Pablo Gabriel Salinas
+View original transcript at Tactiq.
+Transcript
+00:00 María F.L.: hola chicos, comenzamos 19:10
+08:46 María F.L.: Hola buenas tardes
+08:49 Joaquin G.M.: Todo bien, todo bien?
+08:52 María F.L.: Cómo están? Todo bien. Qué bueno, bueno, qué se siente haber 
+dado el examen y haber aprobado? Tanto miedo que tenían.
+09:07 Leandro N.A.: Tuve que empezar terapia después del parcial
+09:11 María F.L.: Hay que exagerado. Qué exagerado Bueno cuéntenme qué pasó 
+Mauro te fue mal? No creo aprobaron todos.
+09:24 Mauro S.F.: No bien bien, solo me reía de la terapia también. ya no tuve 
+tiempo Pero
+09:28 María F.L.: no Fue para tanto La verdad que nada Ahora voy a poner a 
+grabar Pero la verdad es que quiero felicitarlos a todos, porque Bueno la verdad 
+que le fue bien a todas aquellas personas que se presentaron que fueron la 
+mayoría, así que me pone realmente muy muy contenta. Bueno, salvo una sola 
+persona casi dos.
+09:56 Pablo G.S.: Yo aprobé pero por unos temas laborales me sume tarde, y el examen no fue válido
+10:00 Joaquin G.M.: Sí yo no sé, no sé por el día me queda complicado ya desde 
+antes no pude. No, no me puedo presumir Nada igual va lo de una recuperatorio, 
+pero querías
+10:05 María F.L.: claro
+10:08 Joaquin G.M.: que lo probaron todo me hace quedarme más tranquilo para 
+para después.
+10:14 María F.L.: Sí, sí, sí, sí aprobaron todos y la verdad que todos con muy 
+buenas notas.
+10:15 Joaquin G.M.: así que
+10:23 María F.L.: Salinas Sí bueno salvo Salinas que se presentó tarde igual Ahora 
+cuando ponga a grabar lo voy a volver a comentar Pero bueno, la verdad es que 
+aprobaron todas las personas que se presentaron y Eso me pone muy muy 
+contenta por ustedes. y bueno nada, ahora obviamente tenemos que enfocarnos 
+en el segundo examen Y
+10:49 Leandro N.A.: Te inspiraste profe con la pregunta de 50 sombras de grey
+10:57 María F.L.: Porque hice una pregunta, no de obras creo no no no, pero no no 
+Que ya me he olvidado, creo que hay una pregunta Que que sí hicieron libre en 
+una expresión o algo así pasa que eran varios temas Bueno nada, eso los querían 
+felicitar por el examen y además quería. Quería saber qué les había parecido a 
+ustedes por sobre todas las cosas me interesa saber lo que piensan.
+11:26 María F.L.: Así que los escucho
+11:37 Alvaro J.C.: Qué complicado como puedes Cómo se puede estuvo bien el 
+examen, no no? Desafiante Sí pero no nada que no se pueda resolver estudiando.
+11:50 María F.L.: Bueno ahí está muy bien, Yo creo que era muy muy tramposo no 
+no?
+11:59 Matias E.B.: no profe por mi parte me topé con una trampa pero Sí, O sea 
+no, no fue muy muy tramposo.
+12:07 María F.L.: bueno Voy a poner a grabar, sí voy a poner a grabar así, 
+charlamos un poco más. bueno, ahora sí, buenas tardes a todos nuevamente 
+quiero felicitarlos por Por los exámenes ahora vamos a ir por el segundo examen, 
+así que hoy vamos a comenzar con un tema nuevo, sí, antes de que me pregunten 
+Se los voy a ir aclarando que Que todo lo que vayamos a ver a partir de hoy hasta delitos informáticos que es el último tema entra todo en el Segundo parcial Sí 
+para el Segundo parcial.
+13:08 María F.L.: calculo que va a ser igual múltiple Choice y Igualmente estoy 
+evaluando que el examen final sea oral, sí, lo más probable es que sea oral, así 
+que no pasa nada, no, no, no, así que bueno nada era para comentarles eso y 
+quería obviamente dejarlo grabado para que para que todas aquellas personas 
+que no se
+13:42 Pablo G.S.: Cuando es la fecha del recuperatorio?
+13:45 María F.L.: presentaron Sí ahí voy Pablo para aquellas personas que no se 
+qué exagerado
+13:47 Mauro S.F.: bueno ahora sí arranco terapia
+13:52 María F.L.: Mauro para aquellas personas que no se presentaron o para 
+aquellas personas que ven la clase grabada y demás O sea ya les voy anticipando 
+que los temas que en el Segundo parcial van a ser todos los temas dados a partir 
+de hoy hasta la última clase que son delitos informáticos que lo más probable es 
+que el segundo examen sea múltiple Choice fecha de recuperatorio todavía no la 
+tenemos Sí y Para el examen final va a entrar absolutamente todo, sí.
+14:31 María F.L.: Así que eso es como para que lo sepan y bueno
+14:38 Héctor D.C.S.: No puede bromear.
+14:39 María F.L.: Cómo
+14:40 Héctor D.C.S.: No lo puede promediar.
+14:43 María F.L.: No, que no se promedia es la nota del final.
+14:46 Héctor D.C.S.: Que lástima, Qué lástima.
+14:49 María F.L.: Vieron hay que estudiar tienen que estudiar Pero bueno, si les 
+fue bien en el primer examen, Yo creo que si el segundo es igual, los va a ir muy 
+bien y el tercero que sería el final ya les digo la verdad es que calculo calculo que 
+va a ser oral, pero no va a hacer nada del otro mundo Sí porque tengan en cuenta 
+que son creo que 45 Entonces no puedo tener media hora una persona se supone 
+que es algo rápido sí y no va a ser de a uno, sino que va a ser de a varios el oral, 
+o sea, en todo caso sería como una especie de coloquio, no sé si alguno sabe lo 
+que es.
+15:34 María F.L.: Alguien sabe alguna vez dieron un examen coloquio
+15:36 Mauro S.F.: no no15:38 Héctor D.C.S.: No yo nunca
+15:39 María F.L.: bueno
+15:42 Maximiliano C.M.: ponían cuatro personas tiran un tema no lo taja uno lo 
+ataca el siguiente no lo ataja ese lo traje al siguiente el tema que si uno estudió 
+contesta todas las preguntas se acaban las preguntas y que no contestó nada se 
+jodió, básicamente
+15:53 María F.L.: Muy bien, ahí Maximiliano dio el ejemplo Sí eso sería para mí 
+Está bueno chicos, a mí me me tomaban exámenes coloquio en la facultad 
+también y me parecía que estaba re práctico O sea no les digo que es un Wow Es 
+un trámite
+16:06 Martín B.: así hicimos hace poco en Metodologías Agiles
+16:08 María F.L.: pero o sea, en el caso de ustedes que son muchos alumnos, o 
+sea, yo no puedo estar media hora con cada alumno tiene que ser todo en el 
+mismo día en dos horas. Yo tendría que sí o sí. Ahí hicimos hace poco en Ah mira. 
+No sé si tienen alguna pregunta respecto al examen y en cuanto a recuperatorio. 
+No tengo la fecha de recuperatorio todavía sé que ustedes tienen no estimados.
+16:48 María F.L.: Esto es para Pablo
+16:50 Joaquin G.M.: Creo que la fecha de recuperatorio es justo la semana 
+después de la última clase.
+16:56 María F.L.: Bueno todavía yo no tengo las fechas
+16:57 Joaquin G.M.: así que Claro sí, no, pero hay que
+17:01 Lisandro E.M.: Eso me parece que está establecido en el internet profe.
+17:03 Joaquin G.M.: ver sí sí, sí, Por eso
+17:05 María F.L.: Sí pero yo estoy en internet y no los tengo. El cuatro y pasado 
+me pasó lo mismo y después me las mandaron y bueno nada, pero se pudo 
+resolver, o sea igual se los averiguo no hay problema. Bueno, Igualmente voy a 
+aprovechar para para aclarar, que es algo, que la verdad
+17:21 Pablo G.S.: Por que la duración del examen fue de 30 minutos? Cuando las 
+clases durante 2 horas en total? En otros cursos se habilitan los exámenes hasta 
+el final de la hora
+17:25 María F.L.: que me me no, no me molestó, pero sí.
+17:33 Héctor D.C.S.: Entonces a partir de este día de hoy. Hasta que finaliza 
+solamente va a tomar el examen el Segundo parcial de lo que17:40 Lisandro E.M.: Exámenes Recuperatorios
+    Comienzan el 01/12/2025
+    Finalizan el 05/12/2025
+17:41 Héctor D.C.S.: desde hoy hasta que finaliza no el anterior, porque me quedó 
+medio confuso eso.
+17:44 María F.L.: no No, no, no, en el Segundo parcial, que ahora vamos a fijar la 
+fecha también para que quede grabado para el Segundo parcial lo que se va a 
+tomar lo que va a entrar, va a ser lo que se dé a partir de hoy hasta la última 
+clase, sí. Sería desde comercio electrónico hasta e inclusive delitos informáticos, 
+Sí eso es lo que entra en Segundo parcial y en el final entra todo todo lo que va a 
+entrar en el primer todo lo que entró en el primer parcial y lo que entra en el 
+segundo, sí.
+18:26 María F.L.: voy a hacer un par de aclaraciones, aprovecho esto porque 
+estoy grabando y la verdad es que Es que me aseguro de lo que estoy diciendo 
+que quede realmente grabado.
+18:38 Pablo G.S.: Gracias Lisandro
+18:44 María F.L.: Y después no hayan malos entendidos, Sí yo les dije a todos. La 
+primer clase Se lo dije el día del examen se lo dije previo al examen a ver. Yo no 
+decido Sí yo, simplemente les doy clases, les tomo los exámenes y los evalúo. 
+Ahora cualquier cosa que surja yo siempre lo tengo que hablar con estea, sí, Y 
+resolvemos entonces la última palabra la tiene estea. Qué quiere decir con todo 
+esto quiero decir que pasó con dos alumnos sí, uno con un alumno que hizo el 
+examen con un mail personal Sí entonces.
+19:33 María F.L.: Yo se los dije la primer clase Se lo dije la clase anterior al 
+examen se los dije el día del examen. El examen se hace con el mail de istea? O 
+sea si esa persona u otra persona vuelve a hacer un examen con un mail personal 
+no se le va a perdonar. O sea la idea chicos es que sí.
+20:02 Franco E.: Perdón por interrumpirla, pero quiero decirle, no me acuerdo y 
+estuvo más que claro, siempre eso no no se haga problema Por ese lado, o sea.
+20:11 María F.L.: Yo no me hago O sea no es que me hago problema es que yo soy 
+Pro alumno sí Y la verdad es que si la persona el alumno o la alumna se presentó 
+a dar el examen. Es porque realmente tiene intenciones de aprobar, le importa la materia Entonces es como como ya somos todos grandes, o sea, no somos 
+adolescentes, digo, piensen ustedes Entonces sí me me digamos, me me 
+molesta, no me enojo Pero me da cosa por ustedes, porque realmente, o sea, yo 
+quiero que les vaya bien entonces.
+20:47 María F.L.: Lo voy a repetir por tercera vez, yo necesito que los exámenes y 
+lo voy a repetir el mismo día del examen. Sí necesito que los exámenes lo hagan 
+consumir personal O sea no hay mucho más que eso sí, O sea se los pido por 
+ustedes, no por
+21:02 Franco E.: No, con el listea con el listea.
+21:05 Héctor D.C.S.: Se equivocó.
+21:06 María F.L.: Perdón, con el distea no con el personal, entonces una persona 
+que lo hizo con el mail personal Después de yo Haberlo dicho varias veces 
+Entonces le vuelvo a repetir Esto no es una llamada de atención ni mucho menos 
+Es simplemente yo quiero que ustedes les vaya bien Por eso es que piénsenlo 
+fíjense el día del examen. Yo les dije, por favor, háganlo con su mail, no personal, 
+sino distea y bueno, resultó ser que a una persona se le pasó Porque a todos. Nos 
+puede pasar, pero bueno, esa persona es como que zafó Por así decirlo, pero les 
+pido, por favor, que en ese sentido tengan presten un poquito más de atención 
+por ustedes, Sí o sea, yo simplemente es una sugerencia que le estoy dando eso
+21:52 Matias J.P.: Bastante dolobu eh
+21:53 María F.L.: por un lado.
+21:54 Franco E.: Pero bueno es la suerte suerte O sea no, no siempre pasa.
+21:59 María F.L.: No, no, y por eso le digo yo.
+22:01 Franco E.: Yo sé, ya sabemos todos que tenemos que salir estamos en el 
+tercer cuatrimestre en todos los exámenes es así Además usted. Lo repite todo el 
+tiempo nada está carísimo.
+22:11 María F.L.: Bueno pero o sea la verdad es que no me gusta llegar a esa 
+situación de tener que de repetirlo porque somos todos grandes y porque 
+realmente no no está dentro de mis parámetros que alguien le va a llamar en el 
+examen O que por una por un descuido pase que no se pueda aprobar esa 
+persona Entonces es más que nada por esto O sea yo solo voy a repetir varias 
+veces porque es una cuestión de concientización de prestar atención sí de de 
+fijarse bien lo que uno está haciendo yo sé que se ponen nerviosos y además Eso lo entiendo Pero bueno no quería dejar de pasar por este tema que me parece 
+sumamente importante por ustedes sí dicho esto dicho esto Acá está nuestro 
+compañero Pablo Salinas a Pablo le pasó y esto se lo voy a comentar a todos que 
+también lo aclaré también lo aclaré nosotros tenemos dos horas de clase todos 
+los miércoles.
+23:11 María F.L.: De siete a nueve Sí hasta ahí todo perfecto. Eso sí, aquellas 
+personas y no no lo digo como como ironía ni mucho menos, eh? Pero digo 
+aquellas personas que han estudiado una carrera o que ya vienen estudiando una 
+carrera, sí. Saben que que los exámenes muchas veces no duran dos horas, Sí o 
+sea un examen, no va a durar las dos horas o al mismo tiempo que dura una clase 
+Sí yo solo también se los aclaré que el examen podía durar un tiempo. Sí, O sea y 
+que después de finalizado el examen todos podían desconectarse porque no iba 
+a haber clases Eso yo lo dije.
+24:06 María F.L.: Entonces qué quiero decir con esto esto le pasó a nuestro 
+compañero Lamentablemente a Pablo que puede ser que que él no lo haya 
+escuchado se le haya pasado no sé digamos no importa pero lamentablemente 
+se le pasó el horario sí Entonces yo en la clase pasada cuando inicio la llamada 
+Para comenzar el examen aclaré que no iba a tomar en cuenta ningún examen, 
+que esté fuera del horario del cual, yo había este ya establecido el examen Sí 
+entonces. Para el recuperatorio y para el Segundo parcial.
+24:55 María F.L.: Quiero que quede bien claro y voy a voy a manejar lo mismo el 
+mismo el mismo discurso. Seguramente dure. Media hora 40 minutos el examen 
+fuera de ese horario yo no voy a tomar en cuenta ningún examen, Sí si el examen 
+comienza a las siete. Y termina y lo lo puse para que para que termine siete 
+cuarenta, hasta siete cuarenta se reciben los mensajes, se reciben los exámenes 
+fuera del horario, No no los voy a aceptar sí y también es una decisión que se 
+toma con istera no es una decisión mía, sí, entonces.
+25:43 María F.L.: Yo no sé si el examen próximo va a durar 15 minutos va a durar 
+20, va a durar 30 40 o una hora sí, no lo sé. Pero lo que ustedes tienen que saber 
+es que a las siete se tienen que conectar y ahí se van a enterar Cuánto tiempo 
+dura el examen, si media hora si 40 minutos Sí y el tiempo que esté va voy a 
+aceptar los exámenes fuera de ese término no lo voy a aceptar. Sí, por qué la 
+duración acá nuestro compañero nos pregunta por qué el examen duró 30 minutos? Cuando las clases duran dos horas en total, a ver.
+26:22 María F.L.: Yo no sé, sinceramente cómo se manejan otros cursos. Yo me 
+vengo manejando de esta manera, dando exámenes este múltiples muy fáciles, 
+vamos a ser sinceros. Son muy fáciles que requieren. cinco diez quince veinte 
+minutos, Sí el una chica que se los comenté la clase pasada de los lunes lo hizo 
+en dos minutos al examen, el mismo que hicieron ustedes entonces si yo decido 
+que un examen de estas características dure 30 40 minutos fijo ese ese tiempo 
+porque sé que ustedes lo pueden hacer sí no les voy a dar dos horas para hacer 
+un examen de de diez preguntas múltiple Choice cuando Se puede hacer en 
+pocos minutos, Sí o sea, en ese sentido es como que trato de de manejar cierta 
+coherencia que las clases duren dos horas, no significa que el examen dure dos 
+horas y menos del examen otras características que tienen estos exámenes que 
+que yo hago Sí así que en respuesta a Pablo y también para nada evacuar dudas 
+y demás mis exámenes Generalmente duran entre el 30 y 40.
+27:47 María F.L.: Como mucho, sí, hasta les digo entre 20 y 40 minutos como 
+mucho eso así duran mis exámenes y son múltiples. Sí, no duran las dos horas 
+fuera del de los 20 o de los cuarenta minutos que yo establezca de la duración 
+del examen. Yo no recibo, no recibo ningún examen más, Sí esa persona irá 
+recuperatorio directamente y siempre volviendo a esto con el mail disteo Así que 
+no sé Pablo si si con esto te pude responder.
+28:32 Pablo G.S.: Si, gracias
+28:33 María F.L.: Alguna pregunta perfecto alguna pregunta alguna duda Solo me 
+queda decirte lo de va a vos y a todos el tema de de los recuperatorios. Que se 
+los digo la semana que viene alguna pregunta más.
+28:52 Pablo G.S.: Espero al fecha de recuperatorio, me puede contestar por 
+correo por favor
+28:52 María F.L.: alguna duda
+28:54 Héctor D.C.S.: No creo que está claro 50 minutos una hora de examen. Está 
+bien, está claro yo.
+29:00 María F.L.: No, 50 minutos no.
+29:00 Pablo G.S.: La*
+29:07 Héctor D.C.S.: No se enoje no se enoje.
+29:08 María F.L.: Sí, acá me dice Pablo de la fecha recuperatorio la fecha de recuperatorio En todo caso lo voy a agregar en el classroom para que lo vean 
+todos y en todo caso lo repito acá en clase Sí para que todos tomemos 
+conocimiento porque son varias las personas que van a recuperar dicho Todo 
+esto dicho Todo esto vamos a fijar la fecha para el segundo examen Sí ahora. 
+Tenemos doce del 11 o 19 del 11.
+29:47 María F.L.: Qué dicen?
+29:52 Héctor D.C.S.: Yo digo que 19.
+29:54 Joaquin G.M.: Yo esta vez por las dos fechas Así que como digan ustedes 
+también Sí 19.
+30:00 Franco E.: Profe diría que a menos que alguien tenga un problema con una 
+de las fechas
+30:01 Mauro S.F.: yo voto 12/11
+30:02 Nicolas A.S.G.: 19
+30:04 Franco E.: mande una encuesta y saque más votos a que más votos.
+30:11 María F.L.: Bueno si no lo decido yo Como dice el lunes lo decidí yo.
+30:19 Maximiliano C.M.: Decir la orden de ustedes profe la empoderamos usted 
+puede el que usted diga va a estar bien.
+30:25 María F.L.: Bueno ahí va
+30:28 Héctor D.C.S.: abajo el patriarcado
+30:38 María F.L.: a Ver ya les digo.
+31:05 Diego J.V.: Si es el 19 podemos usar la case del 12 como repaso ?
+31:07 María F.L.: Hay algo que tengo mal Ah noviembre noviembre, pensé que en 
+diciembre cualquier cosa. Bueno ahí va
+31:21 María F.L.: Recuperatorio: 19/11
+31:23 María F.L.: Ahí está. Ahí está Qué les parece.
+31:40 Héctor D.C.S.: Yo no veo porque estoy con el celu hoy.
+31:42 Franco E.: Está bien profe mi pregunta, tío, ahí le pregunta si en el caso de 
+ser el 19
+31:42 María F.L.: bueno
+31:43 Joaquin G.M.: esa fecha para
+31:47 Franco E.: se puede usar una clase del 12 como repaso pregunta.
+31:50 María F.L.: bueno, está de más decir que Que antes del examen Siempre 
+vamos a tener una clase de respiratorio, o sea, esto de Haber puesto el 19 es porque me gustaría que la clase del 12 sea un recuperante sea un ya me quedé 
+con el recopilatorio sea una clase de repaso, Sí aparte otra cosa como vamos a 
+ver delitos informáticos delitos informáticos es el último tema y generalmente le 
+dedicamos una clase, pero imagínense que como es tan interesante y aparte, yo 
+estoy buscando mucha información y y demás sé que nos va a llevar. Quizás Dos 
+clases. Entonces por eso es que me gustaría quizás utilizar una clase y media 
+para delitos informáticos.
+32:42 María F.L.: así que bueno, vamos entonces yo ya se los Se los agregué. Ya 
+les agregué la fecha de recuperatorio Sí así que ya lo tienen para aquellas 
+personas que que por ahí Hoy no están presentes y después vean la clase 
+grabada sepan entonces que el recuperatorio va a ser el miércoles 19 de 
+noviembre a las siete de la tarde. Sí en principio va a ser múltiple Choice como el 
+primer examen y quizás tenga alguna que otra modificación, no sé que pueda 
+puede que yo les ponga que no sé que les pongo una imagen les pongo un video 
+que tengan que desarrollar algo pero muy muy sintético Sí sí Lisandro
+33:48 Lisandro E.M.: Sí perdón profe dijo recuperatorio Me parece que se refiere 
+a Segundo parcial,
+33:51 María F.L.: No, Segundo parcial ya me quedé con el regulatorio el Segundo 
+parcial.
+33:51 Lisandro E.M.: no?
+33:58 María F.L.: Ya quedé traumada con el recuperatorio. Bueno, dicho Todo 
+esto ya tenemos todo aclarado. Están todos aprobados Y qué nos queda ahora 
+empezar a ver?
+34:12 Pablo G.S.: Me confundí, entonces el 19/11 no es el recuperatorio?
+34:14 María F.L.: Que no Pablo Perdón vuelvo acá Pablo se confundió. 19 el once 
+es el Segundo parcial miércoles 19 de noviembre a las siete de la tarde es el 
+Segundo parcial Sí recuperatorio todavía no lo sé, te lo voy a averiguar. Lo voy a 
+poner en el classroom y lo voy a comentar la clase que viene sí Entonces ahora. 
+Ahora nos tenemos que enfocar en el Segundo parcial, sí.
+34:40 Pablo G.S.: Ok gracias!
+34:51 María F.L.: Por ende vamos a comenzar con un nuevo tema que fíjense 
+comercio electrónico Sí Dentro de comercio electrónico vamos a ver también 
+sobre los contratos electrónicos Sí y los contratos electrónicos de consumo, por eso es que hoy vamos a ver un poquito de ley de defensa del consumidor, sí. 
+Ahora bien, qué es esto del comercio electrónico de Dónde surge Por qué surge 
+Qué qué es lo que Nosotros llamamos comercio electrónico Por qué nace Yo acá 
+les puse como una especie de introducción, Sí fíjense en solo unos años la 
+evolución digital conquistó gran parte del mundo internet es el fenómeno que ha 
+contribuido a que se produzcan cambios en las comunicaciones y también al 
+desarrollo de la nueva tecnología de la nueva economía digital, o sea O sea, qué 
+quiero decir con todo esto? Quiero decir que es como cuando comenzamos 
+nuestra primera clase de derecho informático sí que decíamos por qué nace el 
+derecho informático. Bueno acá porque nace el comercio electrónico en ambos 
+casos es por por internet por el uso de la tecnología por la por la evolución que 
+hay sobre todo Esto entonces hace que tengamos nuevas formas de poder 
+comunicarnos de poder realizar operaciones y cuando hablamos de operaciones, 
+hablamos justamente de comercio electrónico Por qué Porque ahora con el 
+comercio electrónico. Nosotros no es que dejamos de ir a no sé un ejemplo, hablo 
+por mí, no, pero digo.
+36:47 María F.L.: Yo dejo de ir a sarcán y a comprarme una bota, no la bota me la 
+compro igual sí sé a través de la página, o sea, en el shopping, Sí pero Pero lo 
+bueno de esto es que por ejemplo yo. Puedo decir antes de ir al local a ver Ese 
+par de botas, voy a entrar a la página, voy a entrar a la página y como me gusta 
+comparar. Voy a entrar a parvuelo también a ver cómo andamos con los precios, 
+a ver qué modelo me gusta y a ver si me conviene o no me conviene Entonces 
+eso tiene que ver con las operaciones, no cuando hablamos de comercio 
+electrónico, hablamos de que está este mundo donde nosotros podemos adquirir 
+productos contratar servicios, sí.
+37:39 María F.L.: Fíjense que el comercio electrónico comprende operaciones que 
+se van a llevar adelante a través de internet. Cómo la compra y la venta de bienes 
+y servicios, qué es esto no digo. Nosotros seguimos con la modalidad tradicional 
+de ir a un shopping de probarnos, una remera de probarnos. Un sin seguimos 
+haciendo todo eso, pero cuántos de nosotros realizamos compras por 
+MercadoLibre no sé yo fan de temu, digo lo hacemos.
+38:17 María F.L.: No sé, queremos comprar una una no Yo quisiera comprar una 
+planchita de pelo por a través de la página frávega o la compra y me la traen Entonces no sé cosas así o como, por ejemplo contratar lo que es Netflix o sea, 
+todas esas cosas todo eso tiene que ver con el comercio electrónico, sí. Y más 
+allá de que este comercio electrónico nos hable de que nosotros llevamos 
+adelante este tipo de operaciones de la compra la venta de productos de 
+servicios y demás no es que tan solo se limita eso Esto sí, sino que también se 
+utiliza la publicidad la búsqueda de información acerca de productos que es lo 
+que yo le decía que igual ahora vamos a ver las ventajas y desventajas que tiene 
+esto bueno, negociación entre comprador y vendedor sobre el precio condiciones 
+de entregas y mucho más. Esto es un detalle, si a mí lo que lo que me interesa 
+que ustedes sepan es que es el comercio electrónico Por qué nace nace por el 
+avance de la tecnología nace por internet, sí, y qué es? Bueno, Qué es son 
+operaciones, sí son operaciones que nosotros hacemos de comprar y Vender 
+productos y adquirir servicios.
+39:43 María F.L.: Sí eso es lo que me importa que ustedes puedan entender de 
+de qué es esto. Me estoy pasando ahora me falta algo acá. Chicos, me falta 
+información a ver si es este. Aguardan un segundo porque tengo otra, tengo otro. 
+Que tiene las ventajas y desventajas. Tengo otro ppt, eso quería decir. Es que se 
+los voy a sacar. Y ahí las agrego otro.
+41:02 María F.L.: Ahí va. Bueno Este es un poco más completo que tenía dos 
+preparados este tiene más información Sí bueno la introducción es la misma sí 
+que tiene que ver con la evolución Qué es el comercio electrónico es también lo 
+mismo y esto lo que me faltaba que es algo muy importante también creo que en 
+la primera clase Yo les dije qué es lo que nosotros vamos a ver en en derecho 
+informático y una de las cosas que íbamos a ver en derecho informático es el 
+comercio electrónico Por ende, qué quiero decir con esto que desde el derecho 
+informático se va a regular esta actividad sí protegiendo los datos personales la 
+validez de los contratos electrónicos y los derechos de los consumidores Sí 
+entonces una vez más retomamos que el derecho informático regula esta 
+actividad Sí eso Eso sí es muy muy importante que ustedes lo sepan. Esto lo 
+vimos recién.
+42:16 María F.L.: Y ahora vamos a las ventajas y desventajas que que tiene este 
+comercio electrónico como ventajas Abre oportunidades a explotar nuevos 
+mercados, el consumidor amplía su capacidad para acceder a prácticamente a cualquier producto y comparar ofertas a la vez que le facilita convertirse en 
+proveedor de información. También permite hacer operaciones nacionales e 
+internacionales y se puede llevar adelante una operación comercial a toda hora y 
+en cualquier parte del mundo ahora yo me pregunto o les pregunto.
+42:54 María F.L.: Qué opinan de este comercio electrónico, Cuántos de nosotros 
+llevamos adelante esto.
+43:06 Héctor D.C.S.: En mi caso la mayoría de las veces compro todo por 
+internet, últimamente porque tengo formas de comparar precios calidades 
+opiniones. y demás Pero a veces pasa que Al no ver el producto por ahí el Por 
+más que te lleguen a los tamaños en el caso de perfume yo me gusta comprar 
+perfumes a mí muchos. Y me guío más por opiniones que que olerlos no Entonces 
+es a veces a un poco a la a la a la buena suerte de cada uno.
+43:41 María F.L.: Bien, alguien más así, ponemos ejemplos. Yo tengo mis ejemplos.
+43:47 Leandro N.A.: Comprar ropa también
+43:51 María F.L.: Bueno, acá Leandro compra ropa Héctor compra perfume quién 
+más? O sea, digo sacando lo de la ropa y los perfumes, qué otras cosas compran?
+44:08 Martin U.P.: 
+44:11 María F.L.: Claro, ahí está Quería llegar ese ejemplo no digo fíjense.
+44:16 Héctor D.C.S.: O pagar servicios.
+44:18 María F.L.: Claro, también paga servicio Sí pero pero acá, o sea la idea es 
+como más es como una visión más consumista si esto yo, por ejemplo. Me 
+engancho con lo de temu, entonces compro cosas en temum porque me gustan. 
+El tema es o sea, por qué? Por qué hablo de de temu? Porque también les puedo 
+poner MercadoLibre Pero esto lo quiero Me gusta hablarlo porque voy a 
+incorporar a este ejemplo las ventajas que tiene este comercio electrónico Sí y 
+digo fíjense.
+45:00 Martín B.: Para viajar no me imagino yendo a una casa de turismo cómo 
+antes
+45:06 María F.L.: Claro Bueno ahí, otro ejemplo que que está comentando Martín 
+el tema de los viajes, o sea, por Dónde compramos despegar o no sé al mundo sé 
+por ejemplo, entramos a turismo City para comparar también vuelos Bueno un 
+montón de cosas No pero lo que quiero decir con esto. Es que los ejemplos que 
+ustedes vieron más Este ejemplo que doy yo lo vamos a le vamos a aplicar estas ventajas. Sí, fíjense que cuando hice el consumidor amplía su capacidad para 
+acceder a prácticamente cualquier producto a ver yo tengo descargada no sé la 
+aplicación esta de temu mido toda la ropa y de repente Hay algo que me gusta 
+que me llama la atención. Digo esto no, no lo vi en otro lado entonces.
+46:04 María F.L.: Lo comparo con no sé con con el mismo producto de a ver si 
+están MercadoLibre y me fijo que es lo que me conviene, sí me fijo realmente qué 
+es lo que me conviene económicamente no porque en tiempos o sea, ni hablar 
+por supuesto me conviene comprarlo en MercadoLibre que me llega, no sé a lo 
+sumo. cuánto 48 horas pero
+46:25 Héctor D.C.S.: Se refiere a un tema de exclusividad por producto.
+46:28 María F.L.: Cómo
+46:29 Héctor D.C.S.: Se refiere a un tema de exclusividad por producto.
+46:33 María F.L.: Bueno, es que en temum tienes cosas más originales que no es 
+lo mismo que calidad, o sea, digo Son más originales, pero o sea, yo me fijo en la 
+ropa, no me fijo en otra cosa, la verdad es que no me fijo en otras cosas, pero 
+también tiene cositas así como que ponerme me llama la atención para mi hija de 
+ser unas gomitas de pelo.
+46:53 Héctor D.C.S.: Depende profe.
+46:54 María F.L.: Qué es eso sean chinos.
+46:55 Héctor D.C.S.: Y depende Yo me compré un cepillo de espalda y me vino 
+torcido.
+47:00 María F.L.: En serio?
+47:02 Héctor D.C.S.: Sí, Y encima color rosado porque no te deja elegir.
+47:05 Leandro N.A.: Es complicado, con la ropa no todos los talles son iguales en 
+las marcas, no sabes cómo te queda, es todo intangible desde internet. Permufes 
+ni hablar, creo que es el mejor ejemplo, describir bien un olor es medio imposible
+47:06 María F.L.: Ah claro, claro
+47:07 Héctor D.C.S.: Entonces cuando estás abonado se te dobla todo es una 
+porquería Así que lo
+47:12 Marco S.F.M.: temu es lo más berreta de lo chino
+47:12 Héctor D.C.S.: compré en el chino más barato y Está bien, me me deja 
+colorada la espalda, pero es más efectivo. Como por dar un ejemplo.
+47:22 María F.L.: No, no está bien yo de ese mismo tema hablé el lunes y también hubo alguien que me contó que le había llegado un producto nada muy mal acá 
+Marco está diciendo que temo es la más barreta de los chinos. Ah bueno yo 
+conozco a alguien que compró un dron. Por temuco y un par de cosas más 
+también, pero bueno Marco no, por favor, no me tires abajo lo de temu porque a 
+mí me gusta y no, por favor, por favor, Y qué pasa? Bueno fíjense que este tema a 
+mí la verdad que me encanta porque
+48:04 Martín B.: dijo que era fan...
+48:06 María F.L.: sí soy fan, Sí sí, sí soy fan, o sea, marco, por favor, te lo pido 
+entonces fíjense que Bueno, es que yo les digo yo me compré una remera que 
+acá no la vi. O sea, y en cuanto los talles aguarden un segundo. Acá volví, Yo me 
+compré ropa en demo, o sea, de mi taller y cuando vino me quedaba impecable, o 
+sea, era mi taller realmente, o sea es como que compré con los ojos cerrados. 
+Dije, no sé si me va a venir, no sé Bueno pues todo me vino re bien, la verdad que 
+el caballo está buenísimo.
+48:58 María F.L.: Impecable entonces no, o sea, como veamos las ventajas de de 
+esto de este tipo de de comercialización y como ventajas Es que yo puedo 
+acceder, sí, como les decía esta remera que acá no la vi entonces a cualquier 
+producto. Y esa es la ventaja, sí puedo comparar ofertas con o sea, el mismo 
+producto en alguna casa de marca de acá Argentina MercadoLibre Sí y otra de las 
+cosas que esta comparación esta operación que yo quiero hacer lo puedo hacer 
+en cualquier momento y en cualquier lugar en tanto y en cuanto yo tenga un 
+equipo tecnológico. Sí Entonces eso es lo bueno.
+49:53 María F.L.: que acá No hay barreras, no hay barreras de hablo de de 
+lugares no me sale ahora es como que como ventaja uno puede hacer compras 
+internacionales y eso La verdad que para mí está buenísimo, pero bueno como 
+Todo lo bueno también tiene sus cosas malas, vamos por lo malo sí. Qué pasa 
+con lo malo? Que por ejemplo acá al compañero a Héctor le pasó que compró un 
+cepillo para la espalda y le vino torcido, sí o de repente puede pasar que yo 
+quiera comprar una remera porque la verdad que la foto veo y está buenísima, Me 
+parece que tiene una tela que está muy buena también. Qué sé, yo y de repente 
+me viene otra cosa.
+50:51 Marco S.F.M.: Lo malo == Es chino del interior más chino del china
+50:54 María F.L.: Tiene esas cosas que o sea, a veces caemos en la publicidad defectuosa o engañosa, Sí y ni hablar porque realizando llevando adelante este 
+tipo de operaciones, no sé yo comprendo en temu. Tengo que agregar todos los 
+datos de mi tarjeta de crédito. Sí Entonces eso hace a la seguridad de las 
+transacciones y los medios de pagos que uno lleva adelante pones todos los 
+datos y después no sabes qué pasa con esos datos entonces de alguna manera u 
+otra hay. Sí, la pérdida de confidencialidad. Eso es lo que les iba a decir.
+51:39 Héctor D.C.S.: profe Yo con respecto a temas no confiaba porque bueno 
+veía muchos videos en instagram, Facebook y Bueno pero uno piensa que lo 
+pueden que es un tema de publicidad hasta que lo dijo una persona cercana a mí 
+que compró y se lo trajeron y sin problema ahí se afianzó y se incrementó la La 
+confianza en la primer compra que hice donde vino esto todo torcido y sé una
+52:06 María F.L.: claro
+52:07 Héctor D.C.S.: inversión digamos con un margen de pérdida que bueno, si 
+digo si pierdo esta plata no pasa nada. Y pruebo. Si bien vino todo y quizás es tan 
+bueno los productos salvo el coso torcido que me vino. a veces la caja no está 
+tan buena o Se nota un poco de de baja calidad en el packaging o cuando te lo te 
+lo dan el Flaco que baja del auto y te lo da un poco más te lo tira así en la cara 
+Tomás y listo.
+52:42 María F.L.: pero a ver
+52:42 Héctor D.C.S.: Pero bueno Eso depende de cada uno
+52:45 María F.L.: A quién no le ha pasado que guardó las bolsitas de tenis chicos? 
+están buenas, son como la la No sé si a ustedes le llegaron así.
+52:55 Héctor D.C.S.: No, no sé que compra usted que no para nada.
+53:00 María F.L.: A mí me llega así.
+53:00 Héctor D.C.S.: También me vino una bolsa de consorcio que decía es una 
+bolsa de consorcio que
+53:04 Diego J.V.: Yo solo aliexpress
+53:05 Héctor D.C.S.: tenía algunos datos, pedísima horrible. Y medio como que 
+me me decepcionaba porque uno ven también entra. me parece a mí que al 
+comprar un producto nuevo y al abrirlo la la escena de empezar a a comenzar a 
+abrirlo, el packaging es lo lindo en este caso como que mira está todo torcido la 
+caja no está tan buena o si bien cumple el producto uno de los productos pero No 
+sé, debe ser por zona capaz que en zona norte se lo tiene un poquito más.53:38 Alvaro J.C.: Quizás está hablando de shein, porque Jane tiene las bolsas 
+esas que son espectaculares, yo compré.
+53:43 María F.L.: No no es más es más me tengo que bajar tengo que me tengo 
+que bajar sin para ver me dijeron los chicos de los lunes me contaron que en 
+shein hay más ropa
+53:53 Nicolas A.S.G.: shein tiene esas bolsas
+53:54 María F.L.: que en temu, o sea es como un poco más variado, pero no, no 
+primero que no soy de zona norte y segundo que por ahí las cosas que yo compré 
+venían como en ese envoltorio son como las bolsas ziplot, pero pero como más 
+opacas están buenísimas ahora si no se los mostraba tengo en el auto tengo la la 
+bolsita con los guantes para el para el gimnasio que está muy muy buenos, pero 
+las remeras también me vinieron ahí, o sea, todo todo Está muy muy lindo y acá, o 
+sea no conforme con lo que dijo Marcos continúa diciendo lo malo es igual al 
+chino del interior más chino del China o sea Dios marco Está terrible y Franco a 
+ver Franco qué compra desde Alemania
+54:49 Franco E.: Puedo hacer un comentario que NO APORTA NADA?
+54:52 Franco E.: No yo quería hacer un comentario que no aporta absolutamente 
+nada.
+54:55 María F.L.: Ah bueno
+54:57 Franco E.: puedo
+54:59 María F.L.: obvio vimos en democracia
+55:00 Franco E.: Bueno Ok me lo explicaron y lo pueden googlear, si no me creen 
+yo alguien le dije shein o lo que sea Aparentemente se dice Jean shein, porque es 
+para mujeres y originalmente se llamaba She inside, ni qué sé, yo no, eso era el 
+comentario que no aporta nada.
+55:22 María F.L.: Bueno chicos, por favor O sea nos ponemos a estudiar inglés acá
+55:26 Héctor D.C.S.: Buen vocabulario para anexar al léxico, no?
+55:27 Franco E.: Eso es todo lo pueden Google
+55:31 María F.L.: Bueno ahí está ahí está, por favor, nada de shein es Jean sí.
+55:36 Marco S.F.M.: es pregunta de examen?
+55:39 Alvaro J.C.: El nombre de chimichurri no se dice chimichurri la palabra 
+proviene de Japón y tiene otro nombre acá le pusimos chimichurri, pero se 
+pronuncia jiman curry. 55:49 María F.L.: Ah bueno nos volvimos internacional, o sea
+55:53 Héctor D.C.S.: blanco y Cómo se dice se dice rey Ahí está.
+55:59 María F.L.: no, no, Ahora quiero que quiero que que Franco nos diga viste 
+que acá nosotros decimos Nike Nike y lo que
+56:08 Franco E.: Bueno no es Nike Pero eso, pero acá no lo decimos tampoco ni 
+eso es Estados Unidos
+56:14 María F.L.: Sí pero ya que estamos hablando de que nos estás contando 
+cómo se cómo se pronuncia nos podés ayudar.
+56:21 Franco E.: Ah bueno una típica marca alemana que pronuncia mal es Adidas 
+es Adidas
+56:28 María F.L.: mira
+56:31 Franco E.: sí
+56:34 María F.L.: Martín que levantó la mano Martín nos va a decir cómo se dice 
+en lanús Nike y Jane a ver
+56:43 Héctor D.C.S.: 
+56:44 Marco S.F.M.: FOLKSVAGEN
+56:49 María F.L.: Me muero.
+56:49 Leandro N.A.: Manaos se dice manaos profe eso dalo por hecho
+56:52 Franco E.: perfecto lo dijo Marco
+56:57 María F.L.: Martín Qué pasó Levantaste la mano y ahora decidiste te vas? O 
+se desconectó, no, no creo que se haya desconectado.
+57:06 Franco E.: BMW = BE EM VE
+57:09 María F.L.: bueno Nada, nada, en otra clase de última Franco nos va a decir 
+cómo se pronuncian un montón de cosas nos va a ayudar a todos, pero por lo 
+pronto vamos a decirle shein, que que todos nos entendemos aparte a mí me Ahí 
+está Martín a ver
+57:27 Martín B.: Ahí Sí profe se me escucha.
+57:29 María F.L.: cómo se dice en lanús.
+57:29 Martín B.: Ahora no, como venga, no sé como quieran. Sí sí, como sea como 
+salga no hay uno que que pronuncian mal y bueno. No tienen la culpa, qué te iba 
+a decir? No? Yo iba a decir lo de la pérdida de confidencialidades, es cierto yo, 
+por ejemplo, no me animo a comprar en temu por el tema de darle Mis datos, 
+Porque me imagino que ahí pagan con tarjeta solamente no hay otro otro.57:56 María F.L.: Podés pagar no escucha Escucha esto. Puedes pagar con 
+mercado pago? Con lo que tenés de tener dinero en cuenta y si no con tarjeta de 
+débito
+58:04 Maximiliano E.S.: igual con la filtracion del renaper...
+58:09 María F.L.: crédito.
+58:09 Martín B.: Está buena esa de Mercado pago, pero no lo hace, no lo 
+difunden mucho porque yo no me enteré la verdad si me Hubiera enterado por ahí 
+hubiera mirado algo, pensé que solamente se podía comprar con tarjeta y ya 
+darle los datos de la tarjeta a un sitio que cuánto tiene de vida en el mercado. 
+Como que si lo comparas con MercadoLibre tiene otro tipo de reputación muy 
+diferente.
+58:31 Maximiliano E.S.: hasta hace no mucho tenias un bot de telegram q le 
+mandabas el nro de documento y te devolvia la licencia de conducir
+58:32 María F.L.: Sí o sea, a ver.
+58:39 Martín B.: No hablo de los productos de la calidad que venden no sino. de 
+la gestión de ventas
+58:45 María F.L.: Mira yo te digo, o sea, real les digo, les digo algo, Yo me compré 
+unos pantalones sastreros que Bueno a mí me gustan los pantalones astreros que 
+me compré unos pantalonestreros encuesta blanca, que bueno tampoco es una 
+Guau marca acá, pero bueno, me gustó el modelo y me compré dos. Después 
+estaba en demu, me compré un pantalón sastrero, pero con una tela más más 
+fresca no sé como más de más de vestir y la verdad es que no me lo saco chicos, 
+o sea, es tan divino los de cuesta Blanca pero el de temu le ganó y me encanta y 
+lo pagué nada, o sea las cosas que yo vi Y como les dije el talle, la verdad que le 
+di en la tecla y todas las personas que conozco que compraron en temuco 
+compraron ciertos productos y le llevó súper bien Lo único El único problema es 
+que tenés.
+59:42 María F.L.: Que esperar un mes que igual a mí me pasó que me llegó 
+muchísimo Antes 20 días no habrá tardado. Pero bueno, la verdad es que
+59:55 Héctor D.C.S.: la profe se sponsor
+59:59 María F.L.: No no es que me gusta es que está bueno, entonces si hay algo 
+que me gusta como que siempre lo digo, pero bueno, hay algo que a mí 
+particularmente por ahí no me copó. Que es el tema de que tarda mucho. O sea, eso es entonces digo dentro de todo lo que estamos hablando de comercio 
+electrónico tenemos cosas buenas. Tenemos cosas malas con este tipo de
+01:00:21 Martín B.: suena a comprar online en esos bazares chinos que están de 
+moda
+01:00:27 María F.L.: De operaciones, sí, acá la verdad es que cuando o sea Lo 
+bueno, es que nosotros no, no tenemos una limitante en cuanto al tiempo y en 
+cuanto al espacio, Sí Mientras tengamos un celular una tablet tiene una 
+computadora y queremos realizar alguna compra y bueno, como les decía yo 
+estoy a las dos de la mañana tres de la mañana mirando no sé de temu y entra a 
+MercadoLibre me fijo y comparo los precios y el que más me gusta y el que más 
+me convence en precios lo compro listo, tiene sus ventajas obviamente y tiene 
+sus desventajas como ventaja de que yo puedo en cualquier momento del día 
+hacer una operación
+01:01:07 María F.L.: sea nacional o internacional y y puedo comparar y tengo un 
+montón de de opciones para eso lo malo es que cuando yo realizo una operación 
+de este tipo tengo que poner mis datos que tienen que ver con las con las 
+tarjetas. Entonces el tema es digamos quién cuida de esos datos no de esos 
+datos de mi tarjeta de crédito o de repente entro miro una publicidad y miré una 
+remedia y me encantó y me llega otra cosa Eso es lo malo lo malo es quien cuida 
+mis datos es que yo de repente fui engañada con una publicidad que no era tan 
+así cuando me llegó el producto y otro de los problemas es que Qué pasa cuando 
+yo tengo un problema con temu siendo que yo soy Argentina y estoy realizando la 
+operación en Argentina y tengo está en China Sí ahí tenemos varios problemas, 
+que es muy difícil de resolver porque cuando cuando quiero aplicar una solución a 
+esto tengo que ver a ver qué jurisdicción sí Qué derecho se va a aplicar para este 
+tipo de Cuestión si es el de Argentina o es el de China Sí, O sea no sabemos 
+entonces hay un problema y está como ese vacío, sí.
+01:02:35 María F.L.: Y otra de las cosas es que cuando nosotros Sí llegamos 
+adelante este tipo de operación, Sí nosotros llevamos adelante este tipo de 
+operación a través de una máquina a través de un medio electrónico entonces. 
+No, no celebramos un contrato en papel, sí, acá hacemos más bien o no hacemos 
+ningún tipo de contrato o hacemos un contrato electrónico Sí cuando hablamos 
+de comercio electrónico Más allá de lo que es de Cómo nació de las ventajas y desventajas También tenemos que mencionar sí que existen diferentes relaciones 
+en este comercio electrónico Cuáles son estas relaciones. Bueno, tenemos 
+relaciones que se van a dar entre el comerciante y el consumidor entre los 
+comerciantes y entre los consumidores el caso que nosotros vamos a hablar hoy 
+es el del comerciante y el consumidor sí.
+01:03:50 María F.L.: Como recién les decía una de las desventajas en este tipo de 
+relaciones sencillamente se da que a veces no nos firmamos ningún contrato. Sí, 
+olvídense del papel, o sea, ni siquiera probamos ningún tipo de contrato 
+electrónico, pero pero pero fíjense que la expansión del comercio electrónico 
+hacen hacer la necesidad de documentar y establecer de manera más clara y 
+precisa las obligaciones entre los consumidores y quienes ofrecen.
+01:04:25 María F.L.: Bienes o servicios a distancia y en forma electrónica Sí con la 
+finalidad de dar una mayor seguridad jurídica por tal razón, surge el contrato 
+electrónico, qué quiero decir con esto que justamente. Al haber tanto sí tantas 
+operaciones bueno la idea de esto es poder formalizar de alguna manera este 
+tipo de vínculo que se dan en estas operaciones, Sí por eso como para formalizar 
+instrumentar o dejar documentado este este vínculo esta operación sí Bueno las 
+partes se van a someter a un contrato electrónico. Eso es lo que queremos decir 
+ahora Qué entendemos por contacto electrónico, Qué es el contrato electrónico 
+bueno tiene una particularidad Sí por qué Porque contrato electrónico es un 
+contrato Sí para comenzar es un contrato.
+01:05:25 María F.L.: Y cuando hablamos de contrato, hablamos de que es un 
+acuerdo, sí, de partes donde las partes van a van a van a dar su consentimiento, 
+sí. Y la particularidad está es que en este tipo de contratos, el consentimiento se 
+va a dar sin en principio sin la presencia física sí y lo van a hacer. a través del uso 
+de medios electrónicos entonces Cuando hablamos de contacto electrónico 
+hablamos de que es un acuerdo de partes y que hay que pasar consentimiento 
+hasta ahí es lo mismo que cualquier contrato que hemos visto Sí hay partes y 
+obviamente tenés que dar tú Ok entonces ese Okay en los contratos electrónicos 
+se da a través de un clic.
+01:06:25 María F.L.: Sí o de una firma digital entonces en los contratos 
+electrónicos hay acuerdo de partes, se va a prestar el consentimiento pero a 
+través del uso de la tecnología y en principio sin la presencia física. Porque ya vamos a ver un caso donde sea contrato electrónico con las con las partes 
+presentes Sí pero después vamos a ver cómo se da ese consentimiento Entonces 
+hasta acá. Alguna pregunta. Martín dice que está bien el resto que dice alguna 
+pregunta.
+01:07:09 María F.L.: no Bueno, perfecto, Vamos a continuar. Entonces cómo 
+decíamos ante esta expansión del comercio electrónico que el comercio 
+electrónico es Son todas las operaciones que hacemos Sí a través del uso de la 
+tecnología, Gracias internet y demás nos encontramos con el contrato electrónico 
+que tiene características, sí. Cuáles son las características de este contrato 
+electrónico. Bueno, no hay presencia física de las partes, sí, Al momento de llevar 
+adelante este contrato. Las partes O sea no están. Físicamente juntos. Sí, en el 
+mismo espacio las partes prestan su consentimiento Sí en principio, como les 
+decía hizo se lo voy a repetir en principio porque hay una excepción en este tipo 
+de contrato, no hay presencia física de las partes contratantes Al momento de 
+perfeccionarse El consentimiento contractual, o sea, las partes no están 
+presentes Sí eso es lo que tiene este tipo.
+01:08:21 María F.L.: el contrato segunda característica la expresión del 
+consentimiento será mediante la digitalización de la voluntad de los sujetos que 
+intervengan Qué estoy diciendo acá Bueno Sencillamente que el consentimiento 
+en este tipo de contrato se va a dar de manera digital? Sí, como les decía es un 
+acuerdo de parte donde el consentimiento se va a prestar a través del uso 
+tecnológico. Sí Entonces en este caso, el consentimiento va a estar expresado 
+mediante un medio tecnológico Sí donde se va a hacer un clic donde dice 
+términos y condiciones un clic donde sí está de acuerdo, sí, O en el acepto, Sí esa 
+sería la tercer característica. Sí, Entonces cómo características decimos que en 
+este tipo de contrato electrónico las partes en principio no están presentes.
+01:09:20 María F.L.: Que el consentimiento se va a dar a través del uso de la 
+tecnología y ese consentimiento se va a dar a través de un clic Sí en acepto, 
+estoy de acuerdo, términos y condiciones. Sí es un clic también puede ser con la 
+firma digital que ahora lo vamos a ver. Fíjense, que como un dato muy importante 
+es que estos tipos de contratos están regulados si están regulados por el código 
+civil.
+01:10:00 María F.L.: y la ley de firma digital Sí así que Esto Esto es algo que que me importa que ustedes sepan que el código civil lo va a regular como contrato y 
+la ley de firma digital tiene que ver con la firma que es ese consentimiento que 
+presta la la persona Sí a ver. Vemos estas dos filminas más y nos vamos al recreo 
+firma digital, Sí cuando hablamos de firma digital directamente tenemos que ir al 
+artículo dos de la ley de firma digital 25.506. Sí, acá nos da el concepto de lo que 
+es la firma digital se entienda el resultado de aplicar a un documento digital un 
+procedimiento matemático que requiere información de exclusivo conocimiento 
+del firmante encontrándose esta bajos absoluto control A ver, no les voy a tomar 
+Qué es el concepto de firma digital, Sí porque acá a mí lo que me interesa que 
+ustedes sepan es qué es? un contrato electrónico Sí, Y cómo se da ese ese 
+consentimiento y cómo se da se da con un clic.
+01:11:24 María F.L.: O con la firma digital, Sí nada más O sea se le puse el 
+consentimiento y para perdón, el concepto de firma digital como ustedes sepan 
+De dónde viene esto sí, pero ustedes tienen que saber que nosotros prestamos el 
+consentimiento en un contrato electrónico a través de nuestra firma digital Y eso 
+tiene un concepto y bueno y acá lo tenemos. Como otro dato respecto al contrato 
+electrónico los contratos electrónicos constituyen ventas por correspondencia y 
+revisten la forma de contratos de adhesión, sí, a través de estos contratos 
+denominados como términos y condiciones de uso que es un documento 
+electrónico al cual, el aceptante adhiere expresando su consentimiento mediante 
+un clic en su dispositivo sin posibilidad de discutir o modificar las cláusulas que 
+integran el mismo.
+01:12:21 María F.L.: Bueno qué dije con todo esto Que cuando hablamos de 
+contratos electrónicos automáticamente nos damos cuenta que el formato de los 
+contratos electrónicos tienen mucho que ver a el formato de un contrato de 
+adhesión. Sí, Qué es un contrato de adhesión. Esto al que el contrato que tiene 
+tiene cláusulas leónidas saben lo que son las cláusulas leónidas, saben que es un 
+contrato de adhesión partamos de ahí.
+01:12:53 Mauro S.F.: no x2
+01:12:55 Martín B.: no
+01:12:58 María F.L.: no
+01:12:58 Nicolas A.S.G.: no y no
+01:13:01 María F.L.: Bien, un contrato, a ver se lo voy a poner en la práctica. Después le explico lo que es cuánto de Nosotros hemos ido al banco. Nos han 
+dado un formulario así o de repente nos cambiamos de prepaga y nos dan un 
+formulario Así que tiene un montón de cosas. Quién firmó
+01:13:26 Alvaro J.C.: Sí sí que se tiene que estar un tiempo determinado.
+01:13:30 María F.L.: Y vos lo podés discutir.
+01:13:33 Alvaro J.C.: No, no, porque la verdad Pasa una obra social y si eso tiene 
+que estar un año
+01:13:34 María F.L.: bueno
+01:13:35 Martín B.: eso que nadie lee
+01:13:37 Alvaro J.C.: obligatoriamente.
+01:13:38 María F.L.: Bueno te hubiese gustado discutir y decir no, yo no quiero un 
+año Quiero probar dos meses o sea, si es por vos.
+01:13:49 Alvaro J.C.: 
+01:13:51 María F.L.: Bueno entonces ahí está Sí ahí tenemos como ejemplo 
+cuando hablamos de contrato de adhesión, estamos hablando de un de un tipo 
+de contrato donde nosotros nos sometemos a las cláusulas de la otra parte 
+donde queremos donde Obviamente si es por nosotros queremos pelear por esas 
+cláusulas, pero no tenemos opción es o lo tomas o lo dejas? En este caso sí 
+Álvaro no hubiese firmado, no hubiese aceptado ese esas cláusulas es como 
+bueno, es esto lo que tengo, te dicen Si no aceptas. Esto se va con otra prepaga 
+o te vas con otro banco Sí entonces a eso voy cuando hablo de de los contratos 
+de adhesión. Son así, sí, cuando vamos al banco, nos dan un formulario cuando 
+queremos contactar una prepaga, nos dan un formulario y ya está todo está todo 
+establecido y nosotros nos quedamos en Posición de desventaja donde no 
+podemos negociar no podemos refutar no podemos pelear Ni tratar de modificar 
+o o hacerle caer en razón, al otro de que por ahí es como muy abusivo sí, lo que 
+tienen los contratos de adhesión que el niño general son abusivos, Sí tal cual eso 
+que nadie Lee Si eso que nosotros no leemos porque también sabemos que qué 
+vamos a leer si O sea ya está impreso ya está todo establecido, qué vamos a 
+discutir es lo tomas o lo dejas? Bueno Esos son los contratos de adhesión donde 
+nosotros estamos en una posición más débil y no tenemos la posibilidad de 
+negociar nada porque ya está establecido sí Esos son los contratos de de 
+adhesión y las cláusulas leoninas tienen que ver con esto sí las cláusulas neolinas tienen que ver con las cláusulas que son abusivas donde nos pone a nosotros en 
+una posición más desventajosa Sí más débil entonces terminando Terminando 
+con esto dejamos acá y vamos al recreo y volvemos con la filmina número quince 
+y hoy lo terminamos Sí pero en resumidas cuentas lo que yo quiero que ustedes 
+sepan de lo que vimos hasta ahora porque ahora vamos a ver el contrato 
+electrónico de consumo, Sí qué es lo que me interesa que sepan de todo lo que 
+vimos desde el inicio hasta ahora.
+01:16:21 María F.L.: de esta clase Cómo nace el comercio electrónico o porque 
+nace Qué es sí. Qué función tiene el derecho informático en esto y
+01:16:36 Martin U.P.: A mi solo me esta fallando el audio?
+01:16:44 María F.L.: Se escucha mal.
+01:16:44 Martín B.: yo escucho bien
+01:16:48 María F.L.: Ah perfecto
+01:16:48 Mauro S.F.: va ok
+01:16:49 Martin U.P.: Ok soy yo, perdon
+01:16:52 María F.L.: Le decía las ventajas las desventajas, sí Y por qué llegamos al 
+contacto electrónico, Qué es un contrato electrónico, sí que es un contrato 
+electrónico Cómo se presta el consentimiento o cómo las partes pesan el 
+consentimiento en un contrato electrónico y en este caso en un contrato 
+electrónico prestamos el consentimiento a través de un clic en términos y 
+condiciones. En acepto Sí bueno, términos y condiciones de uso, ya les dije 
+entonces con el clic con la firma digital, sí.
+01:17:32 María F.L.: Dicho Todo esto dicho Todo esto finalizamos con el contrato 
+electrónico con que en este tipo de contrato. De los familiarizamos vamos a 
+ponerle eso a los familiarizamos con los contratos de adhesión, que son esos 
+tipos de contactos, donde tenemos las cláusulas establecidas Y la verdad es que 
+no podemos negociar nada. A la vuelta de este recreo que vamos a tomarnos, 
+volvemos. Y veinte.
+01:18:16 María F.L.: volvemos 20:35
+01:18:17 María F.L.: Ahí está volvemos a 35, vamos a ver el contrato electrónico 
+de consumo Así que vamos al recreo y ya.
+01:34:19 María F.L.: estamos Buenísimo Bueno vamos a ver lo que nos queda de 
+hoy sí estamos con el contrato electrónico dentro de lo que es contacto electrónico nos vamos a meter en el contrato electrónico de consumo, Sí qué 
+pasa con este con este tipo de contratos están regulados por el código civil. Por 
+la ley de firma digital Sí porque es como nosotros vamos a prestar nuestro 
+consentimiento y por la ley de defensa del consumidor, Sí estas tres leyes son las 
+que van a regular.
+01:35:06 María F.L.: Este tipo de contrato, Sí qué pasa con esa esa relación que 
+hay entre un consumidor y un proveedor. Un consumidor y un proveedor bueno 
+Estas son las partes que tiene este contrato electrónico de consumo A qué 
+consideramos nosotros consumidor Y a quién consideramos proveedor el 
+consumidor es la persona física o jurídica y también a quien sin ser parte de una 
+relación de consumo como consecuencia o en ocasión de ella adquiere bienes o 
+servicios como destinatarios final.
+01:35:48 María F.L.: En beneficio propio o de su grupo familiar o social en forma 
+gratuita onerosa, qué quiero decir con todo esto en síntesis consumidor es la 
+persona física o la persona jurídica Sí vamos con el ejemplo de la persona física la 
+persona física soy yo sí somos nosotros. Cuando compramos algo. Bueno, eso es 
+fácil ahora bien. También se considera consumidor a por ejemplo. En la pandemia 
+Yo le hice una compra en me acuerdo Creo que en carrefour, a un familiar Sí y se 
+la compra entonces ahí al yo hacer la compra soy la consumidora Pero qué pasa 
+esa compra que yo efectúe iba destinada a otra persona.
+01:36:40 María F.L.: Que esa persona O sea no, no gastó un peso y no efectuó la 
+operación Pero también se la considera consumidora. Sí se la se la considera 
+consumidora Más allá de que haya recibido los productos en forma gratuita por la 
+compra que yo hice Entonces vamos a considerar consumidor aquella persona 
+física o jurídica que haya efectuado la operación o también que Cuando hacemos 
+la operación en líneas generales, estamos hablando de que es algo oneroso, pero 
+también aquellas personas que recibieron también un producto.
+01:37:19 María F.L.: De una forma gratuita sí, Y como proveedor es la persona 
+física o jurídica de naturaleza público privada que desarrolla de manera 
+profesional actividades de producción montaje, creación construcción 
+transformación importación bueno y demás cosas de bienes y servicios 
+destinados a los consumidores o usuarios sí, esto es fácil sabemos Quién es el 
+consumidor sabemos Quién es el proveedor Sí en términos criosos, el consumidor es el que el que consuma un producto o adquiere un servicio y el proveedor es el 
+que lo hace el que lo comercializa sí tanto un producto como un servicio. Bueno, 
+ambas partes sí, crean una relación de consumo.
+01:38:10 María F.L.: Cómo se va a llevar adelante este contrato electrónico de 
+consumo hace unos minutos hablábamos que este tipo de contrato al ser un 
+contrato electrónico en principio como yo les venía diciendo en principio es sin 
+presencia física de las partes al celebrarlo. Entonces acá nos encontramos con 
+que tenemos dos formas, Sí en que se va a llevar adelante este contacto 
+electrónico Por un lado entre presentes y por el otro lado entra ausentes sí, entre 
+presentes se va a dar de la siguiente forma. Yo voy al banco. Voy a contratar un 
+paquete de algo sí.
+01:38:59 María F.L.: Y me hacen firmar el contrato en una tablet, Sí yo tengo que 
+firmar en una tablet, ahí estoy prestando mi consentimiento Entonces tenemos a 
+las dos partes el consumidor que sería yo y el proveedor que es el banco Sí el 
+consentimiento se presta a través de una firma que yo hago en una tablet. 
+Entonces, las partes estamos presentes en el mismo lugar, pero la firma no es en 
+un papel sino a través de el uso de la tecnología.
+01:39:37 María F.L.: Eso es un contrato entre presentes Sí cuando las dos partes 
+están en un mismo espacio, pero el consentimiento se da a través de un medio 
+tecnológico. Cómo es entre ausentes, bueno, fácil Yo estoy en mi casa el banco 
+está en la sucursal. Entonces cómo cómo llego adelante este contrato entro a la 
+página al banco miro lo que quiero comprar Y Quiero contratar un paquete que 
+me resulta interesante Bueno cuando yo sigo los pasos que me dice el banco 
+después presto el consentimiento con la firma sí o haciendo el clic.
+01:40:24 María F.L.: Pero qué pasa El vendedor está en el banco y yo estoy en mi 
+casa o en cualquier otro lugar, o sea, no estamos en el mismo espacio. Y también 
+el consentimiento se presta a través de un medio de tecnológico se entiende esto 
+me interesa que lo entiendan. perfecto Cómo Entonces cómo se perfecciona este 
+consentimiento? Contrato entre presentes fíjense que es lo que yo les decía 
+siempre y cuando exista una comunicación interactiva que permita manifestar la 
+voluntad de manera instantánea mediante un medio electrónico. Sí es como les 
+dije estamos en el mismo lugar conversamos sobre el producto que yo voy a 
+adquirir o al servicio y si estoy de acuerdo Voy a firmar el contrato a través de un medio electrónico ahora entra ausentes entre ausentes el consentimiento 
+también se da a través del clic o la firma y demás y se va a dar por perfeccionado 
+una vez que el banco recibe recibe ese consentimiento durante el plazo de 
+vigencia, no sé en el caso de una oferta durante el tiempo que está vigente es 
+oferta, sí, pero en este caso simplemente es cuando le llega mi documento.
+01:41:59 María F.L.: O el documento ya firmado por mí sí, Ahora pongamos el 
+ejemplo de que estamos estamos por adquirir un producto, no sé de frávega de 
+frávega de Coto de carrefour, Sí qué pasa con con las ofertas que nosotros 
+vemos en la página, no? No sé, estamos en la página de frávega, vemos que de 
+repente no se Hay una una cafetera que está muy buena está muy buen precio. 
+Bueno, está de oferta, sí. Entonces yo miro esa oferta en la página y digo me 
+gusta, sí.
+01:42:50 María F.L.: esa oferta lo vincula Al proveedor, o sea, a frávega de manera 
+indeterminada con posibles consumidores. Sí, acá les puse potenciales, pero 
+posibles es lo mismo. Sí Entonces lo vincula, sí Crea una relación ahí de consumo. 
+Porque a mí me atrae eso Entonces es como que yo le quiero adquirir Entonces 
+cuando hablamos de oferta la oferta que está dirigida a consumidores 
+potenciales indeterminados Sí porque no sabemos una persona específica es a 
+cualquiera obliga a quien le emite durante el tiempo en que se realice debiendo 
+contener la oferta precisa de comienzo y finalización así como también las 
+modalidades condiciones o limitaciones Entonces qué quiero decir con esto que 
+si el proveedor, o sea, si frávega va a poner en oferta. Una cafetera que está muy 
+buen precio y está muy copada.
+01:43:58 María F.L.: Va a tener que en esa oferta detallar. El tiempo que va a durar 
+esa oferta O sea la oferta va a ser a partir del día 15 el 10 del 2025 al 18 del 10 del 
+2025 sí las modalidades las condiciones y las limitaciones Sí o sea, cuando hace 
+una oferta tiene que detallar todo la fecha de comienzo y finalización el modo en 
+que se adquiere eso las condiciones y las limitantes sí Y esa relación. Es 
+vinculante para para el proveedor Sí en cuanto a la publicidad.
+01:44:51 María F.L.: Que se vaya que vaya a ser el proveedor a través de los 
+medios de comunicación tienen no tienen que tener indicaciones que nos lleven a 
+una confusión que sean defectuosas que sean falsas, Sí por eso es que lo que le 
+pide la ley de defensa del consumidor al proveedor es que pueda detallarlo, sí. A ver, que yo quiero corregir algo acá. Ahí va como les decía la publicidad no tiene 
+que ser engañosa, Sí eso es lo que quiere decir la publicidad a través de medios 
+de comunicación no tienen que ser engañosas falsas, ni llevar al consumidor a 
+que se pueda confundir Sí y después bueno Tiene que tener esa oferta Ay 
+perdón, esa publicidad el nombre del domicilio y cuit del oferente o proveedor, sí.
+01:46:02 María F.L.: otra de las cosas que pide la ley de defensa del consumidor 
+como también el código civil, Sí es que el proveedor tiene el deber de informarle 
+al consumidor sobre Sobre todos los datos o todo lo necesario que sea del 
+servicio o del bien que vaya a adquirir Sí el código civil, además de prever la 
+obligación genérica del proveedor de informar al consumidor el contenido mínimo 
+y esencial del contrato de informar todos los datos necesarios para utilizar 
+correctamente el medio elegido para comprender.
+01:46:47 María F.L.: Los riesgos derivados de su empleo y para tener 
+absolutamente claro, quién ASUME esos riesgos? Establece el Derecho del 
+consumidor, sí la ley básicamente a recibir información cierta Clara y detallada 
+sobre todo lo relacionado con las características esenciales de los bienes y 
+servicios a los que accede y las condiciones de su comercialización es decir, 
+tanto la ley de defensa del consumidor como el código civil, lo que establecen.
+01:47:18 María F.L.: Es que el proveedor va a tener que ser claro y preciso dar 
+información detallada sobre qué se trata el el contrato sí, como también del 
+producto que va a adquirir Sí eso es lo que está diciendo con esto. Así mismo 
+también lo que lo que se le exige es que por ejemplo. Estos contratos Más allá de 
+que vos los puedas adquirir en la sucursal. También los tengas en la página sí, 
+entonces acá vamos a encontrarnos con que tenemos los contratos en ambos 
+lugares y que esa información no tiene ningún tipo de costo, Sí tienen que estar 
+disponibles para todas aquellas personas que quieran acceder a ese contrato. Un 
+ejemplo, no sé mi abuela la Es que no entiende nada de tecnología Entonces es 
+como que prefiere ir a la sucursal y leer bien.
+01:48:25 María F.L.: Porque porque ella viene con no sé con un formato antiguo, 
+entonces bueno Tiene que ser disponible en la sucursal también Sí y después 
+bueno, la aceptación o el consentimiento a través del clic, la mera acción de 
+hacer un clic en los contratos electrónicos de adhesión y de consumo Es una 
+forma de la manifestación de la voluntad del usuario siendo suficiente para configurar una aceptación válida y que sea susceptible de perfeccionar un 
+contrato. Bueno es más o menos lo que venimos hablando Sí en estos tipos de 
+contratos electrónicos dijimos que es un acuerdo de parte donde nosotros vamos 
+a prestar el consentimiento a través de una firma digital o a través de un clic 
+bueno, en este caso, el contrato electrónico de consumo se va a perfeccionar a 
+través de un clic por parte del consumidor Sí hasta Acá alguna pregunta.
+01:49:27 María F.L.: Alguna pregunta nada. Bueno vamos con lo último que nos va 
+quedando sí
+01:49:38 Héctor D.C.S.: temo tiene publicidad engañosa a comparación de 
+MercadoLibre
+01:49:43 María F.L.: Ya lo sé
+01:49:44 Héctor D.C.S.: Okay yo me quería comprar un monitor de 27 pulgadas y 
+era un protector de pantalla, si no leía bien. capaz que lo compraba y
+01:49:54 María F.L.: Sí sí, sí, hay un montón de cosas como cuando vos, por 
+ejemplo te Te armás una cuenta al principio, te dice que tenés no sé un 70% de 
+descuento qué sé, yo y después terminas comprando más de lo que te regalan, o 
+sea, eso ya lo sé y le ha pasado a varias personas que entras y decís Ay mira todo 
+el descuento Mira todas las cosas que tengo de regalo, qué sé yo y después 
+resulta que nada, pero bueno, qué sé, yo igual, eso no me va a parar a comprar. 
+Maximiliano se ríe no se rían Héctor también porque se ríen es lindo. Igual 
+después voy a entrar a a Jane como diría nuestro compañero.
+01:50:46 María F.L.: que vive en Alemania sin
+01:50:47 Diego J.V.: Es como ir al casino
+01:50:48 Héctor D.C.S.: No hay no hay no hay.
+01:50:52 María F.L.: Bueno vamos a lo último que nos queda Qué pasa cuando 
+nosotros llevamos adelante o mejor dicho, Qué pasa cuando nosotros prestamos 
+nuestro consentimiento, sí. Perfeccionamos el contrato. Estamos dando nuestro 
+consentimiento. Estamos diciendo sí, acepto todas las condiciones. No les ha 
+pasado que después de haber aceptado las condiciones de haber hecho ese clic 
+o haber hecho dado la firma digital se arrepintieron dijeron Uy No qué hice En qué 
+me metí? Bua, qué pasa con esto el código civil lo que dice? Es que el consumidor 
+tiene el derecho irrenunciable de revocar la aceptación dentro de los diez días 
+computados a partir de la celebración del contrato.01:51:41 María F.L.: Se debe notificar al proveedor por escrito o medios 
+electrónicos mediante la devolución de la cosa dentro del plazo referido la ley de 
+defensa del consumidor. También lo que dice es que el consumidor tiene derecho 
+a revocar la aceptación durante el plazo de diez días a partir de la fecha en que 
+se entregue el bien o se celebre el contrato. Y que no hay responsabilidad alguna 
+esta facultad no puede ser dispensada ni renunciada.
+01:52:15 María F.L.: Qué dije acá Bueno lo que dije? Es que tanto el código civil 
+como la ley de defensa del consumidor que acuérdense que son las leyes que 
+regulan este tipo de contrato. Lo que nos dice es que nosotros si nos 
+arrepentimos de haber llevado adelante un contrato. Está bien Nos podemos 
+arrepentir Sí pero qué pasa dentro de un plazo razonable, o sea, dentro de un 
+plazo que esté estipulado y cuál es ese plazo los diez días, Sí Dentro de los diez 
+días a partir de la celebración del contrato según el código civil y la ley de 
+defensa del consumidor nos dice durante el plazo de diez días corridos a partir 
+de la fecha en que se entregó el bien o que se firmó el contrato, Sí o sea, en 
+resumidas cuentas el código civil del aire y la ley de defensa del consumidor nos 
+dicen.
+01:53:12 María F.L.: Si te arrepentís de haber firmado podés podés revocar eso 
+dentro de un plazo, sí, Y Cuando vos lo hagas tenés que notificar a la otra parte a 
+través de un medio electrónico. Además, El vendedor debe informar por escrito al 
+consumidor que tiene esta facultad de poder revocar el contrato. Sí, Obviamente 
+si recibió el producto y quiere revocar el contrato lo va a poder hacer, pero va a 
+tener que devolver la cosa Sí y terminado eso, si si la revocación se da dentro del 
+plazo estipulado, si lo notificó y devolvió la cosa, o sea, ninguno de los dos se 
+deben absolutamente nada y se termina ahí, sí, pero lo más importante, o sea, los 
+efectos de esta revocación por parte del consumidor es que se hagan tiempo y 
+en forma sí que tiene que ver ya con una responsabilidad que tiene el consumidor 
+Sí una vez que el consumidor lleva adelante esta facultad de revocar el contrato 
+dentro del plazo estipulado.
+01:54:32 María F.L.: Listo se termina la relación se volvió la cosa, se notificó 
+perfecto nadie se debe nada, sí. Ahora corriéndonos un poquito de esto llegamos 
+a la ley de defensa del consumidor en el artículo 37, qué nos dice esto Esto está 
+vinculado con los contratos de adhesión, Sí el contrato de adhesión? Hace rato, hablábamos de que tiene cláusulas leónidas que nosotros no podemos discutir 
+nada que las aceptamos o no las aceptamos. Bueno, acá el artículo 37, lo que nos 
+dice es que hay contratos que no van a ser válidos en la práctica, no pasa lo 
+mismo, pero acá la ley dice otra cosa la ley dice que hay contratos que no van a 
+ser válidos, Sí cuando suceden determinadas cosas, por ejemplo, cuando las 
+cláusulas que naturalizan las obligaciones o limiten la responsabilidad de daños.
+01:55:28 María F.L.: o sea, aquellas cláusulas que desnaturalicen las obligaciones 
+que en realidad O sea favorezcan al proveedor, sí, las cláusulas que importan 
+renuncia o restricción de los derechos del consumidor, o sea, lo pongan una 
+situación más débil de la que ya está Sí hola las cláusulas que tengan que 
+impongan la inversión de la prueba en perjuicio del Consumidor Entonces qué nos 
+quiere decir este artículo 37 que no se va a tomar como válida las cláusulas que 
+pongan en desventaja al consumidor y le den más poder al proveedor Sí eso es lo 
+que quiere decir y esto obviamente tiene que ver con que por ejemplo si lo ponen 
+en una situación más débil al al consumidor es que por ejemplo se desligue de 
+responsabilidades.
+01:56:26 María F.L.: El proveedor sí o la restrinja los derechos al consumidor sí o 
+que el consumidor tenga la carga probatoria en un montón de situaciones y 
+obviamente esto O sea favorable para el para el proveedor Sí así que bueno, eso 
+tiene que
+01:56:42 Mauro S.F.: y al revés?
+01:56:49 María F.L.: ver con este artículo 38 que habla del contrato de adhesión, 
+Qué quiere decir esto quiere decir que según la ley de defensa del consumidor los 
+contratos de adhesión, están controlados. Sí, la autoridad de aplicación vigilará 
+que los contratos de adhesión no contengan cláusulas de las previstas en el 
+artículo anterior, o sea el artículo 37 O sea, esto no pasa la verdad es que no, no 
+pasan, así que bueno el 37 habla de la validez de los contratos y el 38 habla de 
+que los contratos de adhesión Van a estar.
+01:57:25 María F.L.: Controlados para que todo lo del artículo 37 no se apliquen 
+los contratos Sí y después en estas últimas dos filminas derecho aplicable 
+jurisdicción tienen que ver con el lugar y el derecho que se va a aplicar ante la 
+solución de una de un problema Sí en cuanto a dónde se va a llevar adelante esta 
+cuestión, sí, dónde se va a solucionar el pleito bueno. Acá lo que dice el artículo 2.654 del código civil es que las demandas sobre las relaciones de consumo las 
+puede llevar las va a llevar adelante el consumidor y él puede elegir la jurisdicción 
+sí, las demandas que versen sobre relaciones de consumo pueden interponerse a 
+elección del consumidor ante los jueces del lugar de celebración del contrato del 
+cumplimiento de la prestación del servicio de la entrega de bienes del 
+cumplimiento de la obligación de garantía del domicilio del demandado o del lugar 
+donde el consumidor realiza actos necesarios para la celebración del contrato 
+entonces fíjense.
+01:58:38 María F.L.: El código civil lo que dice es que el consumidor tiene la 
+facultad de poder elegir, dónde se va a solucionar esta cuestión? Sí, Y ahí fíjense 
+todos los lugares, pueden ser en su domicilio, puede ser en el domicilio el el lugar 
+del del proveedor, sí. él lo elige y A ver, acá los contratos de consumo con el 
+derecho aplicable según el código civil. Dice que los contratos de consumo se 
+rigen por el derecho del Estado del domicilio del consumidor en los siguientes 
+casos, o sea, acá lo que dice el código civil es donde se va a solucionar la 
+cuestión Sí pero que si cumple con ciertos requisitos se va a solucionar en el 
+estado del consumidor Y eso sería todo con respecto a los contratos electrónicos 
+de consumo.
+01:59:46 María F.L.: A ver, respondiendo preguntas Es como ir al casino y al revés 
+a ver cómo sería eso.
+01:59:57 Mauro S.F.: A mí creo que ya me contestaste Con lo último. Al revés 
+cuando explicaba la parte de la responsabilidad que tiene el
+02:00:03 Diego J.V.: Lo mio era cuando hablo del uso de temu jaja
+02:00:07 Mauro S.F.: proveedor, se está consumidor y ya al revés, Por ejemplo, si 
+se me ocurrió el caso sale una oferta o un vuelo a 100 dólares, por ejemplo todos 
+sabemos que está mal, pero si vos lo compras tenés derecho a recibir lo que 
+pasaste entonces ahí está el proveedor, no sé Bueno eso creo que con lo último 
+más
+02:00:20 María F.L.: obvio
+02:00:24 Mauro S.F.: o menos me orientaste A dónde va el reclamo y cómo se 
+hace.
+02:00:29 María F.L.: Sí sí, en línea general fíjense porque en realidad O sea la 
+parte más débil es la del consumidor Sí por eso es que se le da todo al consumidor alguna pregunta alguna duda respecto de este tema. no Bueno 
+Perfecto Bueno entonces por hoy dejamos acá después yo les voy a estar 
+subiendo la filmina Sí así que por hoy era esto y dejó de grabar. Bueno chicos Qué 
+les parece la clase.
+02:01:18 María F.L.: interesante medio aburrido
+02:01:22 Franco E.: Bien, tranqui.
+02:01:23 Joaquin G.M.: 
+02:01:24 Alvaro J.C.: interesante tema
+02:01:25 Martín B.: buena profe
+02:01:26 María F.L.: Bueno voy a ver si estoy estoy ahí, no les prometo nada, pero 
+estoy haciendo un cursito de ciberseguridad y me gustaría implementarlo para 
+para nuestras últimas dos clases de derecho informática de derecho informático 
+de delitos informáticos tengo cosas muy muy buenas, así que me tengo que 
+poner con esas clases a leer un poco y escucharla porque justo se dan que la 
+tengo antes de comenzar con ustedes, así que A veces como que no le presto 
+tanta atención, pero resulta muy interesante, creo que a ustedes les va a gustar, 
+así que nada me gustaría poder. Darles información de eso así que bueno chicos. 
+Nos veremos el próximo miércoles.
+02:02:24 Franco E.: por el mismo canal
+02:02:25 María F.L.: por ahí mismo canal
+02:02:25 Mauro S.F.: dale gracias profe, buenas noches!
+02:02:27 Martín B.: saludos a todos
+02:02:29 Alvaro J.C.: profe buena semana
+02:02:30 María F.L.: Buena semana para todos después les subo la las filminas 
+que descansen.
+02:02:36 Franco E.: Nos vemos profe.
+02:02:36 Fernando V.: 
+02:02:38 María F.L.: chicos
+02:02:38 Joaquin G.M.: saludo profe
+02:02:40 María F.L.: Chau chau, gracias
+View original transcript at Tactiq.

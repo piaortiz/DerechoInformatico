@@ -1,0 +1,1175 @@
+Meeting Transcription 05-11-2025
+Meeting started: Nov 5, 2025, 6:58:18 PM
+Meeting duration: 108 minutes
+Meeting participants: Adrián Barletta, Alvaro Josue Corimayo, Ariel Pastor, 
+Fernando Viale, Francheri Liriano Rosario, Franco Emmert, Héctor Daniel Colman 
+Sosa, Iván Herrera, Joaquin Gonzalez Melaragno, Martin Uriel Perrone, Martín 
+Basilio, María Florencia Liendro, Matias Joel Perez, Maximiliano Cassol 
+Montagner, Maximiliano Ezequiel Serna, Nicolas Alejandro Soria Garcia
+View original transcript at Tactiq.
+Transcript
+00:00 María F.L.: hola chicos, comenzamos en 5 minutos
+04:38 María F.L.: Hola chicos Hola me escuchan.
+04:50 Joaquin G.M.: Hola buenas, se escucha se escucha bien.
+04:52 María F.L.: Ah bueno perfecto, Cómo andan
+04:56 Joaquin G.M.: Todo bien.
+04:59 María F.L.: Qué bueno hoy tenemos la clase de De los delitos informáticos 
+sí, Y la próxima clase tenemos la repaso. Sí, quedamos que el 19 va a ser la fecha 
+de examen. Estamos de acuerdo Bien, Bueno voy a poner a grabar. Bueno, ahora 
+sí, cómo están? Qué cuentan, están leyendo lo que les envié todavía no?
+05:53 Martín B.: nada profe de mi parte
+05:56 María F.L.: Martín nada el resto que dice Tienen algunas dudas preguntas?
+06:06 Adrián B.: se arranca el finde :(
+06:10 María F.L.: Y bueno, sí, qué va a hacer, pero la semana que viene Eso 
+Tienen exámenes o no? Están como muy casados, me da la sensación que tienen 
+ganas de que el examen
+06:25 Martín B.: igual las clases si las atendes te queda la información
+06:26 María F.L.: sea oral.
+06:30 Adrián B.: la semana que viene, creo que no06:31 María F.L.: Bueno sí
+06:33 Joaquin G.M.: por favor
+06:35 María F.L.: No, Por qué no sería muy fácil realmente sería muy fácil.
+06:40 Héctor D.C.S.: hola
+06:43 María F.L.: Hola Héctor cómo estás Te extraño, si no es no está Héctor y lo 
+extraño, porque nadie están todos muy callados, no están participando Yo creo 
+que la clase de hoy los va a hacer participar mucho porque realmente es muy 
+muy interesante, pero bueno, a mí me interesa saber si ustedes leyeron no 
+leyeron están viendo algo, no están viendo nada si tienen alguna duda porque 
+digo a ver Martín dice Bueno como que
+07:13 Franco E.: perdón profe, acá son las 11 PM y la verdad 0 energía
+07:15 María F.L.: si seguimos la clase como que está bien, se puede entender, 
+pero bueno, a veces nos pasa que nos olvidamos. Sí ahí está Franco Franco dice 
+que son las once de la noche. Y sí me imagino bueno Y encima me imagino que 
+debe seguir el frío, no Franco
+07:37 Franco E.: recién ahora empieza
+07:40 María F.L.: Ah bueno, bueno, arranco también lo extraño, porque antes 
+hablaba ahora no me
+07:41 Franco E.: ayer empezó
+07:48 María F.L.: parece que tienen muchas ganas de que este examen sea oral 
+Así que lo voy a
+07:51 Franco E.: es que vine a fin de septiembre paca acá
+07:52 María F.L.: pensar.
+07:55 Franco E.: antes estaba en Arg
+07:56 María F.L.: Ah está bien. Sí, Y ahora te fuiste para allá y no no nos va a 
+ofrecer su su departamento
+08:06 Héctor D.C.S.: franco a mi me extraña primero ok??
+08:07 María F.L.: para juntarnos Héctor ahí Levanta la mano.
+08:09 Franco E.: jajajaj
+08:12 María F.L.: Qué pasó Héctor Bien, bien los extraño Los extraños.
+08:21 Adrián B.: se fue a Alemania para no pagar las empanadas para todos....
+08:22 Héctor D.C.S.: No Bueno yo el otro día puse algo en el grupo y nadie dijo 
+nada. incluida usted08:28 María F.L.: Qué pusiste? Qué pusiste en el grupo?
+08:31 Héctor D.C.S.: cosas locas no puse algo sobre un tema de sobre derecho a 
+ver si me a ver si me acuerdo dónde
+08:40 María F.L.: se me se me habrá pasado realmente se me habrá pasado, no 
+perdón, voy a
+08:45 Franco E.: (>'.')>
+08:46 María F.L.: buscar el chat y
+08:47 Héctor D.C.S.: Ah no, no, no es una pavadita igual en realidad era le 
+estaban escribidas una
+08:50 María F.L.: bueno
+08:51 Héctor D.C.S.: estafa, mi vieja y le pedían de banco nación banco, provincia. 
+plata O sea la misma aplicación cuando te piden plata queda marcado en verde 
+enviar y si uno es grande y no se da cuenta aprieta el verde dice
+09:08 María F.L.: Sí bueno y no tan grande porque yo no me considero tan vieja 
+porque a mí me pasó Ya les conté lo que me pasó yo estaba esperando mi pedido 
+mi pedido de temu y perdón, eh? Pero estoy súper congestionada. Hoy igual, 
+estoy mejor, me había comprado algo en temu, me estaba por llegar y de repente 
+me mandaron un mail y la verdad que casi caigo en la estafa.
+09:35 María F.L.: Esa fue terrible O sea que podés ser grande y no tan grande, o 
+sea, yo creo que lo mío es porque Bueno yo soy bastante despistada y Y clické. 
+Bueno, ya les conté, creo o no me acuerdo si les conté a ustedes a los chicos de 
+los lunes, pero hice clic, iba a pagar Bueno cualquier cosa obviamente me retaron 
+sí me retaron Pero bueno de uno aprende sí, los extraño a todos a todas aquellas 
+personas que participaban extraño a todos y Bueno la verdad es que ya les digo 
+como veo que ya no participan tanto me parece que vamos a hacer el examen 
+oral tres preguntas y
+10:23 Héctor D.C.S.: La semana que viene porque este medio perdido no, no sé si 
+dijo.
+10:24 María F.L.: El es el 19.
+10:25 Francheri L.R.: NOOOOO
+10:28 Héctor D.C.S.: la Ah dentro de
+10:31 María F.L.: Arroz Rosario vos, no tenés que preocuparte por nada porque yo 
+sé que ella es aplicada. Así que bueno, bueno, chicos y chicas, hoy vamos a ver la segunda parte de los delitos informáticos. Alguien le quedó alguna duda consulta 
+sobre la primer parte. Acuérdense que la semana pasada habíamos visto la 
+primera la primer parte quedan las características de los delitos informáticos y el 
+concepto Entonces yo les pregunto para poder avanzar A esta segunda parte 
+Tienen alguna pregunta alguna duda.
+11:17 Joaquin G.M.: Que no por mí todo bien.
+11:18 María F.L.: No, bueno Perfecto Bueno vamos a gracias, entonces a todos 
+por responder ya puse
+11:18 Martín B.: no profe
+11:25 María F.L.: a grabar Así que vamos con con algunas algunos aspectos que 
+que me interesa que
+11:26 Nicolas A.S.G.: No no
+11:33 María F.L.: ustedes puedan reconocer sí de este de estos delitos 
+informáticos. A ver, tenemos delitos y delitos, sí. Nosotros no vamos a ver todos 
+porque realmente es un montón, pero sí, elegí algunos delitos y algunas 
+modalidades de fraude que me parecen sumamente importantes sobre todo para 
+ustedes sí, en este caso. Tenemos que algunos delitos informáticos van en contra 
+de los sistemas, Sí por ejemplo fíjense que acá les puse dos ransomware cripto 
+hacking, después tenemos aquellos delitos informáticos que van en contra de las 
+personas como en este caso puse dos grooming y se extorsión. Sí tenemos 
+contra la economía fraude bancario estafas cripto phishing, eso lo conocen 
+ustedes.
+12:29 María F.L.: Y también tenemos contra la propiedad intelectual, que ya lo 
+habíamos visto eso, que tiene que ver con la piratería, sí. Ahora qué es lo que se 
+protege, qué es lo que se protege con La regulación? Sí con las penas que se van 
+a aplicar ante una conducta indebida bueno, a ver tenemos que El bien el bien 
+jurídico protegido sí son los delitos contra el honor y la privacidad contra la 
+integridad sexual contra la propiedad y contra la propiedad intelectual sí, en este 
+caso vamos a ver fíjense.
+13:16 María F.L.: Que el bien jurídico acá dice delitos contra el honor y la 
+privacidad sí, acá lo que se respeta justamente es la intimidad de las personas, sí. 
+Después en cuanto a los delitos contra la integridad sexual bueno, acá también 
+en un punto se protege la intimidad de las personas, pero por sobre todo por sobre todo el desarrollo de los niños en el caso que ahora ya lo vamos a ver de 
+pornografía infantil. Sí, tengan en cuenta que cuando hablamos de pornografía 
+infantil no hablamos tan solo del material de una foto de un Hablamos también de 
+la explotación que hay detrás de eso para que se pueda se pueda elaborar un 
+material, sí. Y bueno, después tenemos contra la propiedad.
+14:16 María F.L.: contra la propiedad intelectual que eso ya lo habíamos visto el 
+tema de del plagio y la piratería no sé si se acuerdan, pero fue la primer parte eso 
+La verdad, es que no lo vamos a tocar ahora hoy vamos a hablar sobre todo el 
+tema de integridad sexual, Sí vamos a hablar sobre grooming y pornografía 
+infantil y después algunas modalidades de fraude, que ahí sí vamos a tocar a Esta 
+modalidad que seguramente ustedes la conocen que es el fishing, sí. Y eso está 
+dentro del grupo de la propiedad. Seguimos.
+14:57 María F.L.: La semana pasada Yo les había comentado que que en 
+determinados momentos, o sea nosotros. Empezamos a acostumbrarnos a a que 
+empezaban a surgir nuevos delitos, sí, Y estos delitos estaban vinculados con el 
+uso de la tecnología Sí entonces. estos delitos Tuvieron que ser incorporados al 
+código penal, sí. Es decir que nosotros bueno, ustedes no, no lo saben, 
+seguramente, pero cuando yo estudiaba derecho, teníamos los delitos 
+convencionales robo hurto, qué sé yo.
+15:43 María F.L.: falsificaciones servidumbre Bueno un montón porque hay un 
+montón Pero qué pasa el avance de la tecnología hizo que nacieran nuevos 
+delitos sí, Y estos nuevos delitos se fueron incorporando a través de la sanción 
+de leyes  Entonces fíjense que en este caso tenemos la ley 26.388. Que va a 
+incorporar determinados delitos, sí. Vamos a hablar ahora sobre el acceso 
+ilegítimo a sistemas informáticos. Más conocido como hacking algunos lo 
+escuchó.
+16:30 Joaquin G.M.: Sí el hacking, Ah no no es lo
+16:36 Martin U.P.: Lo hemos estudiado incluso.
+16:37 Joaquin G.M.: Lo creo que sí, creo que sí.
+16:41 María F.L.: Si no algunos más o menos.
+16:42 Joaquin G.M.: Más o menos más o menos.
+16:44 María F.L.: Bueno, a ver les aclaro algo, yo les voy a leer, les voy a leer la 
+norma Sí pero desde ya yo no voy a tomar las penas porque no estamos en una clase de derecho penal, entonces a mí lo que me interesa que ustedes puedan 
+saber. Es cuál es la conducta indebida y si hay pena o no hay pena Sí si tiene 
+atenuantes o tiene agravantes entonces?
+17:10 Ariel P.: hacking?
+17:13 María F.L.: Quién habla? quién quería hablar Martín
+17:18 Martín B.: Hola profe, Qué tal cómo va.
+17:19 María F.L.: Hola Martín bien
+17:22 Martín B.: Quería Consultar si el término Está bien, escrito porque me 
+confunde eso nunca leí así ese término como lo puso el compañero ahí en el chat 
+sí hacking.
+17:30 María F.L.: No, que no estoy en el chat por eso.
+17:32 Héctor D.C.S.: Para mí Está mal escribido.
+17:36 María F.L.: Está mal escribido, puede ser chicos A ver, no soy perfecta, qué 
+me falta una
+17:40 Martín B.: del no no
+17:40 María F.L.: G acá.
+17:42 Martín B.: Va con i latina n y una G Al final?
+17:45 María F.L.: No, no me parece que no, eh? Parece que no. Bueno, no Bueno 
+después lo busco en el recreo, así lo corrijo y después se lo
+17:53 Martin U.P.: Si si
+17:56 Maximiliano E.S.: Pero bueno no pasa nada.
+17:58 María F.L.: subo, sí.
+17:59 Martín B.: Si es eso, sí, es algo que se conoce Pues a mí me confundía eso, 
+pero sí
+18:01 María F.L.: sí
+18:03 Martín B.: sí, el hacking normal digamos. Sí sí sí, sí, sí, sí, entiende.
+18:04 María F.L.: Bueno, para el código penal está bien Eso es como algo es como 
+una terminología vaga Sí porque el hacking para para el código penal sí es tiene
+18:16 Héctor D.C.S.: hacking
+18:19 María F.L.: otra terminología que es el acceso ilegítimo sistemas 
+informáticos, Sí así se llama. Entonces cuando ustedes vayan al código penal lo 
+van a ver así como el acceso ilegítimo de sistemas informáticos a sistemas 
+informáticos ahora bien18:33 Héctor D.C.S.: o JAQUIN
+18:36 María F.L.: Esta figura se incorpora al código penal a través del artículo 153 
+bis. Sí o sea, el artículo 153 está, pero se agregó esta nueva figura y acá lo que 
+nos dice es que se va a castigar con una pena de 15 días a seis meses. Si no 
+existiese un delito más Severo más grave, sí, aquella persona se va a castigar 
+aquella persona que acceda por cualquier medio sin una autorización a un 
+sistema de acceso restringido O sea a mí me van a castigar porque yo de repente 
+accedo a un sistema Que obviamente, eso no esté autorizada.
+19:27 María F.L.: sí Ese sería como el castigo y la conducta indebida obviamente 
+es yo haber accedido a un lugar donde no debía haberlo hecho. Ahora qué pasa 
+Esta es la pena Digamos básica, pero si el acceso es a un organismo público. 
+Entonces se agrava Sí, se entiende esto.
+20:05 Alvaro J.C.: perfecto
+20:07 María F.L.: Después lo corrijo lo otro. Ahora bien, También tenemos. otra 
+figura Que la vamos a ver en el artículo 183 igual, o sea, a ver, ustedes lo tienen 
+desde acá no es que tienen que entrar al código y Buscar yo ya les puse 
+directamente la norma, Sí y lo que me interesan es esto estos dos párrafos. Me 
+parecen sumamente importantes Por qué Porque es un mismo artículo que tiene 
+dos figuras distintas por un lado en el primer párrafo, habla sobre el Sabotaje 
+informático, Sí y lo que dice Será reprimido con prisión de quince días un año el 
+que altere destruya fíjense las conductas, si acá tenemos.
+20:59 María F.L.: Tres conductas alterar destruir e inutilizar son tres conductas 
+que van a ser castigadas. Sí una persona que lleva adelante. Cualquiera de estas 
+tres conductas sí, sobre documentos programas o sistemas informáticos. Y 
+quiera provocar un daño va a ser castigado. Sí, como les dije, no hace falta que 
+ustedes aprendan las penas, porque la verdad no me interesa que aprendan las 
+penas, o sea, yo eso no lo voy a tomar sinceramente no lo voy a tomar a mí me 
+importa que ustedes de acá puedan puedan saber Sí qué es lo que se castiga.
+21:43 María F.L.: Porque aparte me parece sumamente importante que ustedes 
+esto lo puedan lo puedan saber porque Sencillamente ustedes se dedican o se 
+van a dedicar a todo lo que tiene que ver con la tecnología. Esto lo conocían lo 
+del Sabotaje informático.
+22:05 Héctor D.C.S.: Qué es lo que dice que no va a tomar los artículos?22:09 María F.L.: Sí, los artículos no los tomo.
+22:11 Héctor D.C.S.: Ah Okay pero sí, digamos lo que significa
+22:15 María F.L.: Sí o sea, lo que yo les voy a tomar. Lo que yo voy a tomar es 
+básicamente A ver no te voy a decir qué qué pregunta voy a hacer. Sí, a mí lo que 
+me interesa es que ustedes puedan detectar que determinadas conductas son 
+castigadas. Sí es como para que ustedes, por ejemplo que se van a encargar de 
+no sé hacer programas de trabajar con todo lo que tenga que ver con la 
+tecnología para ustedes para una empresa para un tercero para quien sea sí, 
+sepan.
+22:50 María F.L.: Cuáles son sus limitantes o sea Ese es mi objetivo? Por eso es 
+que yo les estoy contando que si una persona.
+23:03 María F.L.: altera algún sistema informático con la finalidad de provocar un 
+daño Va a estar castigada porque es una figura que está dentro del Código Penal 
+se entiende Lo que quiero decir. El resto lo entiende.
+23:22 Adrián B.: perfectamente
+23:23 María F.L.: Digo para Mi pregunta, es a ustedes les sirve Saber esto o no?
+23:30 Alvaro J.C.: Y Sí profe porque nos podemos meter en bastante quilombo de 
+no reconocerlo
+23:31 María F.L.: bueno
+23:34 Alvaro J.C.: también.
+23:35 María F.L.: tal cual entonces Tenemos en el primer párrafo esto. Sí el 
+Sabotaje informático Y en el segundo párrafo, vamos a ver que también se 
+castiga el daño informático y distribución de virus, o sea. En este caso dice en la 
+misma pena, o sea, de quince días a un año incurrirá el que altere destrusa o 
+inutilizar datos documentos programas sistemas informáticos o vendiere 
+distribuyera y circular o introdujera en un sistema informático.
+24:20 María F.L.: cualquier programa destinado A causar daños Sí entonces 
+Fíjense, que esta conducta se repite Sí ahora en el segundo párrafo, vamos a ver. 
+Que corresponde al delito de virus Maker sí. Y acá también les agregué que se 
+pune, o sea, se castiga la conducta de toda aquella persona que elabora un 
+malware, Sí y lo hace circular. Así que esto como para que lo tengan en cuenta 
+Más adelante ojo donde se meten ojo con lo que hacen Sí porque Sencillamente 
+Hoy por hoy estas figuras están castigadas Sí están penadas.25:16 María F.L.: Bueno, eso por un lado, ahora nos vamos con aquellos delitos 
+que que van en van contra la integridad sexual. Sí, Este es un tema que lo tomo 
+porque me gusta muchísimo creo que se lo dije desde la primer clase que se los 
+vengo diciendo. Es un tema que me gusta muchísimo y lo tomo lo tomo todo. Y es 
+el grooming. Sí, Yo quiero saber si alguno de ustedes conoce a alguien que haya 
+sido víctima de grooming.
+25:57 María F.L.: no
+25:58 Martín B.: no, no
+25:59 Héctor D.C.S.: Yo sé que a usted le pasó
+26:02 María F.L.: a mí
+26:03 Héctor D.C.S.: si usted no dijo que le había pasado a su a su
+26:05 María F.L.: Claro, no, bueno, no fue víctima de grumin, sino que a ella la 
+contactaron sí, a través de roblox.
+26:13 Alvaro J.C.: Yo tengo una amiga que el ex novio difundió fotos. e hizo Sí sí 
+difundió fotos sin consentimiento.
+26:23 María F.L.: Y ella es menor de edad.
+26:25 Alvaro J.C.: Cuando de del de cuando eran las fotos era menor de edad. 
+Eran menores de edad los dos y la difundió ya una vez eran mayores de edad. Ahí 
+ya no sé cómo es el
+26:36 María F.L.: O sea los dos en los dos eran menores de edad.
+26:39 Alvaro J.C.: de a la hora de tomarse las fotos
+26:41 María F.L.: Bueno, eso no es grooming.
+26:42 Alvaro J.C.: no
+26:44 María F.L.: no, no, importa, o sea, no importa está buenísimo El ejemplo 
+porque a veces yo lo explico y pregunto lo entienden lo entienden, sí lo 
+entendemos bueno está buenísimo El ejemplo Álvaro Porque eso es más un 
+sexting lo que vos comentas.
+27:04 Alvaro J.C.: Claro pero ahora a la hora de sacarse las fotos eran menores 
+de edad
+27:04 María F.L.: sí No tiene nada que ver no, no y te y ahora vas ahora vas a ver 
+cuál es la
+27:10 Alvaro J.C.: No importa.
+27:14 María F.L.: diferencia tanto para Álvaro como para todos vamos a ver un video primero.
+27:15 Alvaro J.C.: Bien.
+27:19 María F.L.: Vamos a hablar un poquito del grooming y después les voy a 
+compartir un video para que ahí sí, con eso cerremos la idea de Qué es Sí el 
+grooming, bueno, pertenece al grupo de delitos informáticos, sí.
+27:34 Martin U.P.: No serìa pedofilia difundir fotos de una menor de edad?
+27:36 María F.L.: Y como les había dicho esto de del avance de la tecnología hizo 
+que nosotros estemos también. Todo el tiempo con Instagram Facebook 
+utilizamos todas las redes sociales para exponer nuestra vida y demás y ni hablar 
+de esta nueva generación que su mundo pasa por por las redes sociales, no? 
+Entonces la verdad que eso ayudó un montón a que de repente aquellas personas 
+que están muy Sí, los pedófilos puedan aprovechar eso.
+28:14 María F.L.: Con lo cual ante el crecimiento de este tipo de delito a través de 
+la ley 26.904 en el 2013 se incorpora estas figuras que es el grooming, sí que por 
+supuesto. Tiene una pena de prisión. Sí fíjense que es muy baja de seis meses a 
+cuatro años. Entonces, qué es lo que se va a castigar? A quién se va a castigar 
+bueno. Se va a castigar aquella persona que fíjense por medio de comunicaciones 
+electrónicas telecomunicaciones o cualquier otra tecnología de transmisión de 
+datos.
+29:00 María F.L.: contactar a una persona menor de edad Sí con qué finalidad 
+simple Lo que quiere hacer es cometer un delito contra la integridad sexual 
+Entonces qué quiero decir con esto? que el grooming tiene dos participaciones Sí 
+una persona que puede ser una mujer o un hombre mayor de edad. Y una nena o 
+un nene menor de edad. Sí entonces por eso es que el grooming no entraría 
+dentro de lo que comentó Álvaro porque acá necesitamos Sí o sí que haya un 
+mayor y un menor. O una persona más una mujer mayor y un menor o una menor.
+30:02 María F.L.: Entonces cuando cuando vemos que tenemos un adulto y un 
+menor es un grooming Sí eso sí es brumil Entonces qué pasa acá se tiene que dar 
+este contacto a través de Alguna algún aparato tecnológico sí. no, es que yo voy 
+a la plaza y Me acerco a un nene y le doy un caramelo, eso no es grooming, Sí el 
+grooming es el contacto que se hace a través de de no sé de un mail de un 
+WhatsApp de un de Telegram de alguna red social, sí, a un menor con la intención 
+de corromperlo se entiende esto porque para mí es súper sencillo, pero yo necesito que ustedes lo entiendan.
+31:01 Martín B.: Sí, perfecto.
+31:02 Héctor D.C.S.: Hay un programa enchilas de hace unos años que se llama 
+en su propia trampa. Que habla justamente y lo cazan es un tipo reality y lo cazan 
+a un tipo. tratando de levantarse a una piba Lo contactan la chica va las chicas es 
+igual mayor de edad, pero parece chica y bueno y ahí lo casan está, está 
+bastante. Bueno, son casos reales. con toda la logística tipo Cómo se llama esta.
+31:35 María F.L.: No son como dentro de una combi.
+31:38 Héctor D.C.S.: Cómo
+31:39 María F.L.: No hay porque me parece que lo vi no es como una combi que 
+adentro está. Están con unas cámaras y demás.
+31:46 Héctor D.C.S.: Sí sí es más ahí lo paso.
+31:46 Héctor D.C.S.: https://www.youtube.com/watch?v=BKPL9uzsN-Q
+31:49 María F.L.: Ahí está gracias.
+31:49 Héctor D.C.S.: Cuando quieran verlo.
+31:51 María F.L.: Perfecto Bueno a ver chicos, esto es muy sencillo para que 
+ustedes lo puedan distinguir Sí para que para que la Para que encuadre la figura 
+tienen que haber dos personas una de ellas tiene que ser mayor y la otra tiene 
+que ser un menor Sí o sí, si no, eso no es grooming, sí. Ahora nos falta la tercera 
+pata de esto y cuál es Es que el contacto de este mayor. Tenga que ser a través 
+de del uso de la tecnología. Sí, tenemos las partes que ya les dije. El medio y 
+después la finalidad que es corromper al menor o a la menor.
+32:40 María F.L.: Sí igual esto tiene etapas Ya lo vamos a ver entonces por 
+supuesto que esto está castigado. Sí, fíjense acá les dejé un concepto que es 
+acción deliberada que lleva una un adulta ganarse la confianza de un menor con 
+el propósito de contactarlo y posteriormente tomar el control emocional de la 
+víctima rompiendo sus débiles barreras por razones de inmadurez, biológica 
+facilitando su propósito sexual la conducta tiene una intención determinada que 
+se divide en etapas que pueden durar. Cinco meses sí que eso ya lo vamos a ver 
+Entonces hasta acá, quedó claro.
+33:26 Alvaro J.C.: perfectamente
+33:27 María F.L.: Bien. bueno Ahora vamos a ver un videíto. Ahí les comparto. Les 
+comparto y me voy a silenciar así también. lo35:23 María F.L.: 
+37:04 María F.L.: Bueno qué les pareció ese videíto
+37:10 Alvaro J.C.: Mejor explicado imposible mejor explicado imposible.
+37:11 María F.L.: Cómo Ahí está.
+37:15 Héctor D.C.S.: Ambos puedan tener algo? los dos grandes
+37:19 María F.L.: Es terrible chicos. O sea, es terrible. La verdad que que me 
+acuerdo que cuando cuando busqué videos de de grooming habían un montón, 
+pero este me encantó. Algo dijiste Héctor como pueden ser grandes entendí?
+37:43 Héctor D.C.S.: Sí que entre ellos se vieron y no no conectaron entre los 
+tipos.
+37:49 María F.L.: Y no no van a conectar Sencillamente porque se dieron cuenta 
+que o sea se autoengañaron. y claro uno, o sea, los dos pensaban que Pero 
+bueno estuvo bueno, les gustó el video, díganme la verdad.
+38:05 Héctor D.C.S.: Igual me parece un poco alevoso la parte del del acosador 
+que si pones una foto de un nene de 15 años y después venís sin pelo y con 40 
+años más.
+38:16 Alvaro J.C.: pero el tema es que es una es una realidad son las modalidades 
+y así hay todo tipo de modalidades, una foto una foto, la verdad que no influye 
+mucho porque
+38:21 María F.L.: tal cual
+38:26 Alvaro J.C.: Importante creo que en esa situación lo que busca el el que 
+está cometiendo el delito es simplemente engañar y poder llegar al menor de 
+edad.
+38:37 María F.L.: bueno la figura esta de grooming Le pone un nombre al 
+delincuente, sí se llama groomer. Así que estas personas son groomers Nada Me 
+alegro que les haya gustado porque realmente yo sinceramente les digo amo este 
+tema, o sea es algo que me apasiona y Y la verdad es que que lo podemos 
+encontrar en cualquier lado Sí porque Cuántos chicos, o sea, particularmente más 
+allá de que mi hija no usa celular porque no no la dejamos. Tiene amiguitos que 
+de repente tienen una cuenta en YouTube o tienen tiktok y la verdad que o sea, 
+ahí los chicos se ponen un montón y están.
+39:41 María F.L.: Muy expuestos muy expuestos y estas personas que están 
+totalmente enfermas los pueden encontrar tranquilamente. Sí así que si ustedes tienen hijos sobrinos hermanitos lo que sea Está bueno que sepan que estas 
+personas están disfrazadas. Sí están disfrazadas y obviamente se hacen pasar 
+Generalmente por otro menor que eso lo vamos a ver ahora entonces. Qué pasa 
+con con estas personas estos psicópatas sos pedófilos? tienen un trabajo La 
+verdad Que impecable porque esos lo primero que que hacen para poder llegar al 
+encuentro sexual es Ir acercándose poco a poco a la víctima, Sí al menor.
+40:43 María F.L.: Por supuesto que no es que se acerca a un menor no no no Esto 
+es un grupo de gente, o sea es como cuando ustedes están en las aplicaciones 
+que le mandan el corazoncito a todas las chicas y empiezan a escribirles Hola 
+cómo estás A todas Esto es lo mismo Sí de lo mismo esta persona. Lo que hace 
+es escribirle a muchos menores y alguno de ellos va a ser la víctima Entonces lo 
+primero que hace en la etapa inicial es acercarse a su víctima. Sí Y cómo se va a 
+acercar.
+41:28 María F.L.: Y es obvio, o sea una nena de 12 años no se va a poner a hablar 
+con un señor de 30 años, por supuesto que va a empatizar o va a sentirse 
+empatizada por un chico que tenga no sé, Trece años 14 15 entonces. Esto está 
+vinculado con que el psicópata va a suplantar su identidad se va a hacer pasar 
+por un adolescente para poder tener un diálogo con su víctima.
+42:08 María F.L.: y a raíz de ahí crear un vínculo donde la víctima empiece a 
+contarles sobre sus ductos sobre sus datos personales no sé su nombre su edad 
+Cómo está compuesta su familia, Qué colegio va los amigos sí Y entonces cuando 
+Cuando ya el groomer se acerca a la víctima y empieza a tener una conversación, 
+pasamos a la etapa dos que es la fase intermedia donde ya hay un vínculo Sí 
+donde hay un vínculo que se va fortaleciendo va generando una confianza 
+entonces.
+42:57 María F.L.: Esa esa relación se hace cada vez más estrecha Sí Por ende La 
+menor o el menor empieza a contarle cosas a tenerlo como un confidente como 
+como contarle sus secretos y demás Entonces de esa situación se va a agarrar, 
+se va a aprovechar este psicópata, sí. Para empezar a pedirle fotos videos pero 
+todo todo lo que tenga que ver con lo sexual sí es decir. les pongo un ejemplo 
+sería como Como que una nena de 12 años es contactada por un señor, sí que se 
+hace pasar por un adolescente.
+43:52 María F.L.: Y nada empezaron a hablar empezaron a hablar, se hicieron Súper Amigos súper confidentes y demás y este señor que obviamente se hace 
+pasar por un niño le Empieza a pedir fotos como Mándame una foto con 
+bombacha y corpiño o desnuda con la espalda desnuda o tirándome un beso sí 
+cosas así. Qué pasa la menor obviamente O sea la víctima va a decir, pero está 
+raro como me pide Esto entonces obviamente va a tener mucho miedo.
+44:24 María F.L.: Y no le va a querer mandar, pero seguramente antes ya le había 
+mandado algo con lo cual, el psicópata la va a amenazar y le va a decir que si no 
+le mandan más contenido. La va a extorsionar porque se la va a mostrar a sus 
+padres a sus amigos se van a enterar todos de las fotos que ella se sacó. 
+entonces Cuando la extorsiona con esto lo que va a querer hacer es bueno 
+encontremosnos en tal lugar.
+45:02 María F.L.: Sí pero la la menor o el menor nos digamos, no se enteró que 
+era un mayor sigue creyendo que es Un niño o una niña Sí entonces la finalidad 
+es extorsionar a esa víctima para llegar al encuentro Y ahí sí, corromperlo o 
+corromperla se entienden estas tres etapas.
+45:27 Alvaro J.C.: Yo dije que sí.
+45:32 María F.L.: sí No sé quién dijo que sí.
+45:35 Joaquin G.M.: Sí, se entiende, se entiende.
+45:38 María F.L.: perfecto bueno Ya, ya está lo de grooming, Sí vamos a pasar a 
+otro tema. Y con este terminamos. Y después nos vamos al recreo. bueno Acá 
+tenemos un tema que es muy debatible, que creo que en algún momento también 
+lo charlamos que tiene que ver con la distribución y tenencia de pornografía 
+infantil Sí también con eventos. con eventos que tengan actividades sexuales 
+donde participen los menores Este es un tema, yo le digo bastante controvertido 
+un tema que a mí me gusta mucho.
+46:33 María F.L.: Y en este caso fíjense Que acá tenemos diferentes conductas, 
+Que obviamente, son castigadas, sí. Dice que se va a castigar con pena de 
+prisión. A una persona sea hombre sea mujer, qué lleve adelante todas estas 
+conductas? Sí fíjense produjere financiare ofreciere comerciare publicaré, o sea y 
+yo por ejemplo le le Le le mando un mail no a una amiga con material 
+pornográfico infantil, no? Bueno eso está penado.
+47:26 María F.L.: Si yo produzco material pornográfico porque tengo a dos niños 
+acá y los hago que tengan relación sexuales. Entonces eso está penado, Sí digo acá mencioné, simplemente dos conductas fíjense que tienen más también, sí. 
+Quién levantó la mano?
+47:47 Martín B.: Yo profe.
+47:48 María F.L.: sí
+47:49 Martín B.: Está compartiendo la presentación porque no la yo al menos no 
+la estoy viendo.
+47:59 María F.L.: Por qué se me salió? Tenía puesta a ver habían visto la no vieron 
+esto no Pero igual después yo les paso todo. las tres etapas Del grooming, esto 
+no lo vieron entonces.
+48:16 Martín B.: No, después del vídeo ya se cortó.
+48:18 María F.L.: Ah está bien porque este fue el video y acá están las tres fases 
+que son las que le comenté de grooming Así que esto después lo leen. Ya se los 
+expliqué y después pasamos a esto a distribución y tenencia de pornografía 
+infantil, que es lo que estoy explicando Ahora sí acá fíjense que tienen el artículo 
+128 del código penal. Donde habla de del castigo que va a recibir aquella persona 
+que lleva adelante estas diferentes conductas, sí.
+48:48 María F.L.: Produjeron y financiar y ofrecere comercial y publicar y facilitar 
+y divulgar o distribuyere por cualquier medio toda representación de un menor de 
+18 años dedicado actividades sexuales explícitas o toda representación de sus 
+partes genitales con fines predominantemente sexuales. También se va a castigar 
+aquella persona que organice espectáculos en vivo de representaciones sexuales 
+en la que participen menores. Se entiende esto. Se entiende Lo que quiero decir. 
+Bien, bien, perfecto.
+49:34 María F.L.: Entonces dicho, esto se lo voy a traducir para aquellas personas 
+que por ahí no, no están en la clase. Lo van a ver grabado, sí, lo que quiere decir 
+el artículo 128. Es que se va a castigar a toda persona que lleva adelante estas 
+conductas que vemos acá en esta. sí, ante toda representación de un menor de 
+18 años, o sea Cuando estemos hablando de fotos de videos donde un menor de 
+18 años sea mujer u hombres sean nene o nena, sí se los digo de todas las 
+maneras posibles este llevando a cabo alguna actividad sexual, o sea, este 
+teniendo relaciones sexuales o lo más parecido a eso sí.
+50:30 María F.L.: Que fíjense que acá dice o también sus partes íntimas tiene que 
+ver también con alguna foto donde se vea algo, pero siempre estamos apuntando a que sea sexual sí Entonces se castiga en esta Norma por un lado a los que 
+lleven adelante estas conductas y por el otro también se va a castigar aquellas 
+personas que hagan. espectáculos sí estaban alguna fiesta con un contenido con 
+contenido sexual donde esos contenidos sean obviamente hechos por los 
+menores, sí, acá no lo dice más adelante Se los voy a decir porque también no tan 
+solo que se castiga al organizador de los eventos, sino que también a la gente 
+que participa de sí Entonces qué es lo que entendemos por pornografía infantil sí 
+Toda representación por cualquier medio de un niño dedicado actividades 
+sexuales explícitas reales o simuladas o toda representación de las partes 
+generales de un niño con fines primordialmente sexuales eso ya lo vimos, sí.
+51:53 María F.L.: Seguimos. Fíjense que en la norma nos habla de 
+representaciones, nosotros tenemos que saber qué son las representaciones y Y 
+a qué no se considera representaciones Entonces yo en esta filmina, lo que tengo 
+es que no va a considerar la norma como representaciones a determinadas 
+cosas, por ejemplo. Una caricatura las animaciones no son representaciones Sí 
+una caricatura de de repente un mayor y un menor teniendo relaciones sexuales 
+eso no entra. Sí no está considerado.
+52:34 María F.L.: Tampoco las grabaciones de audios, las voces simuladas las 
+conversaciones telefónicas, Sí una carta un cuento todo eso no se va a tomar en 
+cuenta, Sí todo eso la ley no lo considera como una representación ahora qué es 
+lo que considera la ley como representación. Las imágenes las fotos las 
+diapositivas o videos Sí eso sí es una representación. Hasta ahí, vamos bien.
+53:12 Alvaro J.C.: perfecto profe
+53:14 Martín B.: Sí, sí.
+53:14 María F.L.: Bien, perfecto. Bueno, a ver cuánto nos falta. Bueno, faltan dos 
+firminas y ahí cortamos. Bueno hasta ahora estábamos hablando sobre la 
+distribución de pornografía infantil sí que eso está castigado dijimos esta Norma 
+lo que va a castigar es todas estas conductas que que se lleven adelante también 
+a los organizadores de eventos, ahora bien. A través de una reforma que se hizo 
+en el artículo 128 hace unos años se incorporó una nueva figura. Y esta figura 
+tiene que ver con el tenedor de pornografía infantil, sí.
+54:04 María F.L.: Qué quiero decir con esto que hasta hasta hace un tiempo? 
+Teníamos que solamente se iba a castigar aquella persona que produzca comercializar y todos eso distribuye todo lo que vimos recién solo se castigaba 
+esa persona. Pero pero para poder erradicar este. Este horror, sí. Ahora se 
+empieza a castigar también a quien tiene pornografía infantil. para consumo 
+personal o bien para distribuir Sí entonces Acá lo que nos dice La Ley es que se 
+va a castigar el que a sabiendas tuviera en su poder representaciones de un niño 
+dedicado a actividades sexuales explícitas reales o simuladas o toda 
+representación de las partes genitales de un niño con fines primordialmente 
+sexuales, sí.
+55:10 María F.L.: También se va a castigar aquella persona que tenga en su poder 
+representaciones. Con fines de distribuir o comercializar entonces? Eso en mi 
+computadora tengo videos. De de niños teniendo relaciones sexuales obviamente 
+yo digo no le estoy haciendo mal a nadie, o sea, no tengo mi computadora, cuál 
+es el problema estoy en mi casa. Miro esos videos porque me gustan cuál es el 
+problema a ver los escucho.
+55:51 Héctor D.C.S.: Y las tendencias está prohibida.
+55:55 María F.L.: Más allá de eso, por qué creen que nace esta esta figura Por 
+qué creen que se empieza a castigar también la tenencia.
+56:03 Alvaro J.C.: Porque en esos vídeos están participando.
+56:04 Maximiliano C.M.: Porque si no se ataca el consumo siempre va a haber 
+oferta.
+56:09 María F.L.: tal
+56:10 Matias J.P.: Porque si tenes sos parte de una cada de difusión de ese 
+material
+56:11 Maximiliano C.M.: Bueno pero no se hace con un montón de otras drogas 
+esto
+56:11 Alvaro J.C.: aparte que en esos videos
+56:18 Maximiliano C.M.: Me refiero si no la gente que va a una clínica por la 
+rehabilitación por droga deberían aumentar los precios. Si vamos a erradicarlo la 
+demanda de todo lo ilícito. no Cómo sería? legalmente hablando
+56:46 Alvaro J.C.: profe
+56:47 María F.L.: Acá estoy acá. Estoy que ahora luchan de mi ausencia es que se 
+me desconectó. Parece que llevo una hora que se desconecta chicos bueno.
+56:57 Maximiliano C.M.: Justo no pudimos hablar todos hicimos un debate.57:00 María F.L.: Ah no me le digan lo que me perdí Bueno no importa acá estoy. 
+Acá estoy acá. Estoy acá. Estoy. Cuéntenme por qué creen que que se castiga la 
+tenencia a ver. algo dijo Maximiliano
+57:17 Maximiliano C.M.: Dijimos porque se ataca la demanda para que no haya 
+oferta Porque si hay demanda siempre en algún lado de la oferta, va a encontrar 
+el modo de abastecerla. Ahora lo que yo dije pensándolo igual en otras drogas ya 
+me sé cocaína o lo
+57:27 María F.L.: Muy bien.
+57:33 Maximiliano C.M.: que sea. No van en una clínica rehabilitación y meten a 
+toda esta gente de prensa porque son consumidores de droga y después van a 
+querer seguir consumiendo drogas. Pesa que están queriendo hacer la 
+rehabilitación, no, pero se entiende lo que digo, o sea, se atacan siempre la 
+oferta, Trump bombardea lanchas que supuestamente llevan droga. entonces
+57:56 María F.L.: Muy bien, sí.
+57:57 Maximiliano C.M.: Atacamos la parte, pero no la demanda, digo no va a 
+Nueva York y mete presa la gente que consumidora de cocaína.
+58:05 María F.L.: Sí tal cual aparte tengan en cuenta a ver, yo les pregunto esto. 
+Ustedes saben dónde podemos conseguir este tipo de material? A ver quién sabe.
+58:19 Alvaro J.C.: Pasa profe que hoy en día hay tanta difusión del de sobre, 
+cómo Cómo cuidarse, la internet, oscura, telegrama y grupos en todos lados, vas 
+a ver videos o desde youtubers influences que dicen que no es donde se puede 
+conseguir sino que advierten que existen grupos de personas ilegales que 
+trabajan que están a través de estos medios. por ejemplo, el otro día estaba 
+viendo un video de Dross Y decía que ciertos grupos de ilegales obviamente 
+utilizan canales de Telegram que se volvió lo más nuevo No sé si seguramente es 
+así, pero hay un montón de medios, no, no, solamente es uno solo los mismos 
+influencers, te dicen, no entres acá tené cuidado acá esto.
+59:13 María F.L.: Bueno sí, eso igual lo vamos a ver en las modalidades de fraude 
+sí que eran y WhatsApp hoy por hoy. Nada, son utilizados cuando nos llega el 
+mensaje, pero bueno, no lo quiero tocar. Ahora después lo vamos a ver, pero 
+también es cierto que hay grupos de Telegram Sí donde son grupos sumamente 
+cerrados, que que claro están todo este tipo de personas que se pasan este este 
+tipo de material Sí pero pero mi pregunta fue más puntual, digo dónde podemos conseguir esto.
+59:50 María F.L.: Dónde creen que podemos conseguir?
+59:53 Martín B.: web en la Deep web
+59:57 María F.L.: sí Sí sí nunca entré sí, O sea no es que Lo aclaro, nunca entré.
+01:00:02 Martín B.: Yo tampoco
+01:00:05 María F.L.: Nunca entré.
+01:00:06 Joaquin G.M.: Igual no es fácil entrar no es tan difícil, pero el tema es 
+que para entrar
+01:00:06 Martín B.: Igual no es tan eso no es tan sencillo.
+01:00:12 Joaquin G.M.: necesitas tener un link. Una URL específica para poder 
+entrar desde navegador específico, sabes? Puedo poner un link acá en el Chrome 
+o estés en en otro buscador puedes poner el link de la web y no te va a abrir 
+porque es
+01:00:30 Alvaro J.C.: Yo pienso que
+01:00:30 Joaquin G.M.: Un Necesito un navegador específico para entrar igual No 
+necesariamente sí va
+01:00:32 Alvaro J.C.: Yo pienso lo contrario que hoy es que es muy fácil entrar
+01:00:37 Héctor D.C.S.: 
+01:00:38 Joaquin G.M.: y es fácil entender. No igual, iba a decir, no hace falta 
+entrar a la Deep web para encontrar esas cosas, te digo que está en el buscador 
+normal, si sabes que poner podés encontrar cualquier cosa, no solo eso te digo.
+01:00:55 María F.L.: Pasa que chicos.
+01:00:55 Joaquin G.M.: cosas terribles hay pero igual
+01:00:58 María F.L.: igual, o sea es Yo creo que esa es como yo pienso esto es 
+como
+01:01:00 Joaquin G.M.: Sí, es Eso es eso.
+01:01:06 María F.L.: como la gente que consume droga es el boca en Boca o sea 
+Es el boca en Boca que vos decís Che Dónde puedo conseguir Che acá, puedes 
+conseguir Sí o sea, entonces es como me parece que entre esa misma gente se 
+conoce y se va pasando y obviamente es un secreto Sí o sea, hay mucha 
+confidencialidad tiene códigos y demás Pero pero bueno nada La verdad, es que 
+es que para mí yo en su momento no estaba de acuerdo, o sea, Mi humilde, 
+opinión, era que no estaba de acuerdo con con la penalización de la de la tenencia pornografía infantil Me parece que no.
+01:01:47 María F.L.: Que no estaba. Bueno, no, no sé Yo trabajé sobre una 
+tenuante que había propuesto Cuando hice mi tesis y fue como muy debatible 
+miraron con cara rara, pero pero bueno hoy por ahí, la verdad que maduro un 
+poco más y creo que que está Está buena la figura como para penarla, así que así 
+que bueno, qué sé yo, pero Ustedes qué opinan les parece que está bien.
+01:02:19 Héctor D.C.S.: A mí me llama la atención lo que acabo de googlear. Y yo 
+no, no estaba muy en claro, lo que era la Deep web. Si sabía pero nunca lo puse, 
+a ver, dice Sí sí, pero más allá de la de la Traducción dice
+01:02:30 María F.L.: Cómo es la internet, profunda no.
+01:02:35 Héctor D.C.S.: cualquier página que los motores de búsqueda no pueden 
+encontrar, se estima que representa alrededor del 90 por ciento de internet, o sea 
+es bocha. O sea los motores no, no lo buscan no encuentran y generalmente con 
+aplicaciones especiales podés Acceder al al contenido. Si claramente previo 
+Tenés algún dato un link. Acaba de decir usted. O vos
+01:03:03 María F.L.: Sí, sí, sí, sí, sí, sí, creo que creo que hay que decir ingeniero 
+informático para entrar, no es muy difícil, o sea, yo no puedo yo no.
+01:03:10 Joaquin G.M.: No, no no no no, no, no, no es tan difícil no es tan difícil.
+01:03:12 María F.L.: No obviamente, pero yo la verdad que tampoco me interesa 
+entrar, o sea, en su momento me interesó. Pero pero no por una cuestión, o sea, 
+una cuestión de curiosidad para ver qué es lo que hay ahí.
+01:03:25 Alvaro J.C.: Yo profe de más de más chico yo no tengo miedo de decir 
+que cuando era más chico era mucho más curioso y entré porque era la moda. 
+Estábamos éramos todos chicos y el Boom que había salido de decir Uy existe la 
+Deep web Y eso se fundó cuando yo era chico tenía 14 15 años acceso a internet 
+y estamos con amigos y Bueno hasta incluso llegamos a conseguir un paso a 
+paso de cómo qué Aplicaciones descargar qué qué link tocar que nosotros no 
+sabíamos nada de computadoras. Tenemos que jugar al Mario Bros en la 
+computadora en ese entonces.
+01:03:56 Alvaro J.C.: Y conseguimos un paso a paso que nos pasó una persona 
+en un en un foro de internet, no me acuerdo de cuál era. Y seguimos el paso a 
+paso y llegamos hasta como como páginas de MercadoLibre pero en lo que 
+prácticamente podías conseguir todo.01:04:15 María F.L.: Bueno de hecho no se venden los títulos ahí
+01:04:18 Alvaro J.C.: Claro pero
+01:04:19 María F.L.: Se venden los títulos se venden no sé órganos, creo.
+01:04:21 Alvaro J.C.: Había lo que sí lo que se Imagine profe lo que se imaginen 
+ese MercadoLibre que encontramos había de todo cosas innombrables Hasta 
+sicarios, drogas de todo tipo, venta de personas Órgano no había de todo no 
+sabía, no nosotros En un momento éramos chicos lo vimos y pensamos no esto 
+debe ser mentira debe ser alguien que está haciendo una broma más adelante. 
+Yo más de más grandes nos dimos cuenta que esa página sí, existió y todo lo que 
+vimos cuando éramos chicos Era De verdad.
+01:04:53 María F.L.: claro
+01:04:54 Alvaro J.C.: No me acuerdo cómo se llamaba esa página.
+01:04:56 Joaquin G.M.: Igual hay muchas páginas así muchas cosas que hace la 
+la Silla viste cosas, perdón. cosa de seguridad de Estados Unidos ponele que 
+cargan esas páginas intencionalmente en la Hacen las hacen conocer claro con 
+una trampa y ahí.
+01:05:13 María F.L.: una trampa
+01:05:13 Alvaro J.C.: No sabía eso de títulos. Ahora voy a investigar eso me sirve.
+01:05:17 Joaquin G.M.: O sea, o son páginas falsas que hace la gente para que le 
+pone le compran y le llegue la plata a alguien y no les den ningún producto, por 
+ejemplo. que eso también pasa mucho en en la web normal, pero nadie puede 
+como son cosas más caras viste son estafas que por más plata aparte pero
+01:05:38 María F.L.: Bueno pero ahí, o sea, Ahí es donde se pueden comprar los 
+los pasaportes también nos atochan, no los títulos claro los órganos bueno los 
+animales
+01:05:43 Joaquin G.M.: Sí todo todo lo que es ilegal y
+01:05:48 María F.L.: exóticos también no O sea aquí inocente que son chicos Sí 
+pero esas cosas y no la verdad que no me da la cabeza para imaginarme que 
+otras cosas Se podrían conseguir ahí sinceramente tampoco me interesa pero 
+pero imagino que que bueno debe ser terrible eso Por qué no da mucha más 
+satisfacción estudiar y tener el título Me parece que ya es otra cosa pero pero sí 
+O sea qué sé yo bueno debe ser interesante para algunas personas yo te puedo 
+conseguir un pasaje gratis ahí No creo pero Estaría bueno un pasaje a no sé a Europa
+01:06:38 Héctor D.C.S.: pasaporte quizás
+01:06:39 María F.L.: No chicos, ya tengo pasaporte pero no otra así como un 
+viaje, no sé a eso sí me gusta.
+01:06:46 Alvaro J.C.: Bueno un par de casos profe acá en Argentina ahora que lo 
+recuerdo de personas que habían comprado a través de esa de esa de esa ese 
+tipo de MercadoLibre Con cajas misteriosas me acuerdo que hasta me acuerdo 
+que se ven los noticieros que habían llegado habían pedido cajas misteriosas. Y 
+les habían llegado dedos cortados dientes que se habían llegado todo tipo de 
+cosas como ropa interior usada les habían como cajas misteriosas, pues ya 
+venían desde de todo y a uno de estos personas y después me acuerdo que 
+también hubo otra noticia acá de un grupo de de personas que se dedicaban a 
+hacer compras de todo tipo, pusieron a un robo un sí a una a una especie de 
+robot a hacer compras con cierta cantidad de dinero que disponían y el robot 
+terminó pidiendo una caja Misteriosa de ese lugar y había llevado una caja con 
+drogas y los chicos tuvieron que dar explicaciones ante la ley y todo me acuerdo 
+que eso pasó acá en los noticieros también.
+01:07:43 María F.L.: Mira no, yo creo que es más miren lo que les voy a ahora se 
+me estaba pensando todo eso cuando dije alguien dijo dedo me acordé del del 
+caso este del triple crimen. De las chicas digo cuando cuando fue el furor de del 
+caso ese de que nada pobre las mataron y demás. Nada, circulando 
+supuestamente un video que no sabíamos, era de se hizo por Telegram por 
+Instagram por WhatsApp Entonces yo digo claro, el que quiere conseguir ese 
+video porque por ejemplo yo entraba a Facebook y decía querés ver el video, o 
+sea, yo estaba deslizando la noticia y de repente decía querías ver el video y es 
+como que capaz que ese video está subido ahí, no? Capaz que lo subieron para 
+lucrar también porque si en este lugar en esta internet profunda Hay tantas cosas.
+01:08:42 María F.L.: Se me ocurre así como por lo del dedo, digo capaz, que ese 
+video debe estar ahí.
+01:08:47 Alvaro J.C.: hay mercado para todo profe en internet, la verdad que es 
+un es un mundo completamente tan amplio que es de desconocido para
+01:08:56 María F.L.: Sí ustedes vieron ustedes vieron la película de sonidos de 
+libertad, quién la vio? Yo la vi dos veces y lloré.01:09:05 Alvaro J.C.: terrible no, no demasiado terrible, ver esa realidad que de 
+verdad pasa no es algo, no es ficción, hay muchas no, el hecho de que un 
+soldado vaya a rescatar precisamente así, pero la la realidad del tráfico de 
+personas es es muy muy
+01:09:24 María F.L.: Bueno fíjense, que que no tan solo que la finalidad de 
+secuestrar niños de robarse niños y demás es para venderlos, sino que también 
+para poder elaborar elaborar material pornográfico, Sí digo ahí tenemos. Creo que 
+dos de las tantas finalidades que deben tener estos delincuentes, no, pero 
+bueno, en su momento no sé, no sé si se acuerdan que estaba el lo ubican. Ares
+01:10:06 Alvaro J.C.: Ares madre mía, Ares Cuántas películas descargué y no eran 
+películas
+01:10:08 María F.L.: bueno
+01:10:11 Héctor D.C.S.: el colador de virus
+01:10:13 Alvaro J.C.: de
+01:10:13 María F.L.: bueno, ustedes saben que esto todo lo que era todo lo que es 
+como infantil se pasaba por Sabían. Alguien sabe
+01:10:30 Alvaro J.C.: No eso yo lo sabía, pero si en trabajadores me acuerdo que 
+una vez descargué una película para mí para mis primas y Tuve que sacarla 
+rápido porque no era lo que no era la sirenita precisamente.
+01:10:43 Héctor D.C.S.: está como raro La Sirenita
+01:10:46 María F.L.: Bueno ahora lo saben Sí sí se hacían los intercambios de 
+material por ahí. Así que bueno, la verdad es que lo que es tenencia de 
+pornografía infantil. Pasa esto sí que hoy por hoy es como que también se castiga 
+a esta persona que por más que diga no, pero o sea, yo tengo este material 
+porque esta consumo personal. No está castigado.
+01:11:17 Héctor D.C.S.: Profe a mí una experiencia personal no tiene que ver con la 
+ortografía infantil Pero sí tiene que ver con videos así violentos Trabajaba en un 
+grupo de Haití en el gobierno de la ciudad todos teníamos un grupo principal. Y 
+puntualmente dos personas siempre mandaban videos al grupo de asesinatos en 
+vivo secuestro.
+01:11:39 María F.L.: Ay no, qué horror.
+01:11:42 Héctor D.C.S.: tiros en la cabeza cuando lo van cortando poco a poco
+01:11:44 Alvaro J.C.: Siempre Hay alguno de esos en cualquier grupo.01:11:47 Héctor D.C.S.: y yo
+01:11:47 María F.L.: No, no sé en qué grupo están ustedes a mí no me pasa eso.
+01:11:50 Alvaro J.C.: un grupo de trabajo inclusive
+01:11:52 Héctor D.C.S.: Y claro, exactamente fue grupo de trabajo. Hasta bueno vi 
+un una persona que fue a filmar, mientras un chico. Se cayó en la moto, se rompió 
+Todo estaba Sufriendo agonizando y ese video me quedaba muy impactado O 
+sea me quedé. Te quedas mal y otro se reían y ya estaban acostumbrados a eso, 
+pero a mí me
+01:12:08 María F.L.: Sí obvio
+01:12:12 Héctor D.C.S.: quedó dos semanas en la cabeza esos videos. Y después 
+ya no los abrí más, porque ya dije.
+01:12:17 Alvaro J.C.: Eso es lo que dicen que internet el acceso a internet, te 
+sensibiliza tan rápido porque tenés el acceso básicamente a todo.
+01:12:24 Héctor D.C.S.: No, cuando lo ves continuamente después ya se te quita 
+la sensibilidad. Por eso no, no, no habría que consumirlos.
+01:12:33 Alvaro J.C.: No es terrible terrible.
+01:12:35 María F.L.: Bueno yo les digo, no sé en qué grupo En qué tipo de grupo 
+están ustedes a mí no me pasa eso.
+01:12:41 Héctor D.C.S.: grupo laboral grupo laboral
+01:12:42 María F.L.: Bueno sí, no mi grupo claro Bueno yo no tengo grupo laboral 
+chicos Pero Es raro, qué quiere que le diga Es raro? O sea, yo me creo que me 
+daría como nada, me voy, me voy de grupo llego a ver ese me voy, pero bueno, 
+Nada igual les digo algo más allá de todo esto que estamos hablando, si en algún 
+momento alguien toma conocimiento de que alguien Un conocido o un conocido 
+un conocido tiene este tipo de material en su poder no duden en denunciar. Sí, 
+Porque detrás de todo de toda esa.
+01:13:28 María F.L.: Toda esa esa tenencia Sí hay niños entonces, o sea, esto yo 
+te lo digo así como como profesora como como mujer como como lo que quieran 
+Sí digo denuncien es un momento importante, la verdad es que esto es muy difícil 
+que se pueda erradicar, pero pero bueno Es simplemente qué sé yo Pensar en los 
+menores. Que están sumamente ultrajados, Yo me acuerdo que cuando hice la 
+especialización en grooming.
+01:14:02 María F.L.: Y que también hablábamos un poco de pornografía infantil esto estas personas que ni siquiera se pueden llamar personas. Tenían carpetas 
+donde de repente. Te decían, no sé de cero a seis meses bebés así bebés allá 
+cosas chicos aberrantes aberrantes realmente se los digo. Y la verdad que te 
+genera una impotencia bronca Santo yo lloraba Pero bueno no se puede hacer 
+nada o sea, sí, podemos hacer dentro de lo que está a nuestro alcance que es 
+denunciar y proteger aquellos niños que que nosotros conocemos y y demás 
+Pero pero bueno, la realidad es que de todo esto.
+01:14:55 María F.L.: Que ustedes puedan hoy por hoy saber que lo que es 
+distribución de pornografía infantil tanto aquella persona que que va a producir el 
+material que va a comercializar que va a difundir. Sí está obviamente. Castigada sí 
+y también el simple tenedor o el no tan simple que va a distribuir o comercializar 
+ese material siempre hablando de pornografía infantil también va a ser castigado 
+sí y no se olviden que como les había dicho al principio también se va a castigar a 
+que esa persona que organice eventos donde haya actividades sexuales Que 
+obviamente la lleven adelante los menores sí, y que no tan solo que termina ahí, 
+sino que también al organizador lo va a acompañar toda aquella persona que 
+acceda a ese tipo de eventos, sí.
+01:16:05 María F.L.: Qué pasó se cansaron?
+01:16:09 Joaquin G.M.: Sí quedó claro, igual puede ser que te escuche más bajito 
+profe.
+01:16:14 María F.L.: no
+01:16:14 Alvaro J.C.: En un momento en un momento se como que se alejó.
+01:16:15 Joaquin G.M.: Sí, sí, sí sí.
+01:16:17 María F.L.: Me escuchan ahora Ah bueno, bueno, vamos a terminar lo que 
+es pornografía
+01:16:18 Alvaro J.C.: Sí sí perfecto.
+01:16:26 María F.L.: infantil con esto que les comparto acá hoy por hoy. Lo que lo 
+que vemos es que el tema de la Inteligencia artificial puede recrear un montón de 
+cosas nosotros hasta lo que sabemos es lo que vimos recién sí, fotos videos de 
+niños en determinadas posiciones o llevando adelante actividades sexuales 
+mostrando sus genitales y demás hasta ahí sabemos que son niños reales o que 
+en todo caso puede ser una persona mayor de edad con con una imagen muy 
+muy alineada, Sí pero el tema Es que hoy por hoy con la Inteligencia artificial.01:17:15 María F.L.: podemos también hacer un montón de cosas y de hecho se 
+hacen Sí ustedes se acuerdan que hay un caso, no me acuerdo si fue acá o en 
+Estados Unidos donde un un chico hizo un video con con una amiga o de una 
+amiga
+01:17:33 Franco E.: ac aca profe en el norte
+01:17:39 María F.L.: Acá profe acá en el norte a ver.
+01:17:39 Franco E.: un pibe de las compañeras de clase
+01:17:43 María F.L.: Ahí está ese. Sí sí Bueno ahí está ahí lo está contando que fue 
+acá sí con Inteligencia artificial, Qué hizo creo que un video un video 
+pornográfico. entonces, o sea Hoy por hoy eso también se está evaluando, sí.
+01:18:08 Franco E.: hasta donde se, fotos o videos de las compaeras en bolas
+01:18:14 María F.L.: Claro, ahí está. Es lo que está diciendo Franco sí Entonces 
+qué es lo que
+01:18:16 Franco E.: compañeras*
+01:18:21 María F.L.: pasa hoy por hoy con esta reforma que que el gobierno quiere 
+hacer está incluido el tema de la Inteligencia artificial, sí, O sea que quiere crear 
+un capítulo. Que donde estén todos los delitos informáticos y que está incluida 
+también el tema de la creación de imágenes falsas hechas por la Inteligencia 
+artificial. Sí Entonces eso sería algo novedoso y está buenísimo porque 
+obviamente no lo tenemos en el código penal esa figura Así que la verdad que me 
+parece que está bueno. A ver Solo que voy a hacer es continuar para terminar 
+con este tema.
+01:19:08 María F.L.: Y vamos a terminar antes hoy sí, así que no vamos a hacer 
+recreo, vamos a hacer rápido las modalidades que nos quedan. Y terminamos 
+antes, Qué les parece.
+01:19:20 Héctor D.C.S.: Profe a mí no me quedó claro la filmina anterior que decía 
+algo de edades de Trece y de Catorce años.
+01:19:26 María F.L.: Esos son los agravantes. Que por eso no se los digo. Porque 
+no los voy a tomar las penas saben lo que es un agravante.
+01:19:32 Héctor D.C.S.: No sé explicarlo. A mayor gravedad más pena.
+01:19:42 María F.L.: Nada, antes es de grave. Sí, O sea si yo digo a ver te pongo 
+como ejemplo. la tenencia de pornografía infantil está castigada con una pena de 
+prisión de cuatro meses a un año Sí eso es lo que dice, Fíjate que el agravante de esto O sea de la tenencia es cuando hay una finalidad de distribuir o 
+comercializar. el material pornográfico Sí, es decir, la pena mínima por por el 
+simple hecho de tener pornografía infantil la pena es de cuatro meses a un año 
+ahora si vos la tenés para distribuir y comercializar la pena va a ser más elevada 
+Ese es el agravante.
+01:20:37 María F.L.: de seis meses a dos años se entendió claro entonces
+01:20:44 Héctor D.C.S.: O sea no puedo tener puedo distribuir y además puedo 
+ser productor es peor todavía el último. un productor
+01:20:54 María F.L.: claro
+01:20:56 Héctor D.C.S.: Sería peor no?
+01:20:57 María F.L.: Y sí Siempre se agrava. Sí, siempre se agrava, o sea siempre 
+que te lo diga la norma, hay algunos casos que no haya agravante, pero por 
+ejemplo no es lo mismo matar a alguien. Un homicidio sí común que matarlo con 
+alevosía o porque era mujer o porque vos tenías un vínculo Sí eso es un 
+agravantes como que agravan la pena la elevan.
+01:21:31 Héctor D.C.S.: Tiene un nombre, no grabado por el vínculo.
+01:21:37 María F.L.: Claro si yo Por ejemplo si mi ex esposo me mata a mí, o sea, 
+va a tener el agravante de por el vínculo que teníamos. Pero eso no va a suceder 
+chicos, Así que no va a pasar.
+01:21:53 Héctor D.C.S.: No, que no pase. Qué cosa manda un mensajito de grupo.
+01:21:58 María F.L.: Nada nada.
+01:21:59 Alvaro J.C.: Potente usted entrena, o sea, para eso está entrenando, así 
+que todo por las dudas.
+01:22:04 María F.L.: Estoy a punto de que se me salga el hombro del lugar estoy 
+haciendo el pullover ese, pero para pero con el banco plano Así que ni me lo 
+digan. Bueno en fin. Acá, ya que el compañero tenía dudas fíjense que en el 
+acceso a espectáculos pornográficos sí tenemos el agravante que hice será 
+reprimido con prisión de un mes a tres años. El que facilitar el acceso a 
+espectáculos pornográficos o suministrarle material pornográfico a menores de 
+14 años Sí porque siempre hablamos de menores de 18 años, pero ya 14 lo 
+tenemos como dentro de los agravantes Por qué Porque es muy chico, Sí lo 
+mismo que los chicos de 13 años eso siempre.
+01:22:58 María F.L.: depende del delito, por ejemplo en el caso de de violaciones No es lo mismo hacerlo a violar a una chica de 18 años que violara una de 13. Sí 
+es distinto. Igual no voy a entrar en ese tema, así que bueno, yo no les voy a 
+tomar agravantes porque no les voy a tomar penas, Por eso es como no sé lo no 
+hice los explico a mí lo que me interesa saber es que ustedes puedan ver que hay 
+determinados conductas que se castigan que están dentro del Código Penal que 
+dicen esta conducta es indebida y obviamente merece ser castigada Entonces es 
+lo único que me importa ustedes sepan Cuáles son las conductas Que 
+obviamente, no hay que llevar adelante, sí, como les decía para poder terminar 
+temprano hoy.
+01:23:56 María F.L.: Vamos a ir rápidamente y desde ya les digo que hay delitos. 
+Hay hay modalidades que faltan Pero sinceramente, eran un montón, así que 
+Vamos a continuar con las modalidades de fraude sí, esto obviamente está dentro 
+del Código Penal Sí en el artículo 173 inciso 16 nos dice que será reprimido con 
+prisión de un mes a seis años, el que defraudaré a otro mediante cualquier 
+técnica de manipulación informática que altera el normal funcionamiento de un 
+sistema informático o la transmisión de datos Sí entonces dicho esto del tema de 
+fraude, o sea aquella persona que lleva adelante un fraude.
+01:24:51 María F.L.: mediante medios tecnológicos sería Y Que obviamente eso 
+provoque provoque un no, un daño sino que haga funcionar hablo en términos 
+Criollos eh provoque el mal funcionamiento Ahí está de algún sistema informático. 
+Bueno la ley que dice vamos a castigarlo, vamos a castigar esta persona, sí. 
+Bueno ahora Sabemos que la ley va a castigar, a que esa persona que lleva 
+adelante una conducta indebida en este caso una defraudación, pero tenemos 
+que ver cuáles son esas defraudaciones y acá.
+01:25:38 María F.L.: Tenemos en primer lugar que está obviamente lo conocemos 
+todos es el más el más popular. Qué pasa con el fishington Quiénes de ustedes 
+fueron víctimas a ver?
+01:26:00 Alvaro J.C.: Sí yo creo que todos aunque sea voy a intentar ahí, me 
+llamaron de MercadoLibre diciéndome mira que tenés una deuda con nosotros 
+sacar una heladera tu nombre Así que te enviamos un mensaje con un código. Y 
+ya no, no te voy a dar nada, pero buscaban datos acceso a mi teléfono a través 
+de ese código.
+01:26:21 María F.L.: claro bueno01:26:24 Alvaro J.C.: o sea
+01:26:24 Héctor D.C.S.: a mí me pasó una vez que no lo hice porque me di cuenta, 
+pero una era una página de Creo que de un banco da igual, pero no tan igual 
+mismos colores mismo mismo mismo mismo diseño. pero la URL era 
+completamente distinta ahí me di cuenta Esto fue ojo Esto fue hace como 12 años 
+atrás
+01:26:51 María F.L.: claro
+01:26:53 Héctor D.C.S.: Quizás no era tan no estaba tan conocido caía fácil, pero 
+bueno, la URL era
+01:26:54 María F.L.: Tan conocido claro.
+01:27:02 Héctor D.C.S.: una las cosas que uno tenía que prestar atención. es que 
+sabía el que no sabía caía es el mismo entonces Sencillamente lo que intentaba 
+hacer la página esa que calculo que Era esa la intención, es que pongas tu correo. 
+Tu clave te va a patear. te la vuelve a pedir otra vez te va a patear porque 
+obviamente no va a entrar y después te va a decir No sé no se puede ingresar, 
+pero ya te captaron esos datos te hacen un
+01:27:32 Martín B.: cómo perdura en el tiempo el phishing
+01:27:34 María F.L.: Que ese también lo vamos a ver ahora entonces el fishing Sí 
+el philling es como bien. Dice una técnica donde lo que se va a hacer es suplantar 
+una identidad. Y de esa forma se va a robar información personal o financiera sí 
+es básicamente eso. Ahora lo que vamos a ver acá son los tipos de fisting que 
+hay sí, acá yo les puse, simplemente cuatro hay un par más, pero la verdad es 
+que si no, no terminábamos más con este tema porque son muchos y aparte van 
+surgiendo todo el tiempo. Sí tenemos el espíritu, es un ataque dirigido a una 
+persona en particular o a una organización en este caso se investiga la formación 
+la información de la víctima y no son correos masivos, o sea.
+01:28:32 María F.L.: Nosotros entendemos que el fishing es como le enviamos, o 
+sea, se le envía correos a todo el mundo. Sí no se distingue bueno, acá lo que 
+tiene es que es más singular. Sí va dirigido a una persona o a una empresa en 
+particular, eso es. El después tenemos el fishing por clonación este tipo de 
+fishing, copia y utiliza correos de empresas o proveedores oficiales para robar 
+información personal de los usuarios. Bueno, acá tenemos este que la verdad que 
+yo no le no les traje los ejemplos tenía ejemplo para todos, pero ya les digo no terminábamos más alguien le pasó esto. Porque ahora me parece que está de 
+moda.
+01:29:23 Héctor D.C.S.: red extremo era en vez de no escanearlo no vayan a 
+saltimos no Don Telmo
+01:29:27 María F.L.: A nadie le pasó.
+01:29:28 Alvaro J.C.: el QR philling, bueno, inclusive eso tenés que tener un 
+cuidado porque
+01:29:30 María F.L.: sí, simula un código un código QR
+01:29:34 Alvaro J.C.: inclusive ahora si vas por la calle le dije, hay códigos QR que 
+dicen, conéctate acá, que tenemos los mejores descuentos en tiendas, te 
+mostramos acá en San Telmo encontramos unos cuantos qrs, que no eran Que no 
+no tienen nada que ver y después te saltaba una página errónea como que página 
+no encontrada y bueno. eran estafa pero
+01:29:55 María F.L.: Mira Bueno chicos Entonces no vayan a San Telmo por favor
+01:29:59 Alvaro J.C.: No, no escanee qrs, que no conoce.
+01:30:02 María F.L.: yo No, no, no vayan a salmo aparte.
+01:30:10 Héctor D.C.S.: Es mala.
+01:30:11 María F.L.: Es caro San Telmo chicos es caro?
+01:30:16 Alvaro J.C.: Hago pelota la moto.
+01:30:17 María F.L.: Nada igual lo que tiene lindos en las calles empedradas, eso 
+me encanta. A mí me gusta San Telmo me gusta sobre todas las ferias que se 
+arma ahí en Plaza de borrego, Está buena Pero bueno está muy dolarizado, viste 
+Pero bueno Ahí está tenemos lo de también esta modalidad no este este tipo. Así 
+que hay que tener cuidado con lo que escaneamos angler fishing este tipo de 
+ataques ocurren en las redes sociales o servicios de mensajería donde los 
+atacantes te hacen pasar por el servicio al cliente de la plataforma y de esta 
+manera roban las credenciales de acceso a las redes. Alguno le pasó esto. Son 
+como modalidades nuevas, No qué dicen.
+01:31:11 Martin U.P.: la verdad que eso
+01:31:14 María F.L.: sí
+01:31:15 Héctor D.C.S.: A mí no me pasó, pero yo se lo sé así lo hice.
+01:31:18 María F.L.: claro
+01:31:19 Héctor D.C.S.: Lo hice yo no? no hace tiempo hace tiempo atrás daba clases de reparación de computadoras y Y le saqué la O sea para mostrar como 
+para especie de práctica. Le obtuve todos los correos y contraseñas de ventas y 
+se la mostraba obviamente no la utilicé, pero nada sí, está bueno Y es más 
+cuando uno se conecta. a una red pública
+01:31:56 María F.L.: sí
+01:31:56 Héctor D.C.S.: Ahí también es bastante j***** porque se puede obtener 
+todo.
+01:32:02 María F.L.: Como yo como yo yo estoy en una red pública en este 
+momento chicos.
+01:32:06 Héctor D.C.S.: Bueno, cuidado.
+01:32:07 Alvaro J.C.: 
+01:32:09 María F.L.: O sea, bueno, es que qué quieren que haga qué va a hacer? 
+Me tenía que conectar, me tenía que dar la clase.
+01:32:17 Héctor D.C.S.: Podría usar alguna VPN o algún algo? algo
+01:32:24 María F.L.: algo para que me proteja la computadora claro
+01:32:29 Héctor D.C.S.: la computadora personal que tiene todo ahí
+01:32:35 María F.L.: Es mi computadora personal chicos.
+01:32:36 Héctor D.C.S.: Bueno, tranquilamente hay.
+01:32:38 María F.L.: Sí, Y sí, pero bueno, qué va a hacer es lo que hay nada. Hoy 
+tenía ganas de
+01:32:39 Héctor D.C.S.: Se obtiene todo.
+01:32:47 María F.L.: despejarme Y dije, voy a dar la clase en otro lado Sí así que 
+acá estamos para ermiteando, no sé cómo se dice hablando de eso.
+01:32:59 Martin U.P.: En teoría en teoría para dar una clase no sería tan peligroso 
+el tema que que no te metas a la cuenta del banco estando en una red pública.
+01:33:06 María F.L.: Ah no no, no, no, eso no eso Generalmente no lo hago. no
+01:33:11 Martin U.P.: O sea, todo lo que hagas de una República alguien lo puede 
+ver.
+01:33:16 María F.L.: Claro, bueno, no tengo mucho para que vean muy muy 
+aburrido, son todas demandas.
+01:33:24 Héctor D.C.S.: Sí, la clave de acceso a su cuenta de istea. Tu correo y 
+seguramente también el correo es abusado su correo personal.
+01:33:34 María F.L.: Sí mi correo personal01:33:35 Héctor D.C.S.: Para acceder a tu WhatsApp para acceder a su banco y 
+en su correo personal seguramente ahí tiene anotaciones e información para que 
+recuerden. su nombre documento
+01:33:47 María F.L.: saben que no saben que no no
+01:33:53 Héctor D.C.S.: Y demás. Driver con el rey puedo entrar también
+01:33:58 María F.L.: Tengo nada de eso chicos, la verdad les digo. No no tengo en 
+el mail, no tengo nada. Así que nada igual gracias por el consejo, vamos a seguir 
+con Smith sí es un ataque dirigido que es un ataque dirigido que puede ser 
+dirigido o enviado de
+01:34:14 Iván H.: muchas preguntas, capaz ya entro jaja
+01:34:19 María F.L.: manera masiva a través de mensajes de texto esto Les pasa a 
+ustedes que a veces reciben el mensaje de texto de correo argentino. Y que de 
+repente aparece un link y dice entró el link para poder actualizar tu dirección.
+01:34:43 Héctor D.C.S.: Lo que le mande la otra vez así como tres casa atrás lo 
+compartía con el grupo.
+01:34:47 María F.L.: Ahí está. Bueno ahí está a Héctor Le llegó a quién más le 
+pasó? A mí me pasa
+01:34:56 Héctor D.C.S.: y también en el creo que en el grupo de WhatsApp
+01:34:57 María F.L.: siempre siempre me pasa.
+01:35:03 Héctor D.C.S.: creo Creo
+01:35:05 Alvaro J.C.: Sí profe siempre están llegando ese vos ves la el spam. El 
+correo electrónico está lleno de del banco francés, no solamente de eso banco 
+francés de todos los bancos correo argentino, andreani, que si tenemos tu 
+paquete, pero yo no
+01:35:15 María F.L.: sí
+01:35:17 Alvaro J.C.: tengo ningún paquete.
+01:35:19 María F.L.: Es verdad, eso sí, después tenemos Este es un ataque similar 
+al de smithing pero donde los mensajes son enviados a servicios de mensajería 
+instantánea como WhatsApp y Telegram Esto me pasa chicos Esto me pasa en 
+Telegram real se los digo el otro día le contaba a Carlos Al profe que de repente 
+me llega un un mensaje en Telegram y las figuras, o sea la foto es de una chica 
+que me pone Hola Cómo estás Sí esta no la conozco viste.
+01:36:00 Alvaro J.C.: Sí, totalmente todos los días me llega una asiática algún es lo más
+01:36:03 María F.L.: Bueno claro Bueno eso me me pasa que me me llega muy de 
+vez en cuando Telegram
+01:36:05 Alvaro J.C.: clásico, la ciática que ves que es súper modelo diciendo 
+Hola Cómo estás Ah sí sí, bloqueado y Listo Ya está, pero todos los días.
+01:36:19 María F.L.: Y Carlos me comentaba que es parte de la ingeniería social.
+01:36:24 Iván H.: que busca asesor, porque esta de visita, me toco jaja
+01:36:25 María F.L.: Por eso te llegan, me dice Bueno no sé, no sé, me respondió 
+así. No sé qué quiere decir eso, o sea, yo que tengo que ver. Cómo me va a llevar 
+un mensaje de una ciática y aparte me me hacen propuestas laborales, o sea 
+nada que ver. No sé chicos, la verdad.
+01:36:51 Héctor D.C.S.: Lo que pasa que previo para hacer eso hay una hay una 
+especie de escaneo masivo tiran mails para todo y algunos es como tirar la red en 
+el mar alguno va a caer y más o menos se centran en un en un sector y
+01:37:07 María F.L.: Claro, chicos Pero una una una, o sea, un mensaje de 
+Telegram una chica asiática, no sé una modelo como le pasó acá al compañero. 
+Eso le puede llegar a un hombre pero no. A mí Dios hacemos ingeniería social.
+01:37:29 Héctor D.C.S.: No se crea porque si le llega la foto de una chica usted 
+puede bajar la guardia porque dice Ah Es una mujer entonces puedo puede 
+entrar. Hay que pensar también en si es un hombre, no?
+01:37:39 María F.L.: Yo estoy muy incrédula igual. Muy desconfiada no creo en la 
+generosidad del otro siempre hay algo detrás de eso. No sé, pero bueno, ahí 
+tenían otro otro otra modalidad. Sí tenemos también este que es el este, lo 
+conocemos todo sobre todo cuando pasó en cuando tuvimos la pandemia, sí, 
+engaño que se realiza vía telefónica donde el ciberdelincuente, llama a la víctima 
+haciéndose pasar por una persona llegada o alguien de la organización para 
+obtener información personal.
+01:38:14 María F.L.: Sí, esto puede Tenemos un montón de de formas, o sea, 
+tenemos cuando pasó lo de la pandemia, el tema de anses, No sé no lo han 
+llamado de por la vacuna. Sí quizás también puede ser un secuestro. O sea, 
+déjame la plata. Yo tengo un bueno tenía una conocida una ex amiga que le había 
+pasado al hermano que nada le llamaron a la madre le Está secuestrado tenés 
+que poner tanta cantidad de plata en una esquina y nada fue y dejó la plata ahí y bueno. Y en el pibe nunca estuvo secuestrado. Así que tenemos eso también 
+farming.
+01:39:00 María F.L.: miren este Hay una manipulación de un sistema informático 
+de las direcciones dns. esto no sería como lo que te pasó a vos Héctor
+01:39:17 Héctor D.C.S.: la víctima Pero lo que pasa que la URL O sea la dirección 
+que ves arriba. Uno cuando dice Santander siempre tiene las hdps. La dirección 
+correcta este tenía la misma facha pero con otra dirección con otra.
+01:39:37 María F.L.: O sea, tenía como como toda la el diseño de la página era 
+igual, no?
+01:39:41 Héctor D.C.S.: Exactamente entonces lo que quería explicar en ese 
+momento es que te aparece
+01:39:43 María F.L.: claro
+01:39:47 Héctor D.C.S.: para acceder a tu a tu banco con el nombre de usuario y 
+contraseña como uno pone el usuario y contraseña Y esa información se capta. Y 
+no te va a dejar, te voy a decir página no encontrada etcétera Pero eso ya lo 
+tienen.
+01:40:02 María F.L.: claro
+01:40:03 Héctor D.C.S.: Es un uso una especie de keylogger para captar eso 
+Entonces ahí uno se mete.
+01:40:09 María F.L.: Bueno, justamente es lo que vamos a ver ahora sí, el keylover 
+es un Hardware Software malicioso que registra los tipeos que se realizan en el 
+teclado como objetivo de robar, la información Sí yo le preguntaba a Carlos Cómo 
+podría
+01:40:25 María F.L.: pasar eso, cómo alguien puede meterse en mi computador y 
+robarme la información como alguien, o sea, va a robarme información con tan 
+solo yo tocar mi teclado. Alguien se imagina ustedes, qué creen?
+01:40:44 Héctor D.C.S.: hay un software que está encargado de detectar todos 
+los tipeos del teclado, eso es a nivel software y se inicia en segundo plano en la 
+computadora, no te
+01:40:53 Franco E.: ponen un USB en tu PC
+01:40:53 Héctor D.C.S.: das cuenta que está ahí entonces todo lo que
+01:40:54 María F.L.: Y cómo cómo ingresa a mi computadora?
+01:40:56 Franco E.: el pendrive01:40:57 Héctor D.C.S.: Por a través de un link o a través de de un software que 
+instalaste tipo un
+01:40:59 Franco E.: registra los keystrokes
+01:41:01 Héctor D.C.S.: troyano. se instala y por ahí no hace nada, pero está se 
+está ejecutando o si no se tienen acceso a tu computadora, pueden
+01:41:12 Franco E.: eso es un keylogger
+01:41:13 Héctor D.C.S.: enchufar si es Hardware lo pueden poner a un aparatito 
+dentro del teclado Para que te capture también las teclas Y si vos tipeaste en tu 
+banco en tu página web y peaste. Cinco veces el nombre de usuario cinco veces 
+la contraseña. Porque Pensaste que te equivocaste Y no entraste, no ingresaste. 
+Sabe que es esa es la contraseña, sabes que esa es la clave y la contraseña.
+01:41:36 Franco E.: se hacia mucho en los cybers
+01:41:41 Héctor D.C.S.: del usuario
+01:41:42 María F.L.: Les cuento algo muy bien, les cuento algo. Saben que el lunes 
+un alumno me contó sobre justamente este caso de keylogger que dice que no, 
+no sé, no sé dónde pasó Si acá en Argentina o en otro país.
+01:41:56 Héctor D.C.S.: sep
+01:42:00 María F.L.: Que una persona estaba mirando, no sé un video, no sé algo 
+en vivo como hacen los youtubers y y captó, no sé cómo me lo explicó como con 
+un video con el con el sonido los teclados que iba tocando la persona que 
+transmitía y con eso pudo sacarle un montón de información, no sé si alguien 
+escuchó eso.
+01:42:34 Joaquin G.M.: Sí, sí sí.
+01:42:34 María F.L.: chicos no podía creer
+01:42:35 Joaquin G.M.: A ver, Depende depende el teclado que tenga Pero si hay 
+forma hay forma de hacer esas cosas. se puede
+01:42:43 María F.L.: Qué peligro, Qué peligro
+01:42:44 Joaquin G.M.: Es real, sí, es un peligro.
+01:42:47 María F.L.: Qué peligro, bueno, ya vamos terminando tenemos a este. 
+También conocido ransomware Es un malware que cifra toda la información de la 
+víctima impidiendo que se pueda acceder a ellos, o sea. Secuestran los archivos y 
+después pide el rescate Sí el tema es cuando pagamos rescate nos devuelven 
+esa información ustedes, qué opinan? Yo creo que no. no O nunca te robaron archivos, nunca te roban información claro.
+01:43:27 Martín B.: no nunca
+01:43:30 María F.L.: Bueno ahí tenemos otra modalidad Y por último nos vamos a 
+este skimming lo conocen. Saben cuál es?
+01:43:46 Héctor D.C.S.: No lo conozco.
+01:43:48 María F.L.: no
+01:43:48 Joaquin G.M.: Ahí lo estoy leyendo. Creo que sí, creo que lo conocía.
+01:43:50 Alvaro J.C.: En los cajeros automáticos ponían pegados en la maquinita 
+sobre el donde colocaba la tarjeta y robaban los datos.
+01:43:56 María F.L.: Claro vos ponés, la tarjeta y ya. Está, pero aparte otra cosa 
+también no pasaban en las puertas de los cajeros. Jonathan son en la puerta, 
+sino que también, o sea, no tan solo en el donde uno introduce la tarjeta para 
+sacar plata, sino también en la puerta.
+01:44:21 Alvaro J.C.: eso es raro igual de las entradas profe sabe que una vez en 
+el Santander río que está al lado del Sheraton Estaba con un amigo y no sé qué 
+se nos pasó por la cabeza y dijo Bueno necesita entrar. Y agarró la sube, 
+pasamos la sube y abrió la puerta.
+01:44:42 María F.L.: obvio Y vos pasás la tarjeta de la prepaga y también, o sea
+01:44:45 Alvaro J.C.: Yo no sabía, no sé cómo funciona ahí el tema de los datos.
+01:44:47 María F.L.: Bueno les cuento chicos este tema esta Este skimming, sí, yo 
+ya le digo así con confianza a Carlos Entonces ya saben que hablo de Carlos el 
+profe, no? Él Generalmente me ha enseñado muchas cosas algunas las apliqué 
+otras no, ya hace varios años que el profe me dice Cuando abras, la puerta de un 
+cajero automático Ni se te ocurra pasar la tarjeta. Pasa cualquier tarjeta menos 
+esa Pásala del club, Pásala de la prepaga, pasa la sube. Pasa tu credencial, no 
+pases nunca la tarjeta de débito Así que yo dije no, pero come abrir la puerta, sí 
+chicos. O sea, yo pasaba reales, digo, pasaba la sube y pasaba la tarjeta de la 
+cobertura médica y me abría la puerta.
+01:45:43 María F.L.: así que yo no lo podía creer, pero son esos tips que me dio él 
+y aprendí aprendí a la fuerza pero aprendí Así que Álvaro Muy bien, sí sí.
+01:46:00 Alvaro J.C.: Son detalles viste que hoy en día hay que estar atentos.
+01:46:00 María F.L.: Sí, sí, sí, sí, sí, sí sí, así que bueno. Esta creo que era la última 
+Sí con esta terminamos Sí después yo se los voy a subir Ya corregí. Lo de qué les había dicho Aquí ya lo corregí. Bueno chicos Alguna duda alguna pregunta 
+respecto de lo que vimos hoy?
+01:46:30 Alvaro J.C.: Todo perfecto por mi parte.
+01:46:31 María F.L.: Les gustó les gustó.
+01:46:34 Joaquin G.M.: Claro, muy bueno, sí, sí.
+01:46:35 Alvaro J.C.: Estoy un poquito más. ayudado
+01:46:42 María F.L.: Bueno si alguien quiere más información sobre esto y demás 
+yo les puedo pasar unos datos que tengo porque hice un curso. Que es sobre 
+ciberseguridad? Y justo nada ahí como mucha información y la que pude 
+recolectar para no cargar tanto la clase la pude agregar acá, pero si alguien tiene 
+más información algunos datos, qué sé yo Nada ya saben, me pueden escribir 
+donde ustedes gusten y les paso información que es sumamente útil también 
+tengo un poco de evidencia digital, sí que por ahí los puede servir sino nada.
+01:47:30 María F.L.: Cuando termine la cursada me pueden escribir por mail, les 
+mando le mando información pero pero bueno, me alegro que les haya gustado la 
+clase de hoy a mí me encantó. Y nos veremos la clase que viene entonces. Así 
+podemos hacer un un repaso de lo que vamos a ver en el examen, que ya saben 
+que va a entrar todo absolutamente todo lo que vimos. Hasta ahora sí, así que 
+bueno, chicos. Que tengan una buena semana. Cualquier cosa me mandan un 
+mail y nos vemos, sí.
+01:48:17 Franco E.: gracias profe, igualmente
+01:48:19 Alvaro J.C.: Muchas gracias profe buena semana.
+01:48:21 Franco E.: buenas noches desde acá
+01:48:21 Martín B.: Gracias profe
+01:48:22 María F.L.: Buena semana a todos.
+01:48:22 Joaquin G.M.: Dale muchas gracias, profe, saludos.
+01:48:23 Fernando V.: 
+View original transcript at Tactiq.
